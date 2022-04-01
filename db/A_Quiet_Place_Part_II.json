@@ -1,0 +1,71 @@
+{
+    "id": 331,
+    "title": "A Quiet Place Part II",
+    "poster": "quiet_place_2",
+    "trailer": "BpdDN9d9Jio",
+    "genres": [
+        "Sci-Fi",
+        "Horror"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "John Krasinski"
+    ],
+    "producers": "Michael Bay, Andrew Form, Brad Fuller, John Krasinski",
+    "writtens": "John Krasinski",
+    "music": "Marco Beltrami",
+    "cinema": "Polly Morgan",
+    "year": 2021,
+    "time": 97,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 297,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Emily Blunt",
+            "character": "Evelyn Abbott"
+        },
+        {
+            "name": "John Krasinski",
+            "character": "Lee Abbott"
+        },
+        {
+            "name": "Millicent Simmonds",
+            "character": "Regan Abbott"
+        },
+        {
+            "name": "Noah Jupe",
+            "character": "Marcus Abbott"
+        },
+        {
+            "name": "Cillian Murphy",
+            "character": "Emmett"
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": "Man on Island"
+        }
+    ],
+    "synopsis": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+    "collections": [
+        "Invaders"
+    ],
+    "parts": {
+        "title": "Quiet Place",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202106
+}

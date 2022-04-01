@@ -1,0 +1,78 @@
+{
+    "id": 292,
+    "title": "Focus",
+    "poster": "focus",
+    "trailer": "MxCRgtdAuBo",
+    "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Glenn Ficarra",
+        "John Requa"
+    ],
+    "producers": "Denise Di Novi",
+    "writtens": "Glenn Ficarra, John Requa",
+    "music": "Nick Urata",
+    "cinema": "Xavier Grobet",
+    "year": 2015,
+    "time": 105,
+    "countries": [
+        "USA",
+        "Argentina"
+    ],
+    "budget": {
+        "value": 50,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 159,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": "Nicky"
+        },
+        {
+            "name": "Margot Robbie",
+            "character": "Jess"
+        },
+        {
+            "name": "Adrian Martinez",
+            "character": "Farhad"
+        },
+        {
+            "name": "Gerald McRaney",
+            "character": "Owens"
+        },
+        {
+            "name": "Rodrigo Santoro",
+            "character": "Rafael Garriga"
+        },
+        {
+            "name": "B. D. Wong",
+            "character": "Liyuan Tse"
+        },
+        {
+            "name": "Robert Taylor",
+            "character": "McEwen"
+        },
+        {
+            "name": "Dominic Fumusa",
+            "character": "Jared Mukulski"
+        }
+    ],
+    "synopsis": "In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201502
+}

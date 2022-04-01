@@ -1,0 +1,71 @@
+{
+    "id": 320,
+    "title": "Lilo & Stitch",
+    "poster": "lilo_stitch",
+    "trailer": "9OAC55UWAQs",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Animation"
+    ],
+    "director": [
+        "Dean DeBlois",
+        "Chris Sanders"
+    ],
+    "producers": "Clark Spencer",
+    "writtens": "Chris Sanders, Dean DeBlois",
+    "music": "Alan Silvestri",
+    "year": 2002,
+    "time": 85,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 80,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 273,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daveigh Chase",
+            "character": "Lilo"
+        },
+        {
+            "name": "Chris Sanders",
+            "character": "Stitch"
+        },
+        {
+            "name": "Tia Carrere",
+            "character": "Nani"
+        },
+        {
+            "name": "David Ogden Stiers",
+            "character": "Jumba"
+        },
+        {
+            "name": "Kevin McDonald",
+            "character": "Pleakley"
+        },
+        {
+            "name": "Ving Rhames",
+            "character": "Cobra Bubbles"
+        },
+        {
+            "name": "Zoe Caldwell",
+            "character": "Grand Councilwoman"
+        }
+    ],
+    "synopsis": "A young and parentless girl adopts a 'dog' from the local pound, completely unaware that it's supposedly a dangerous scientific experiment that's taken refuge on Earth and is now hiding from its creator and those who see it as a menace.",
+    "collections": [
+        "Invaders"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200212
+}

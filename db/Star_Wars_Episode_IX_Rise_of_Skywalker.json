@@ -1,0 +1,72 @@
+{
+    "id": 224,
+    "title": "Star Wars Episode IX: Rise of Skywalker",
+    "poster": "star_wars_episode_IX",
+    "trailer": "8Qn_spdM5Zg",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Lucasfilm"
+    ],
+    "director": [
+        "J.J. Abrams"
+    ],
+    "producers": "J.J. Abrams, Michelle Rejwan, Kathleen Kennedy",
+    "writtens": "Chris Terrio, J.J. Abrams",
+    "music": "John Williams",
+    "cinema": "Dan Mindel",
+    "year": 2019,
+    "time": 141,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 515,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.074,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Adam Driver",
+            "character": "Kylo Ren"
+        },
+        {
+            "name": "Daisy Ridley",
+            "character": "Rey"
+        },
+        {
+            "name": "John Boyega",
+            "character": "Finn"
+        },
+        {
+            "name": "Oscar Isaac",
+            "character": "Poe Dameron"
+        },
+        {
+            "name": "Ian McDiarmid",
+            "character": "Emperor Palpatine"
+        },
+        {
+            "name": "Billy Dee Williams",
+            "character": "Lando Calrissian"
+        }
+    ],
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "synopsis": "The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end.",
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 12
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201912
+}

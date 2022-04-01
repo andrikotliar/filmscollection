@@ -1,0 +1,114 @@
+{
+    "id": 34,
+    "title": "The Matrix",
+    "poster": "matrix_1",
+    "trailer": "m8e-FF8MsqU",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "The Wachowski Brothers"
+    ],
+    "producers": "Joel Silver",
+    "writtens": "The Wachowski Brothers",
+    "music": "Don Davis",
+    "cinema": "Bill Pope",
+    "year": 1999,
+    "time": 136,
+    "countries": [
+        "USA",
+        "Australia"
+    ],
+    "budget": {
+        "value": 63,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 463,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": "Neo"
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": "Morpheus"
+        },
+        {
+            "name": "Carrie-Anne Moss",
+            "character": "Trinity"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Agent Smith"
+        },
+        {
+            "name": "Gloria Foster",
+            "character": "Oracle"
+        },
+        {
+            "name": "Joe Pantoliano",
+            "character": "Cypher"
+        }
+    ],
+    "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "collections": [
+        "Legends",
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Film Editing",
+                "Best Sound",
+                "Best Effects (Sound Effects Editing)",
+                "Best Effects (Visual Effects)"
+            ]
+        },
+        {
+            "title": "Golden Globes",
+            "nominations": [
+                "Best Actress in a Leading Role",
+                "Best Actor in a Leading Role",
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Sound",
+                "Best Achievement in Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Director"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie",
+                "Best Male Performance",
+                "Best Fight"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Matrix",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199903
+}

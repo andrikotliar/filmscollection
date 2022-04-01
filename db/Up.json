@@ -1,0 +1,81 @@
+{
+    "id": 326,
+    "title": "Up",
+    "poster": "up",
+    "trailer": "ORFWdXl_zJ4",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "Pete Docter"
+    ],
+    "producers": "Jonas Rivera",
+    "writtens": "Bob Peterson, Pete Docter",
+    "music": "Michael Giacchino",
+    "year": 2009,
+    "time": 96,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 735,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Edward Asner",
+            "character": "Carl Fredricksen"
+        },
+        {
+            "name": "Christopher Plummer",
+            "character": "Charles Muntz"
+        },
+        {
+            "name": "Jordan Nagai",
+            "character": "Russell"
+        },
+        {
+            "name": "Bob Peterson",
+            "character": "Dug"
+        }
+    ],
+    "synopsis": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Music Written for Motion Pictures",
+                "Best Animated Feature Film of the Year"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Score (Michael Giacchino)",
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200905,
+    "characters": 3
+}

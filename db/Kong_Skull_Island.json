@@ -1,0 +1,77 @@
+{
+    "id": 170,
+    "title": "Kong: Skull Island",
+    "poster": "monsterverse_2",
+    "trailer": "44LdLqgOpjo",
+    "genres": [
+        "Action",
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Jordan Vogt-Roberts"
+    ],
+    "producers": "Thomas Tull, Mary Parent, Jon Jashni",
+    "writtens": "Dan Gilroy, Max Borenstein, Derek Connolly",
+    "music": "Henry Jackman",
+    "cinema": "Larry Fong",
+    "year": 2017,
+    "time": 118,
+    "countries": [
+        "USA",
+        "China"
+    ],
+    "budget": {
+        "value": 185,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 567,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Hiddleston",
+            "character": "James Conrad"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Preston Packard"
+        },
+        {
+            "name": "Brie Larson",
+            "character": "Mason Weaver"
+        },
+        {
+            "name": "John C. Reilly",
+            "character": "Hank Marlow"
+        },
+        {
+            "name": "John Goodman",
+            "character": "Bill Randa"
+        },
+        {
+            "name": "Corey Hawkins",
+            "character": "Houston Brooks"
+        },
+        {
+            "name": "John Ortiz",
+            "character": "Victor Nieves"
+        }
+    ],
+    "synopsis": "After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong, and must fight to escape a primal Eden.",
+    "collections": [
+        "Monsters"
+    ],
+    "parts": {
+        "title": "Monsterverse",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201703
+}

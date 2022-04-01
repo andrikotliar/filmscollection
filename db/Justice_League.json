@@ -1,0 +1,126 @@
+{
+    "id": 163,
+    "title": "Zack Snyder's Justice League",
+    "poster": "justice_league",
+    "trailer": "vM-Bja2Gy04",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "HBO Max",
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Zack Snyder"
+    ],
+    "producers": "Charles Roven, Deborah Snyder",
+    "writtens": "Chris Terrio",
+    "music": "Junkie XL",
+    "cinema": "Fabian Wagner",
+    "year": 2021,
+    "time": 242,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 300,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Affleck",
+            "character": "Bruce Wayne / Batman"
+        },
+        {
+            "name": "Henry Cavill",
+            "character": "Clark Kent / Superman"
+        },
+        {
+            "name": "Amy Adams",
+            "character": "Lois Lane"
+        },
+        {
+            "name": "Gal Gadot",
+            "character": "Diana Prince / Wonder Woman"
+        },
+        {
+            "name": "Ezra Miller",
+            "character": "Barry Allen / The Flash"
+        },
+        {
+            "name": "Jason Momoa",
+            "character": "Arthur Curry / Aquaman"
+        },
+        {
+            "name": "Ray Fisher",
+            "character": "Victor Stone / Cyborg"
+        },
+        {
+            "name": "Jeremy Irons",
+            "character": "Alfred"
+        },
+        {
+            "name": "Diane Lane",
+            "character": "Martha Kent"
+        },
+        {
+            "name": "Connie Nielsen",
+            "character": "Queen Hippolyta"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "Commissioner Gordon"
+        },
+        {
+            "name": "Ciaran Hinds",
+            "character": "Steppenwolf"
+        },
+        {
+            "name": "Ray Porter",
+            "character": "Darkseid"
+        },
+        {
+            "name": "Ryan Zheng",
+            "character": "Ryan Choi"
+        },
+        {
+            "name": "Amber Heard",
+            "character": "Mera"
+        },
+        {
+            "name": "Joe Morton",
+            "character": "Silas Stone"
+        },
+        {
+            "name": "Joe Manganiello",
+            "character": "Deathstroke"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Vulko"
+        },
+        {
+            "name": "Harry J. Lennix",
+            "character": "General Swanwick / Martian Manhunter"
+        },
+        {
+            "name": "Peter Guinness",
+            "character": "DeSaad"
+        }
+    ],
+    "synopsis": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "collections": [
+        "DC Extended Universe"
+    ],
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 5
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202103,
+    "characters": 6
+}

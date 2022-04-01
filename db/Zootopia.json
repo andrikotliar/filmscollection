@@ -1,0 +1,100 @@
+{
+    "id": 105,
+    "title": "Zootopia",
+    "poster": "zootopia",
+    "trailer": "jWM0ct-OLsM",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Byron Howard",
+        "Rich Moore"
+    ],
+    "producers": "Clark Spencer",
+    "writtens": "Jared Bush, Phil Johnston",
+    "music": "Michael Giacchino",
+    "cinema": "Nathan Warner, Brian Leach",
+    "year": 2016,
+    "time": 108,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.02,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Ginnifer Goodwin",
+            "character": "Octavia Spencer"
+        },
+        {
+            "name": "Jason Bateman",
+            "character": "Judy Hopps"
+        },
+        {
+            "name": "Idris Elba",
+            "character": "Nick Wilde"
+        },
+        {
+            "name": "Jenny Slate",
+            "character": "Chief Bogo"
+        },
+        {
+            "name": "Nate Torrence",
+            "character": "Bellwether"
+        },
+        {
+            "name": "Bonnie Hunt",
+            "character": "Clawhauser"
+        },
+        {
+            "name": "Don Lake",
+            "character": "Bonnie Hopps"
+        },
+        {
+            "name": "Tommy Chong",
+            "character": "Stu Hopps"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "Yax"
+        }
+    ],
+    "synopsis": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature Film of the Year"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Feature Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 201603
+}

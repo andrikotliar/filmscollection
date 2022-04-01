@@ -1,0 +1,96 @@
+{
+    "id": 183,
+    "title": "Finding Nemo",
+    "poster": "finding_nemo",
+    "trailer": "wZdpNglLbt8",
+    "genres": [
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Pixar Animation"
+    ],
+    "director": [
+        "Andrew Stanton"
+    ],
+    "producers": "Graham Walters",
+    "writtens": "Andrew Stanton, Bob Peterson, David Reynolds",
+    "music": "Thomas Newman",
+    "cinema": "Sharon Calahan, Jeremy Lasky",
+    "year": 2003,
+    "time": 100,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 94,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 940,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Alexander Gould",
+            "character": "Nemo"
+        },
+        {
+            "name": "Albert Brooks",
+            "character": "Marlin"
+        },
+        {
+            "name": "Ellen DeGeneres",
+            "character": "Dory"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Gill"
+        },
+        {
+            "name": "Brad Garrett",
+            "character": "Bloat"
+        },
+        {
+            "name": "Allison Janney",
+            "character": "Peach"
+        },
+        {
+            "name": "Austin Pendleton",
+            "character": "Gurgle"
+        },
+        {
+            "name": "Stephen Root",
+            "character": "Bubbles"
+        }
+    ],
+    "synopsis": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Animated Film",
+                "Best Supporting Actress"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200305
+}

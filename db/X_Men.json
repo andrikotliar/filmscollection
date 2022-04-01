@@ -1,0 +1,105 @@
+{
+    "id": 80,
+    "title": "X-Men",
+    "poster": "x_men_1",
+    "trailer": "VNxwlx6etXI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Bryan Singer"
+    ],
+    "producers": "Lauren Shuler Donner, Ralph Winter",
+    "writtens": "David Hayter",
+    "music": "Michael Kamen",
+    "cinema": "Newton Thomas Sigel",
+    "year": 2000,
+    "time": 104,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 296,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan / Wolverine"
+        },
+        {
+            "name": "Patrick Stewart",
+            "character": "Professor Charles Xavier"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Eric Lensherr / Magneto"
+        },
+        {
+            "name": "Famke Janssen",
+            "character": "Jean Grey"
+        },
+        {
+            "name": "James Marsden",
+            "character": "Scott Summers / Cyclops"
+        },
+        {
+            "name": "Halle Berry",
+            "character": "Ororo Munroe / Storm"
+        },
+        {
+            "name": "Anna Paquin",
+            "character": "Rogue"
+        },
+        {
+            "name": "Tyler Mane",
+            "character": "Sabretooth"
+        },
+        {
+            "name": "Ray Park",
+            "character": "Toad"
+        },
+        {
+            "name": "Rebecca Romijn",
+            "character": "Mystique Senator Kelly"
+        },
+        {
+            "name": "Bruce Davison",
+            "character": "Senator Kelly"
+        }
+    ],
+    "synopsis": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Actor",
+                "Best Supporting Actress",
+                "Best Director",
+                "Best Writing",
+                "Best Costumes"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200007
+}

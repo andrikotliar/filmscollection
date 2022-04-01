@@ -1,0 +1,87 @@
+{
+    "id": 59,
+    "title": "Iron Man 3",
+    "poster": "iron_man_3",
+    "trailer": "Ke1Y3P9D0Bc",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Shane Black"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Shane Black, Drew Pearce",
+    "music": "Brian Tyler",
+    "cinema": "John Toll",
+    "year": 2013,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.2,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": "Pepper Potts"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "Colonel James Rhodes"
+        },
+        {
+            "name": "Guy Pearce",
+            "character": "Aldrich Killian"
+        },
+        {
+            "name": "Rebecca Hall",
+            "character": "Maya Hansen"
+        },
+        {
+            "name": "Jon Favreau",
+            "character": "Happy Hogan"
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": "Trevor Slattery"
+        }
+    ],
+    "synopsis": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Comic-to-Film Motion Picture",
+                "Best Actor",
+                "Best Supporting Actor"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 7
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201305,
+    "characters": 5
+}

@@ -1,0 +1,219 @@
+{
+    "id": 234,
+    "title": "The 100",
+    "poster": "hundred",
+    "genres": [
+        "Sci-Fi",
+        "Drama"
+    ],
+    "production": [
+        "The CW",
+        "Warner Bros. Television",
+        "CBS Television Studios"
+    ],
+    "director": [
+        "Jason Rothenberg"
+    ],
+    "producers": "Jae Marchant, Tim Scanlan, Aaron Ginsburg, Wade McIntyre, T.J. Brady, Rasheed Newson, Kira Snyder, Kim Shumway, Heidi Cole McAdams, Miranda Kwok, Alyssa Clark, Georgia Lee, Charles Lyle",
+    "writtens": "Kass Morgan, Charmaine De Grate, Heidi Cole McAdams, Kim Shumway, Julie Benson, Shawna Benson, Justine Juel Gillmer",
+    "music": "Tree Adams, Marc Dauer, Evan Frankfort, Liz Phair",
+    "cinema": "Michael C. Blundell, Gerald Packer, Philip Linzey, Jim Stacey, Nathaniel Goodman",
+    "year": 2014,
+    "time": 4300,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "actors": [
+        {
+            "name": "Eliza Taylor",
+            "character": "Clarke Griffin"
+        },
+        {
+            "name": "Marie Avgeropoulos",
+            "character": "Octavia Blake"
+        },
+        {
+            "name": "Bob Morley",
+            "character": "Bellamy Blake"
+        },
+        {
+            "name": "Lindsey Morgan",
+            "character": "Raven Reyes"
+        },
+        {
+            "name": "Richard Harmon",
+            "character": "John Murphy"
+        },
+        {
+            "name": "Paige Turco",
+            "character": "Dr. Abigail Griffin"
+        },
+        {
+            "name": "Henry Ian Cusick",
+            "character": "Marcus Kane"
+        },
+        {
+            "name": "Christopher Larkin",
+            "character": "Monty Green"
+        },
+        {
+            "name": "Jarod Joseph",
+            "character": "Nathan Miller"
+        },
+        {
+            "name": "Isaiah Washington",
+            "character": "Thelonious Jaha"
+        },
+        {
+            "name": "Sachin Sahel",
+            "character": "Dr. Eric Jackson"
+        },
+        {
+            "name": "Tasya Teles",
+            "character": "Echo"
+        },
+        {
+            "name": "Adina Porter",
+            "character": "Indra"
+        },
+        {
+            "name": "Luisa d'Oliveira",
+            "character": "Emori"
+        },
+        {
+            "name": "Chelsey Reist",
+            "character": "Harper McIntyre"
+        },
+        {
+            "name": "Ricky Whittle",
+            "character": "Lincoln"
+        },
+        {
+            "name": "Lola Flanery",
+            "character": "Madi Griffin"
+        },
+        {
+            "name": "Shannon Kook",
+            "character": "Jordan Green"
+        },
+        {
+            "name": "Tati Gabrielle",
+            "character": "Gaia"
+        },
+        {
+            "name": "JR Bourne",
+            "character": "Sheidheda"
+        },
+        {
+            "name": "Ivana Milicevic",
+            "character": "Charmaine Diyoza"
+        },
+        {
+            "name": "Thomas McDonell",
+            "character": "Finn Collins"
+        },
+        {
+            "name": "Erica Cerra",
+            "character": "A.L.I.E. / Dr. Becca Franco"
+        },
+        {
+            "name": "Alessandro Juliani",
+            "character": "Jacapo Sinclair"
+        },
+        {
+            "name": "Zach McGowan",
+            "character": "King Roan"
+        },
+        {
+            "name": "Alycia Debnam-Carey",
+            "character": "Lexa"
+        },
+        {
+            "name": "Michael Beach",
+            "character": "Charles Pike"
+        },
+        {
+            "name": "Eve Harlow",
+            "character": "Maya Vie"
+        },
+        {
+            "name": "Sean Maguire",
+            "character": "Russell Lightbourne"
+        },
+        {
+            "name": "John Pyper-Ferguson",
+            "character": "Bill Cadogan"
+        },
+        {
+            "name": "Sara Thompson",
+            "character": "Josephine Lightbourne"
+        },
+        {
+            "name": "Ian Pala",
+            "character": "Dr. Gabriel Santiago"
+        },
+        {
+            "name": "Neal McDonough",
+            "character": "Anders"
+        },
+        {
+            "name": "Jason Diaz",
+            "character": "Levitt"
+        }
+    ],
+    "synopsis": "Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Youth-Oriented Series on Television"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 13,
+            "trailer": "ia1Fbg96vL0"
+        },
+        {
+            "season": 2,
+            "episodes": 16,
+            "trailer": "IW7_ZzFZF-o"
+        },
+        {
+            "season": 3,
+            "episodes": 16,
+            "trailer": "uwxwHTu802M"
+        },
+        {
+            "season": 4,
+            "episodes": 13,
+            "trailer": "JQi2MAfpACI"
+        },
+        {
+            "season": 5,
+            "episodes": 13,
+            "trailer": "76vBRrYyNNc"
+        },
+        {
+            "season": 6,
+            "episodes": 13,
+            "trailer": "AVDyeT-GsX4"
+        },
+        {
+            "season": 7,
+            "episodes": 16,
+            "trailer": "VQaFKClCUpo"
+        }
+    ],
+    "sort": 201403,
+    "characters": 10
+}

@@ -1,0 +1,80 @@
+{
+    "id": 115,
+    "title": "Tron: Legacy",
+    "poster": "tron",
+    "trailer": "L9szn1QQfas",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Joseph Kosinski"
+    ],
+    "producers": "Sean Bailey, Steven Lisberger, Jeffrey Silver",
+    "writtens": "Edward Kitsis, Adam Horowitz",
+    "music": "Daft Punk",
+    "cinema": "Claudio Miranda",
+    "year": 2010,
+    "time": 125,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 170,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 400,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jeff Bridges",
+            "character": "Kevin Flynn / Clu"
+        },
+        {
+            "name": "Garrett Hedlund",
+            "character": "Sam Flynn"
+        },
+        {
+            "name": "Olivia Wilde",
+            "character": "Quorra"
+        },
+        {
+            "name": "Bruce Boxleitner",
+            "character": "Alan Bradley / Tron"
+        },
+        {
+            "name": "James Frain",
+            "character": "Jarvis"
+        },
+        {
+            "name": "Beau Garrett",
+            "character": "Gem"
+        },
+        {
+            "name": "Michael Sheen",
+            "character": "Castor / Zuse"
+        }
+    ],
+    "synopsis": "The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Production Design",
+                "Best Actor"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201012
+}

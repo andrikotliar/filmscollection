@@ -1,0 +1,80 @@
+{
+    "id": 7,
+    "title": "Mission: Impossible - Rogue Nation",
+    "poster": "mi_5",
+    "trailer": "gOW_azQbOjw",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Christopher McQuarrie"
+    ],
+    "producers": "Tom Cruise, Bryan Burk, J.J. Abrams, David Ellison, Dana Goldberg, Don Granger",
+    "writtens": "Christopher McQuarrie",
+    "music": "Joe Kraemer",
+    "cinema": "Robert Elswit",
+    "year": 2015,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 683,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "William Brandt"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Benji Dunn"
+        },
+        {
+            "name": "Rebecca Ferguson",
+            "character": "Ilsa Faust"
+        },
+        {
+            "name": "Ving Rhames",
+            "character": "Luther Stickell"
+        },
+        {
+            "name": "Sean Harris",
+            "character": "Lane"
+        },
+        {
+            "name": "Simon McBurney",
+            "character": "Atlee"
+        },
+        {
+            "name": "Tom  Hollander",
+            "character": "Prime Minister"
+        }
+    ],
+    "synopsis": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "parts": {
+        "title": "Mission: Impossible",
+        "part": 5
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201508,
+    "characters": 6
+}

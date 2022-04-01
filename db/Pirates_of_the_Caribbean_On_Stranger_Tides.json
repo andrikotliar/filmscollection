@@ -1,0 +1,77 @@
+{
+    "id": 103,
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "poster": "pirates_4",
+    "trailer": "t5AqJww06bw",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Jerry Bruckheimer Films"
+    ],
+    "director": [
+        "Rob Marshall"
+    ],
+    "producers": "Jerry Bruckheimer",
+    "writtens": "Ted Elliott, Terry Rossio",
+    "music": "Hans Zimmer",
+    "cinema": "Dariusz Wolski",
+    "year": 2011,
+    "time": 137,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.05,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Johnny Depp",
+            "character": "Captain Jack Sparrow"
+        },
+        {
+            "name": "Penelope Cruz",
+            "character": "Angelica"
+        },
+        {
+            "name": "Geoffrey Rush",
+            "character": "Barbossa"
+        },
+        {
+            "name": "Ian McShane",
+            "character": "Blackbeard"
+        },
+        {
+            "name": "Kevin McNally",
+            "character": "Gibbs"
+        },
+        {
+            "name": "Sam Claflin",
+            "character": "Philip"
+        },
+        {
+            "name": "Astrid Berges-Frisbey",
+            "character": "Syrena"
+        }
+    ],
+    "synopsis": "Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of youth, only to discover that Blackbeard and his daughter are after it too.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Pirates of the Caribbean",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201105,
+    "characters": 5
+}

@@ -1,0 +1,70 @@
+{
+    "id": 176,
+    "title": "Hitch",
+    "poster": "hitch",
+    "trailer": "pYrrEUgnT6s",
+    "genres": [
+        "Romantic comedy"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Andy Tennant"
+    ],
+    "producers": "Will Smith, James Lassiter, Teddy Zee",
+    "writtens": "Kevin Bisch",
+    "music": "George Fenton, Alan Elliott",
+    "cinema": "Andrew Dunn",
+    "year": 2005,
+    "time": 118,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 70,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 368,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": "Hitch"
+        },
+        {
+            "name": "Eva Mendes",
+            "character": "Sara"
+        },
+        {
+            "name": "Kevin James",
+            "character": "Albert"
+        },
+        {
+            "name": "Amber Valletta",
+            "character": "Allegra"
+        },
+        {
+            "name": "Julie Ann Emery",
+            "character": "Casey"
+        }
+    ],
+    "synopsis": "While helping his latest client woo the fine lady of his dreams, a professional \"date doctor\" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.",
+    "collections": [
+        "Life Story"
+    ],
+    "awards": [
+        {
+            "title": "Jupiter Award",
+            "nominations": [
+                "Best International Actor"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200502
+}

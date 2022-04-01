@@ -1,0 +1,93 @@
+{
+    "id": 60,
+    "title": "Thor: The Dark World",
+    "poster": "thor_2",
+    "trailer": "npvJ9FTgZbM",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Alan Taylor"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Yost, Stephen McFeely, Christopher Markus",
+    "music": "Brian Tyler",
+    "cinema": "Kramer Morgenthau",
+    "year": 2013,
+    "time": 112,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 153,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 645,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Hemsworth",
+            "character": "Thor"
+        },
+        {
+            "name": "Natalie Portman",
+            "character": "Jane Foster"
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": "Loki"
+        },
+        {
+            "name": "Anthony Hopkins",
+            "character": "Odin"
+        },
+        {
+            "name": "Christopher Eccleston",
+            "character": "Malekith"
+        },
+        {
+            "name": "Jaimie Alexander",
+            "character": "Sif"
+        },
+        {
+            "name": "Zachary Levi",
+            "character": "Fandral"
+        },
+        {
+            "name": "Ray Stevenson",
+            "character": "Volstagg"
+        },
+        {
+            "name": "Tadanobu Asano",
+            "character": "Hogun"
+        },
+        {
+            "name": "Idris Elba",
+            "character": "Heimdall"
+        },
+        {
+            "name": "Rene Russo",
+            "character": "Frigga"
+        }
+    ],
+    "synopsis": "When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 8
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201310,
+    "characters": 7
+}

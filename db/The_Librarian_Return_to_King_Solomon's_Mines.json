@@ -1,0 +1,83 @@
+{
+    "id": 98,
+    "title": "The Librarian: Return to King Solomon's Mines",
+    "poster": "librarian_2",
+    "trailer": "ansvc2Muxr0",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "TNT"
+    ],
+    "director": [
+        "Jonathan Frakes"
+    ],
+    "producers": "Michael S. Murphey, Noah Wyle",
+    "writtens": "Marco Schnabel",
+    "music": "Joseph LoDuca",
+    "cinema": "Walt Lloyd",
+    "year": 2006,
+    "time": 95,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Noah Wyle",
+            "character": "Flynn Carsen"
+        },
+        {
+            "name": "Gabrielle Anwar",
+            "character": "Emily Davenport"
+        },
+        {
+            "name": "Bob Newhart",
+            "character": "Judson"
+        },
+        {
+            "name": "Jane Curtin",
+            "character": "Charlene"
+        },
+        {
+            "name": "Olympia Dukakis",
+            "character": "Margie Carsen"
+        },
+        {
+            "name": "Erick Avari",
+            "character": "General Samir"
+        },
+        {
+            "name": "Hakeem Kae-Kazim",
+            "character": "Jomo"
+        },
+        {
+            "name": "Robert Foxworth",
+            "character": "Uncle Jerry"
+        },
+        {
+            "name": "Zahn McClarnon",
+            "character": "Tommy Yellow Hawk"
+        }
+    ],
+    "synopsis": "Librarian-turned-adventurer Flynn Carsen endeavors to find King Solomon's mines.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Presentation on Television"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Librarian",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200611
+}

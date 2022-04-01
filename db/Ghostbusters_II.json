@@ -1,0 +1,78 @@
+{
+    "id": 325,
+    "title": "Ghostbusters II",
+    "poster": "ghostbusters_2",
+    "trailer": "weIqC-oUGmA",
+    "genres": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Ivan Reitman"
+    ],
+    "producers": "",
+    "writtens": "",
+    "music": "",
+    "year": 1989,
+    "time": 108,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 37,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 215,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Bill Murray",
+            "character": "Dr. Peter Venkman"
+        },
+        {
+            "name": "Dan Aykroyd",
+            "character": "Dr. Raymond Stantz"
+        },
+        {
+            "name": "Sigourney Weaver",
+            "character": "Dana Barrett"
+        },
+        {
+            "name": "Harold Ramis",
+            "character": "Dr. Egon Spengler"
+        },
+        {
+            "name": "Rick Moranis",
+            "character": "Louis Tully"
+        },
+        {
+            "name": "Ernie Hudson",
+            "character": "Winston Zeddemore"
+        },
+        {
+            "name": "Peter MacNicol",
+            "character": "Dr. Janosz Poha"
+        },
+        {
+            "name": "Wilhelm von Homburg",
+            "character": "Vigo"
+        }
+    ],
+    "synopsis": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+    "collections": [
+        "Monsters"
+    ],
+    "parts": {
+        "title": "Ghostbusters",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 198906
+}

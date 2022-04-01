@@ -1,0 +1,120 @@
+{
+    "id": 237,
+    "title": "Stranger Things",
+    "poster": "stranger_things",
+    "genres": [
+        "Fantasy",
+        "Drama",
+        "Horror"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "The Duffer Brothers"
+    ],
+    "producers": "Rand Geiger, Justin Doble, The Duffer Brothers",
+    "writtens": "The Duffer Brothers",
+    "music": "Kyle Dixon, Michael Stein",
+    "cinema": "Tim Ives, Tod Campbell, Lachlan Milne, David Franco",
+    "year": 2016,
+    "time": 1275,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Winona Ryder",
+            "character": "Joyce Byers"
+        },
+        {
+            "name": "David Harbour",
+            "character": "Jim Hopper"
+        },
+        {
+            "name": "Finn Wolfhard",
+            "character": "Mike Wheeler"
+        },
+        {
+            "name": "Millie Bobby Brown",
+            "character": "Eleven"
+        },
+        {
+            "name": "Gaten Matarazzo",
+            "character": "Dustin Henderson"
+        },
+        {
+            "name": "Caleb McLaughlin",
+            "character": "Lucas Sinclair"
+        },
+        {
+            "name": "Natalia Dyer",
+            "character": "Nancy Wheeler"
+        },
+        {
+            "name": "Charlie Heaton",
+            "character": "Jonathan Byers"
+        },
+        {
+            "name": "Joe Keery",
+            "character": "Steve Harrington"
+        },
+        {
+            "name": "Noah Schnapp",
+            "character": "Will Byers"
+        }
+    ],
+    "synopsis": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actress in Streaming Presentation",
+                "Best Streaming Horror & Thriller Series"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Supporting Actor in a Drama Series"
+            ]
+        },
+        {
+            "title": "Primetime Emmy",
+            "nominations": [
+                "Outstanding Sound Editing for a Comedy or Drama Series (One Hour)",
+                "Outstanding Main Title Design",
+                "Outstanding Original Main Title Theme Music",
+                "Outstanding Casting for a Drama Series",
+                "Outstanding Single-Camera Picture Editing for a Drama Series",
+                "Outstanding Sound Editing for a Series"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 8,
+            "trailer": "b9EkMc79ZSU"
+        },
+        {
+            "season": 2,
+            "episodes": 9,
+            "trailer": "R1ZXOOLMJ8s"
+        },
+        {
+            "season": 3,
+            "episodes": 8,
+            "trailer": "e4XvO7DItmc"
+        }
+    ],
+    "sort": 201607,
+    "characters": 9,
+    "top": 5
+}

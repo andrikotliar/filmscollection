@@ -1,0 +1,78 @@
+{
+    "id": 111,
+    "title": "District 13: Ultimatum",
+    "poster": "d13_2",
+    "trailer": "jDDFNpj9xBQ",
+    "genres": [
+        "Action"
+    ],
+    "production": [
+        "EuropaCorp"
+    ],
+    "director": [
+        "Patrick Alessandrin"
+    ],
+    "producers": "Luc Besson",
+    "writtens": "Luc Besson",
+    "music": "Damien Roques, Trak Invaders",
+    "cinema": "Jean-François Hensgens",
+    "year": 2009,
+    "time": 106,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 14,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 14,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Cyril Raffaelli",
+            "character": "Damien Tomaso"
+        },
+        {
+            "name": "David Belle",
+            "character": "Le'to"
+        },
+        {
+            "name": "Philippe Torreton",
+            "character": "Le pr'sident de la R'publique"
+        },
+        {
+            "name": "Daniel Duval",
+            "character": "Walter Gassman"
+        },
+        {
+            "name": "Elodie Yung",
+            "character": "Tao"
+        },
+        {
+            "name": "MC Jean Gab'1",
+            "character": "Molko"
+        },
+        {
+            "name": "James Deano",
+            "character": "Karl le skin"
+        },
+        {
+            "name": "Laouni Mouhid",
+            "character": "Ali-K"
+        }
+    ],
+    "synopsis": "Damien and Leito return to District 13 on a mission to bring peace to the troubled sector that is controlled by five different gang bosses, before the city's secret services take drastic measures to solve the problem.",
+    "collections": [
+        "Dystopia"
+    ],
+    "parts": {
+        "title": "District 13",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200903
+}

@@ -1,0 +1,85 @@
+{
+    "id": 193,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "poster": "shang_chi",
+    "trailer": "COGg-Vjauwo",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Destin Daniel Cretton"
+    ],
+    "producers": "Kevin Feige, Jonathan Schwartz",
+    "writtens": "Dave Callaham,  Destin Daniel Cretton, Andrew Lanham",
+    "music": "Joel P. West",
+    "cinema": "Bill Pope",
+    "year": 2021,
+    "time": 132,
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 430,
+        "suffix": "million"
+    },
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Simu Liu",
+            "character": "Shang-Chi"
+        },
+        {
+            "name": "Tony Chiu-Wai Leung",
+            "character": "Wenwu / Mandarin"
+        },
+        {
+            "name": "Awkwafina",
+            "character": "Katy"
+        },
+        {
+            "name": "Menger Zhang",
+            "character": "Xialing"
+        },
+        {
+            "name": "Michelle Yeoh",
+            "character": "Ying Nan"
+        },
+        {
+            "name": "Benedict Wong",
+            "character": "Wong"
+        },
+        {
+            "name": "Tim Roth",
+            "character": "Abomination / Emile Blonsky"
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": "Trevor Slattery"
+        },
+        {
+            "name": "Florian Munteanu",
+            "character": "Razor Fist"
+        }
+    ],
+    "synopsis": "Shang-Chi, the master of unarmed weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 27
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202109,
+    "characters": 4
+}

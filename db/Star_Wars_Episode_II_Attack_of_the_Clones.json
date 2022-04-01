@@ -1,0 +1,99 @@
+{
+    "id": 16,
+    "title": "Star Wars Episode II: Attack of the Clones",
+    "poster": "star_wars_episode_II",
+    "trailer": "gYbW1F_c9eM",
+    "genres": [
+        "SpaceOpera",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Lucasfilm"
+    ],
+    "director": [
+        "George Lucas"
+    ],
+    "producers": "Rick McCallum",
+    "writtens": "George Lucas, Jonathan Hales",
+    "music": "John Williams",
+    "cinema": "David Tattersall",
+    "year": 2002,
+    "time": 142,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 115,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 649,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ewan McGregor",
+            "character": "Obi-Wan Kenobi"
+        },
+        {
+            "name": "Natalie Portman",
+            "character": "Padme"
+        },
+        {
+            "name": "Hayden Christensen",
+            "character": "Anakin Skywalker"
+        },
+        {
+            "name": "Christopher Lee",
+            "character": "Count Dooku"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Mace Windu"
+        },
+        {
+            "name": "Frank Oz",
+            "character": "Yoda"
+        },
+        {
+            "name": "Ian McDiarmid",
+            "character": "Palpatine"
+        },
+        {
+            "name": "Temuera Morrison",
+            "character": "Jango Fett"
+        },
+        {
+            "name": "Jimmy Smits",
+            "character": "Bail Organa"
+        }
+    ],
+    "synopsis": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costumes",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Fight"
+            ]
+        }
+    ],
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200205
+}

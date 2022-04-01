@@ -1,0 +1,94 @@
+{
+    "id": 210,
+    "title": "Frozen",
+    "poster": "frozen",
+    "trailer": "TbQm5doF_Uc",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Animation Studios"
+    ],
+    "director": [
+        "Chris Buck",
+        "Jennifer Lee"
+    ],
+    "producers": "Peter Del Vecho",
+    "writtens": "Jennifer Lee",
+    "music": "Robert Lopez, Kristen Anderson-Lopez",
+    "cinema": "Scott Beattie (layout), Mohit Kallianpur (lighting)",
+    "year": 2013,
+    "time": 102,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.28,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Kristen Bell",
+            "character": "Anna"
+        },
+        {
+            "name": "Idina Menzel",
+            "character": "Elsa"
+        },
+        {
+            "name": "Jonathan Groff",
+            "character": "Kristoff"
+        },
+        {
+            "name": "Josh Gad",
+            "character": "Olaf"
+        },
+        {
+            "name": "Santino Fontana",
+            "character": "Hans"
+        },
+        {
+            "name": "Alan Tudyk",
+            "character": "Duke"
+        }
+    ],
+    "synopsis": "When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature Film of the Year",
+                "Best Achievement in Music Written for Motion Pictures (Original Song)"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature",
+                "Best Song"
+            ]
+        }
+    ],
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Frozen",
+        "part": 1
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 201312
+}

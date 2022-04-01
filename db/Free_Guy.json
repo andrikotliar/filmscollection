@@ -1,0 +1,73 @@
+{
+    "id": 282,
+    "title": "Free Guy",
+    "poster": "freeguy",
+    "trailer": "X2m-08cOAbc",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "20th Century Studios"
+    ],
+    "director": [
+        "Shawn Levy"
+    ],
+    "producers": "Greg Berlanti, Shawn Levy, Ryan Reynolds, Sarah Schechter",
+    "writtens": "Matt Lieberman, Zak Penn",
+    "music": "Christophe Beck",
+    "cinema": "George Richmond",
+    "year": 2021,
+    "time": 115,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 331,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ryan Reynolds",
+            "character": "Guy"
+        },
+        {
+            "name": "Jodie Comer",
+            "character": "Millie / Molotovgirl"
+        },
+        {
+            "name": "Lil Rel Howery",
+            "character": "Buddy"
+        },
+        {
+            "name": "Joe Keery",
+            "character": "Keys"
+        },
+        {
+            "name": "Utkarsh Ambudkar",
+            "character": "Mouser"
+        },
+        {
+            "name": "Taika Waititi",
+            "character": "Antwan"
+        },
+        {
+            "name": "Channing Tatum",
+            "character": "Revenjamin Buttons"
+        }
+    ],
+    "synopsis": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+    "collections": [
+        "Future"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202108,
+    "characters": 5
+}

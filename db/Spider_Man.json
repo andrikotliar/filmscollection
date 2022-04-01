@@ -1,0 +1,88 @@
+{
+    "id": 264,
+    "title": "Spider-Man",
+    "poster": "raimi_spider_man_1",
+    "trailer": "_yhFofFZGcc",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures",
+        "Marvel Enterprises"
+    ],
+    "director": [
+        "Sam Raimi"
+    ],
+    "producers": "Ian Bryce, Laura Ziskin",
+    "writtens": "David Koepp",
+    "music": "Danny Elfman",
+    "cinema": "Don Burgess",
+    "year": 2002,
+    "time": 121,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 139,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 825,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tobey Maguire",
+            "character": "Spider-Man / Peter Parker"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Green Goblin / Norman Osborn"
+        },
+        {
+            "name": "Kirsten Dunst",
+            "character": "Mary Jane Watson"
+        },
+        {
+            "name": "James Franco",
+            "character": "Harry Osborn"
+        },
+        {
+            "name": "Cliff Robertson",
+            "character": "Ben Parker"
+        },
+        {
+            "name": "Rosemary Harris",
+            "character": "May Parker"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "J. Jonah Jameson"
+        },
+        {
+            "name": "Joe Manganiello",
+            "character": "Flash Thompson"
+        }
+    ],
+    "synopsis": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Empire Award",
+            "nominations": [
+                "Best Actress"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Raimi's Spider-Man",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200204
+}

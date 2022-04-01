@@ -1,0 +1,72 @@
+{
+    "id": 212,
+    "title": "Your Name",
+    "poster": "your_name",
+    "trailer": "xU47nhruN-Q",
+    "genres": [
+        "Anime",
+        "Drama",
+        "Fantasy"
+    ],
+    "production": [
+        "Toho, CoMix Wave Films"
+    ],
+    "director": [
+        "Makoto Shinkai"
+    ],
+    "producers": "Noritaka Kawaguchi, Genki Kawamura",
+    "writtens": "Makoto Shinkai",
+    "music": "Radwimps",
+    "cinema": "Makoto Shinkai",
+    "year": 2016,
+    "time": 107,
+    "countries": [
+        "Japan"
+    ],
+    "budget": {
+        "value": 3.48,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 358,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ryunosuke Kamiki",
+            "character": "Taki Tachibana"
+        },
+        {
+            "name": "Mone Kamishiraishi",
+            "character": "Mitsuha Miyamizu"
+        },
+        {
+            "name": "Ryo Narita",
+            "character": "Katsuhiko Teshigawara"
+        },
+        {
+            "name": "Aoi Yuki",
+            "character": "Sayaka Natori"
+        },
+        {
+            "name": "Nobunaga Shimazaki",
+            "character": "Tsukasa Fujii"
+        },
+        {
+            "name": "Kaito Ishikawa",
+            "character": "Shinta Takagi"
+        },
+        {
+            "name": "Kanon Tani",
+            "character": "Yotsuha Miyamizu"
+        }
+    ],
+    "synopsis": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "collections": [
+        "Anime"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201608
+}

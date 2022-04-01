@@ -1,0 +1,100 @@
+{
+    "id": 211,
+    "title": "Dune",
+    "poster": "dune",
+    "trailer": "w0HgHet0sxg",
+    "genres": [
+        "Sci-Fi",
+        "Adventures",
+        "Drama"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary"
+    ],
+    "director": [
+        "Denis Villeneuve"
+    ],
+    "producers": "Cale Boyter, Joseph M. Caracciolo Jr., Mary Parent, Denis Villeneuve",
+    "writtens": "Jon Spaihts, Denis Villeneuve, Eric Roth",
+    "music": "Hans Zimmer",
+    "cinema": "Greig Fraser",
+    "year": 2021,
+    "time": 155,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 165,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 398,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Timothee Chalamet",
+            "character": "Paul Atreides"
+        },
+        {
+            "name": "Rebecca Ferguson",
+            "character": "Lady Jessica"
+        },
+        {
+            "name": "Oscar Isaac",
+            "character": "Duke Leto Atreides"
+        },
+        {
+            "name": "Jason Momoa",
+            "character": "Duncan Idaho"
+        },
+        {
+            "name": "Stellan Skarsgard",
+            "character": "Baron Vladimir Harkonnen"
+        },
+        {
+            "name": "David Dastmalchian",
+            "character": "Piter De Vries"
+        },
+        {
+            "name": "Zendaya",
+            "character": "Chani"
+        },
+        {
+            "name": "Josh Brolin",
+            "character": "Gurney Halleck"
+        },
+        {
+            "name": "Dave Bautista",
+            "character": "Glossu 'Beast' Rabban"
+        },
+        {
+            "name": "Stephen McKinley Henderson",
+            "character": "Thufir Hawat"
+        },
+        {
+            "name": "Sharon Duncan-Brewster",
+            "character": "Dr. Liet Kynes"
+        },
+        {
+            "name": "Javier Bardem",
+            "character": "Stilgar"
+        },
+        {
+            "name": "Chen Chang",
+            "character": "Dr. Wellington Yueh"
+        }
+    ],
+    "synopsis": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+    "collections": [
+        "Space"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202110,
+    "characters": 13,
+    "top": 6
+}

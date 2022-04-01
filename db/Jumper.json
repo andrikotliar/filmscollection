@@ -1,0 +1,67 @@
+{
+    "id": 181,
+    "title": "Jumper",
+    "poster": "jumper",
+    "trailer": "eLqE8rqNPbk",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Doug Liman"
+    ],
+    "producers": "Simon Kinberg, Lucas Foster, Jay Sanders, Arnon Milchan, Stacy Maes",
+    "writtens": "David S. Goyer, Jim Uhls, Simon Kinberg",
+    "music": "John Powell",
+    "cinema": "Barry Peterson",
+    "year": 2008,
+    "time": 88,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 85,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 222,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hayden Christensen",
+            "character": "David Rice"
+        },
+        {
+            "name": "Jamie Bell",
+            "character": "Griffin"
+        },
+        {
+            "name": "Rachel Bilson",
+            "character": "Millie"
+        },
+        {
+            "name": "Diane Lane",
+            "character": "Mary Rice"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Roland"
+        },
+        {
+            "name": "Michael Rooker",
+            "character": "William Rice"
+        }
+    ],
+    "synopsis": "A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.",
+    "collections": [
+        "Superheroes"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200802
+}

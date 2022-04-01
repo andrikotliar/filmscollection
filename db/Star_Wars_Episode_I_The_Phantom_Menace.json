@@ -1,0 +1,107 @@
+{
+    "id": 15,
+    "title": "Star Wars Episode I: The Phantom Menace",
+    "poster": "star_wars_episode_I",
+    "trailer": "bD7bpG-zDJQ",
+    "genres": [
+        "SpaceOpera",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Lucasfilm"
+    ],
+    "director": [
+        "George Lucas"
+    ],
+    "producers": "Rick McCallum",
+    "writtens": "George Lucas",
+    "music": "John Williams",
+    "cinema": "David Tattersall",
+    "year": 1999,
+    "time": 136,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 115,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.02,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Liam Neeson",
+            "character": "Qui-Gon Jinn"
+        },
+        {
+            "name": "Ewan McGregor",
+            "character": "Obi-Wan Kenobi"
+        },
+        {
+            "name": "Natalie Portman",
+            "character": "Padme"
+        },
+        {
+            "name": "Jake Lloyd",
+            "character": "Anakin Skywalker"
+        },
+        {
+            "name": "Ian McDiarmid",
+            "character": "Senator Palpatine"
+        },
+        {
+            "name": "Pernilla August",
+            "character": "Shmi Skywalker"
+        },
+        {
+            "name": "Ahmed Best",
+            "character": "Jar Jar Binks"
+        },
+        {
+            "name": "Anthony Daniels",
+            "character": "C-3PO"
+        },
+        {
+            "name": "Kenny Baker",
+            "character": "R2-D2"
+        },
+        {
+            "name": "Frank Oz",
+            "character": "Yoda"
+        },
+        {
+            "name": "Ray Park",
+            "character": "Darth Maul"
+        }
+    ],
+    "synopsis": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costumes",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Action Sequence"
+            ]
+        }
+    ],
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199905
+}

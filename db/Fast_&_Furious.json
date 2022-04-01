@@ -1,0 +1,79 @@
+{
+    "id": 48,
+    "title": "Fast & Furious",
+    "poster": "fast_and_furious_4",
+    "trailer": "Gl-d_UIhdBw",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Justin Lin"
+    ],
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Brian Tyler",
+    "cinema": "Amir Mokri",
+    "year": 2009,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 85,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 363,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "name": "Paul Walker",
+            "character": "Brian O'Conner"
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": "Mia"
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": "Letty"
+        },
+        {
+            "name": "John Ortiz",
+            "character": "Campos"
+        },
+        {
+            "name": "Laz Alonso",
+            "character": "Fenix"
+        },
+        {
+            "name": "Gal Gadot",
+            "character": "Gisele"
+        },
+        {
+            "name": "Sung Kang",
+            "character": "Han"
+        }
+    ],
+    "synopsis": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200903
+}

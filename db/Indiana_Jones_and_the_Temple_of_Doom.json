@@ -1,0 +1,96 @@
+{
+    "id": 307,
+    "title": "Indiana Jones and the Temple of Doom",
+    "poster": "indiana_jones_2",
+    "trailer": "WBdyLyijZhU",
+    "genres": [
+        "Adventures",
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Lucasfilm"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Robert Watts",
+    "writtens": "Willard Huyck, Gloria Katz, George Lucas (story)",
+    "music": "John Williams",
+    "cinema": "Douglas Slocombe",
+    "year": 1984,
+    "time": 118,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 28,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 333,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Harrison Ford",
+            "character": "Dr. Henry «Indiana» Jones, Jr."
+        },
+        {
+            "name": "Kate Capshaw",
+            "character": "Willie Scott"
+        },
+        {
+            "name": "Ke Huy Quan",
+            "character": "Short Round"
+        },
+        {
+            "name": "Amrish Puri",
+            "character": "Mola Ram"
+        },
+        {
+            "name": "Roshan Seth",
+            "character": "Chattar Lal"
+        }
+    ],
+    "synopsis": "In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then stumbles upon a secret cult committing enslavement and human sacrifices in the catacombs of an ancient palace.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best DVD Collection"
+            ]
+        },
+        {
+            "title": "Jupiter",
+            "nominations": [
+                "Best International Actor",
+                "Best International Film"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Indiana Jones",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 198405
+}

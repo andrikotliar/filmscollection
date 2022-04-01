@@ -1,0 +1,90 @@
+{
+    "id": 236,
+    "title": "War for the Planet of the Apes",
+    "poster": "planet_of_the_apes_3",
+    "trailer": "JDcAlo8i2y8",
+    "genres": [
+        "Action",
+        "Drama"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Chernin Entertainment"
+    ],
+    "director": [
+        "Matt Reeves"
+    ],
+    "producers": "Peter Chernin, Dylan Clark, Amanda Silver",
+    "writtens": "Mark Bomback, Matt Reeves",
+    "music": "Michael Giacchino",
+    "cinema": "Michael Seresin",
+    "year": 2017,
+    "time": 140,
+    "countries": [
+        "USA",
+        "Canada",
+        "New Zealand"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 491,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Andy Serkis",
+            "character": "Caesar"
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": "The Colonel"
+        },
+        {
+            "name": "Steve Zahn",
+            "character": "Bad Ape"
+        },
+        {
+            "name": "Karin Konoval",
+            "character": "Maurice"
+        },
+        {
+            "name": "Amiah Miller",
+            "character": "Nova"
+        },
+        {
+            "name": "Terry Notary",
+            "character": "Rocket"
+        },
+        {
+            "name": "Ty Olsson",
+            "character": "Red Donkey"
+        },
+        {
+            "name": "Michael Adamthwaite",
+            "character": "Luca"
+        }
+    ],
+    "synopsis": "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Visual Effects"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Planet of the Apes Reboot",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201707
+}

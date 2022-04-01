@@ -1,0 +1,96 @@
+{
+    "id": 221,
+    "title": "Scott Pilgrim vs. the World",
+    "poster": "scott_pilgrim",
+    "trailer": "7wd5KEaOtm4",
+    "genres": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Edgar Wright"
+    ],
+    "producers": "Nira Park, Marc Platt, Edgar Wright",
+    "writtens": "Michael Bacall, Edgar Wright",
+    "music": "Nigel Godrich",
+    "cinema": "Bill Pope",
+    "year": 2010,
+    "time": 112,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 60,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 49,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Michael Cera",
+            "character": "Scott Pilgrim"
+        },
+        {
+            "name": "Mary Elizabeth Winstead",
+            "character": "Ramona Flowers"
+        },
+        {
+            "name": "Kieran Culkin",
+            "character": "Wallace Wells"
+        },
+        {
+            "name": "Anna Kendrick",
+            "character": "Stacey Pilgrim"
+        },
+        {
+            "name": "Brie Larson",
+            "character": "Natalie V. \"Envy\" Adams"
+        },
+        {
+            "name": "Alison Pill",
+            "character": "Kim Pine"
+        },
+        {
+            "name": "Satya Bhabha",
+            "character": "Matthew Patel"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Lucas Lee"
+        },
+        {
+            "name": "Brandon Routh",
+            "character": "Todd Ingram"
+        },
+        {
+            "name": "Mae Whitman",
+            "character": "Roxy Richter"
+        },
+        {
+            "name": "Shota Saito",
+            "character": "Ken Katayanagi"
+        },
+        {
+            "name": "Keita Saito",
+            "character": "Kyle Katayanagi"
+        },
+        {
+            "name": "Jason Schwartzman",
+            "character": "Gideon Graves"
+        }
+    ],
+    "synopsis": "In a magically realistic version of Toronto, a young man must defeat his new girlfriend's seven evil exes one by one in order to win her heart.",
+    "collections": [
+        "Superheroes"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201008,
+    "characters": 7
+}

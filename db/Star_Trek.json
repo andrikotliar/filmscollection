@@ -1,0 +1,115 @@
+{
+    "id": 77,
+    "title": "Star Trek",
+    "poster": "star_trek_1",
+    "trailer": "pKFUZ10Wmbw",
+    "genres": [
+        "Sci-Fi",
+        "SpaceOpera"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Bad Robot Productions"
+    ],
+    "director": [
+        "J.J. Abrams"
+    ],
+    "producers": "J.J. Abrams, Deamon Lindelof",
+    "writtens": "Roberto Orci, Alex Kurtzman",
+    "music": "Michael Giacchino",
+    "cinema": "Dan Mindel",
+    "year": 2009,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 386,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pine",
+            "character": "Kirk"
+        },
+        {
+            "name": "Zachary Quinto",
+            "character": "Spock"
+        },
+        {
+            "name": "Leonard Nimoy",
+            "character": "Spock Prime"
+        },
+        {
+            "name": "Eric Bana",
+            "character": "Nero"
+        },
+        {
+            "name": "Bruce Greenwood",
+            "character": "Pike"
+        },
+        {
+            "name": "Karl Urban",
+            "character": "Bones"
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": "Uhura"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Scotty"
+        },
+        {
+            "name": "John Cho",
+            "character": "Sulu"
+        },
+        {
+            "name": "Anton Yelchin",
+            "character": "Chekov"
+        },
+        {
+            "name": "Ben Cross",
+            "character": "Sarek"
+        },
+        {
+            "name": "Winona Ryder",
+            "character": "Amanda Grayson"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "George Kirk"
+        }
+    ],
+    "synopsis": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+    "collections": [
+        "Space"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Makeup"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Trek",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200905,
+    "characters": 7
+}

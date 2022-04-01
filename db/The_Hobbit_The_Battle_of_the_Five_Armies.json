@@ -1,0 +1,148 @@
+{
+    "id": 27,
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "poster": "middle_earth_3",
+    "trailer": "iVAgTiBrrDA",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "New Line Cinema"
+    ],
+    "director": [
+        "Peter Jackson"
+    ],
+    "producers": "Carolynne Cunningham, Zane Weiner, Fran Walsh, Peter Jackson",
+    "writtens": "Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro",
+    "music": "Howard Shore",
+    "cinema": "Andrew Lesnie",
+    "year": 2014,
+    "time": 144,
+    "countries": [
+        "USA",
+        "New Zealand"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 956,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ian McKellen",
+            "character": "Gendalf"
+        },
+        {
+            "name": "Martin Freeman",
+            "character": "Bilbo"
+        },
+        {
+            "name": "Richard Armitage",
+            "character": "Thorin"
+        },
+        {
+            "name": "Luke Evans",
+            "character": "Bard"
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": "Tauriel"
+        },
+        {
+            "name": "Ken Stott",
+            "character": "Balin"
+        },
+        {
+            "name": "Graham McTavish",
+            "character": "Dwalin"
+        },
+        {
+            "name": "William Kircher",
+            "character": "Bifur"
+        },
+        {
+            "name": "James Nesbitt",
+            "character": "Bofur"
+        },
+        {
+            "name": "Stephen Hunter",
+            "character": "Bombur"
+        },
+        {
+            "name": "Dean O'Gorman",
+            "character": "Fili"
+        },
+        {
+            "name": "Aidan Turner",
+            "character": "Kili"
+        },
+        {
+            "name": "John Callen",
+            "character": "Oin"
+        },
+        {
+            "name": "Peter Hambleton",
+            "character": "Gloin"
+        },
+        {
+            "name": "Jed Brophy",
+            "character": "Nori"
+        },
+        {
+            "name": "Mark Hadlow",
+            "character": "Dori"
+        },
+        {
+            "name": "Adam Brown",
+            "character": "Ori"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Old Bilbo"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Elrond"
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": "Galadriel"
+        },
+        {
+            "name": "Lee Pace",
+            "character": "Thranduil"
+        }
+    ],
+    "synopsis": "Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+    "collections": [
+        "Middle-Earth"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actor",
+                "Best Fantasy Film"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Action Sequence"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Middle-Earth",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201412,
+    "characters": 7
+}

@@ -1,0 +1,83 @@
+{
+    "id": 76,
+    "title": "War of the Worlds",
+    "poster": "war_of_the_worlds",
+    "trailer": "jaasIlkad1Q",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "DreamWorks Pictures"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Kathleen Kennedy, Colin Wilson",
+    "writtens": "Josh Friedman, David Koepp",
+    "music": "John Williams",
+    "cinema": "Janusz Kaminski",
+    "year": 2005,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 132,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 592,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Ray Ferrier"
+        },
+        {
+            "name": "Dakota Fanning",
+            "character": "Rachel Ferrier"
+        },
+        {
+            "name": "Miranda Otto",
+            "character": "Mary Ann"
+        },
+        {
+            "name": "Justin Chatwin",
+            "character": "Robbie"
+        },
+        {
+            "name": "Tim Robbins",
+            "character": "Harlan Ogilvy"
+        },
+        {
+            "name": "Rick Gonzalez",
+            "character": "Vincent"
+        }
+    ],
+    "synopsis": "As Earth is invaded by alien tripod fighting machines, one family fights for survival.",
+    "collections": [
+        "Invaders"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Performance by a Younger Actor (Dakota Fanning)"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Young Actress"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200506,
+    "top": 7
+}

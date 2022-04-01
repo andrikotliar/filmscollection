@@ -1,0 +1,146 @@
+{
+    "id": 274,
+    "title": "The Legend of Korra",
+    "poster": "legend_of_korra",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Nickelodeon Animation Studios"
+    ],
+    "director": [
+        "Michael Dante DiMartino",
+        "Bryan Konietzko"
+    ],
+    "producers": "Tim Yoon, Karen Malach",
+    "writtens": "Michael Dante DiMartino, Bryan Konietzko, Tim Hedrick, Joshua Hamilton, Katie Mattila",
+    "music": "Jeremy Zuckerman",
+    "year": 2012,
+    "time": 1196,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Janet Varney",
+            "character": "Korra"
+        },
+        {
+            "name": "P.J. Byrne",
+            "character": "Bolin"
+        },
+        {
+            "name": "David Faustino",
+            "character": "Mako"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "Tenzin"
+        },
+        {
+            "name": "Seychelle Gabriel",
+            "character": "Asami Sato"
+        },
+        {
+            "name": "Mindy Sterling",
+            "character": "Lin Beifong"
+        },
+        {
+            "name": "Logan Wells",
+            "character": "Meelo"
+        },
+        {
+            "name": "Kiernan Shipka",
+            "character": "Jinora"
+        },
+        {
+            "name": "John Michael Higgins",
+            "character": "Varrick"
+        },
+        {
+            "name": "Darcy Rose Byrnes",
+            "character": "Ikki"
+        },
+        {
+            "name": "Richard Riehle",
+            "character": "Bumi"
+        },
+        {
+            "name": "James Remar",
+            "character": "Tonraq"
+        },
+        {
+            "name": "Adrian LaTourelle",
+            "character": "Unalaq"
+        },
+        {
+            "name": "Henry Rollins",
+            "character": "Zaheer"
+        },
+        {
+            "name": "Steve Blum",
+            "character": "Amon"
+        },
+        {
+            "name": "Zelda Williams",
+            "character": "Kuvira"
+        },
+        {
+            "name": "Jonathan Adams",
+            "character": "Vaatu"
+        },
+        {
+            "name": "April Stewart",
+            "character": "Raava"
+        },
+        {
+            "name": "D.B. Sweeney",
+            "character": "Aang"
+        },
+        {
+            "name": "Eva Marie Saint",
+            "character": "Katara"
+        }
+    ],
+    "synopsis": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Annie",
+            "nominations": [
+                "Outstanding Achievement in Storyboarding in an Animated TV/Broadcast Production",
+                "Outstanding Achievement in Production Design in an Animated TV/Broadcast Production"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Last Airbender",
+        "part": 2
+    },
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 12,
+            "trailer": "NBNpGCIavwA"
+        },
+        {
+            "season": 2,
+            "episodes": 14
+        },
+        {
+            "season": 3,
+            "episodes": 13
+        },
+        {
+            "season": 4,
+            "episodes": 13
+        }
+    ],
+    "sort": 201204
+}

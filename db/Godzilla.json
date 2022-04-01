@@ -1,0 +1,76 @@
+{
+    "id": 169,
+    "title": "Godzilla",
+    "poster": "monsterverse_1",
+    "trailer": "vIu85WQTPRc",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary"
+    ],
+    "director": [
+        "Gareth Edwards"
+    ],
+    "producers": "Thomas Tull, Jon Jashni, Mary Parent, Brian Rogers",
+    "writtens": "Max Borenstein",
+    "music": "Alexandre Desplat",
+    "cinema": "Seamus McGarvey",
+    "year": 2014,
+    "time": 123,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 529,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "CJ Adams",
+            "character": "Dr. Ishiro Serizawa"
+        },
+        {
+            "name": "Ken Watanabe",
+            "character": "Joe Brody"
+        },
+        {
+            "name": "Bryan Cranston",
+            "character": "Elle Brody"
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "character": "Sam Brody"
+        },
+        {
+            "name": "Carson Bolde",
+            "character": "Vivienne Graham"
+        },
+        {
+            "name": "Sally Hawkins",
+            "character": "Sandra Brody"
+        },
+        {
+            "name": "Juliette Binoche",
+            "character": "Admiral William Stenz"
+        }
+    ],
+    "synopsis": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.",
+    "collections": [
+        "Monsters"
+    ],
+    "parts": {
+        "title": "Monsterverse",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201405
+}

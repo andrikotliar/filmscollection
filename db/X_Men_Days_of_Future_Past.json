@@ -1,0 +1,108 @@
+{
+    "id": 85,
+    "title": "X-Men: Days of Future Past",
+    "poster": "x_men_6",
+    "trailer": "pK2zYHWDZKo",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Bryan Singer"
+    ],
+    "producers": "Lauren Shuler Donner, Bryan Singer",
+    "writtens": "Simon Kinberg",
+    "music": "John Ottman",
+    "cinema": "Newton Thomas Sigel",
+    "year": 2014,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 748,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan / Wolverine"
+        },
+        {
+            "name": "James McAvoy",
+            "character": "Charles Xavier"
+        },
+        {
+            "name": "Michael Fassbender",
+            "character": "Erik Lehnsherr"
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": "Raven / Mystique"
+        },
+        {
+            "name": "Halle Berry",
+            "character": "Storm"
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": "Hank / Beast"
+        },
+        {
+            "name": "Anna Paquin",
+            "character": "Rogue"
+        },
+        {
+            "name": "Ellen Page",
+            "character": "Kitty Pryde"
+        },
+        {
+            "name": "Peter Dinklage",
+            "character": "Dr. Bolivar Trask"
+        },
+        {
+            "name": "Shawn Ashmore",
+            "character": "Bobby / Iceman"
+        },
+        {
+            "name": "Evan Peters",
+            "character": "Peter / Quicksilver"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Magneto"
+        },
+        {
+            "name": "Patrick Stewart",
+            "character": "Professor X"
+        }
+    ],
+    "synopsis": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best DVD/Blu-Ray Special Edition Release"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 7
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201405
+}

@@ -1,0 +1,89 @@
+{
+    "id": 41,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "poster": "harry_potter_5",
+    "trailer": "y6ZW7KXaXYk",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "David Yates"
+    ],
+    "producers": "David Heyman, David Barron",
+    "writtens": "Michael Goldenberg",
+    "music": "Nicholas Hooper",
+    "cinema": "Slawomir Idziak",
+    "year": 2007,
+    "time": 138,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 940,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "name": "Gary Oldman",
+            "character": "Sirius Black"
+        },
+        {
+            "name": "Ralph Fiennes",
+            "character": "Lord Voldemort"
+        },
+        {
+            "name": "Imelda Staunton",
+            "character": "Dolores Umbridge"
+        },
+        {
+            "name": "Richard Harris",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        }
+    ],
+    "synopsis": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 7
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200707,
+    "characters": 3
+}

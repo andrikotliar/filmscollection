@@ -1,0 +1,73 @@
+{
+    "id": 334,
+    "title": "The Tomorrow War",
+    "poster": "tomorrow_war",
+    "trailer": "QPistcpGB8o",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Amazon Prime"
+    ],
+    "director": [
+        "Chris McKay"
+    ],
+    "producers": "Jules Daly, David Ellison, Dana Goldberg, David S. Goyer, Don Granger, Adam Kolbrenner",
+    "writtens": "Zach Dean",
+    "music": "Lorne Balfe",
+    "cinema": "Larry Fong",
+    "year": 2021,
+    "time": 138,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 14,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pratt",
+            "character": "Dan Forester"
+        },
+        {
+            "name": "Yvonne Strahovski",
+            "character": "Colonel Muri Forester"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "James Forester"
+        },
+        {
+            "name": "Betty Gilpin",
+            "character": "Emmy Forester"
+        },
+        {
+            "name": "Sam Richardson",
+            "character": "Charlie"
+        },
+        {
+            "name": "Jasmine Mathews",
+            "character": "Lt. Hart"
+        },
+        {
+            "name": "Edwin Hodge",
+            "character": "Dorian"
+        }
+    ],
+    "synopsis": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+    "collections": [
+        "Invaders",
+        "Future"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202107
+}

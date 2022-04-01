@@ -1,0 +1,108 @@
+{
+    "id": 168,
+    "title": "Sherlock",
+    "poster": "sherlock",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "production": [
+        "BBC One"
+    ],
+    "director": [
+        "Mark Gatiss",
+        "Steven Moffat"
+    ],
+    "producers": "Sue Vertue, Elaine Cameron",
+    "writtens": "Mark Gatiss, Steven Moffat, Stephen Thompson",
+    "music": "David Arnold, Michael Price",
+    "cinema": "Fabian Wagner, Steve Lawes",
+    "year": 2010,
+    "time": 1020,
+    "countries": [
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Sherlock Holmes"
+        },
+        {
+            "name": "Martin Freeman",
+            "character": "Dr. John Watson"
+        },
+        {
+            "name": "Una Stubbs",
+            "character": "Mrs. Hudson"
+        },
+        {
+            "name": "Rupert Graves",
+            "character": "DI Lestrade"
+        },
+        {
+            "name": "Louise Brealey",
+            "character": "Molly Hooper"
+        },
+        {
+            "name": "Mark Gatiss",
+            "character": "Mycroft Holmes"
+        },
+        {
+            "name": "Andrew Scott",
+            "character": "Jim Moriarty"
+        },
+        {
+            "name": "Amanda Abbington",
+            "character": "Mary Watson"
+        }
+    ],
+    "synopsis": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "awards": [
+        {
+            "title": "Primetime Emmy",
+            "nominations": [
+                "Outstanding Television Movie",
+                "Outstanding Special Visual Effects in a Supporting Role",
+                "Outstanding Lead Actor in a Miniseries or a Movie",
+                "Outstanding Supporting Actor in a Miniseries or a Movie",
+                "Outstanding Writing for a Miniseries or a Dramatic Special",
+                "Outstanding Cinematography for a Miniseries or Movie",
+                "Outstanding Music Composition for a Miniseries",
+                "Movie or a Special (Original Dramatic Score)",
+                "Outstanding Single-Camera Picture Editing for a Miniseries or a Movie",
+                "Outstanding Sound Editing for a Miniseries",
+                "Movie or a Special"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 3,
+            "trailer": "xK7S9mrFWL4"
+        },
+        {
+            "season": 2,
+            "episodes": 3,
+            "trailer": "vydmN9pzDzg"
+        },
+        {
+            "season": 3,
+            "episodes": 3,
+            "trailer": "9UcR9iKArd0"
+        },
+        {
+            "season": 4,
+            "episodes": 3,
+            "trailer": "qlcWFoNqZHc"
+        }
+    ],
+    "sort": 201007
+}

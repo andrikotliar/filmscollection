@@ -1,0 +1,80 @@
+{
+    "id": 208,
+    "title": "Gemini Man",
+    "poster": "gemini",
+    "trailer": "AbyJignbSj0",
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Skydance Media"
+    ],
+    "director": [
+        "Ang Lee"
+    ],
+    "producers": "Jerry Bruckheimer, David Ellison",
+    "writtens": "David Benioff, Billy Ray, Darren Lemke",
+    "music": "Lorne Balfe",
+    "cinema": "Dion Beebe",
+    "year": 2019,
+    "time": 117,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 138,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 173,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": "Henry Brogan / Junior"
+        },
+        {
+            "name": "Mary Elizabeth Winstead",
+            "character": "Danny Zakarweski"
+        },
+        {
+            "name": "Clive Owen",
+            "character": "Clay Verris"
+        },
+        {
+            "name": "Benedict Wong",
+            "character": "Baron"
+        },
+        {
+            "name": "Douglas Hodge",
+            "character": "Jack Willis"
+        },
+        {
+            "name": "Ralph Brown",
+            "character": "Del Patterson"
+        },
+        {
+            "name": "Linda Emond",
+            "character": "Janet Lassiter"
+        },
+        {
+            "name": "Ilia Volok",
+            "character": "Yuri Kovacs"
+        },
+        {
+            "name": "E.J. Bonilla",
+            "character": "Marino"
+        }
+    ],
+    "synopsis": "An over-the-hill hitman faces off against a younger clone of himself",
+    "collections": [
+        "Future"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201910
+}

@@ -1,0 +1,80 @@
+{
+    "id": 157,
+    "title": "The Chronicles of Narnia: The Prince Caspian",
+    "poster": "narnia_2",
+    "trailer": "9Q0Da4jlxBk",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Andrew Adamson"
+    ],
+    "producers": "Mark Johnson, Phillip Steuer",
+    "writtens": "Andrew Adamson, Christopher Markus, Stephen McFeely",
+    "music": "Harry Gregson-Williams",
+    "cinema": "Karl Walter Lindenlaub",
+    "year": 2008,
+    "time": 150,
+    "countries": [
+        "UK",
+        "USA"
+    ],
+    "budget": {
+        "value": 225,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 420,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Barnes",
+            "character": "Prince Caspian"
+        },
+        {
+            "name": "Georgie Henley",
+            "character": "Lucy Pevensie"
+        },
+        {
+            "name": "Skandar Keynes",
+            "character": "Edmund Pevensie"
+        },
+        {
+            "name": "William Moseley",
+            "character": "Peter Pevensie"
+        },
+        {
+            "name": "Anna Popplewell",
+            "character": "Susan Pevensie"
+        },
+        {
+            "name": "Sergio Castellitto",
+            "character": "Miraz"
+        },
+        {
+            "name": "Peter Dinklage",
+            "character": "Trumpkin"
+        },
+        {
+            "name": "Warwick Davis",
+            "character": "Nikabrik"
+        }
+    ],
+    "synopsis": "The Pevensie siblings return to Narnia, where they are enlisted to once again help ward off an evil king and restore the rightful heir to the land's throne, Prince Caspian.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "The Chronicles of Narnia",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200805
+}

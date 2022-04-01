@@ -1,0 +1,115 @@
+{
+    "id": 172,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "poster": "spiderman_intospiderverse",
+    "trailer": "g4Hbz2jLxvQ",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Sony Pictures Animation",
+        "Columbia Pictures",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Bob Persichetti",
+        "Peter Ramsey",
+        "Rodney Rothman"
+    ],
+    "producers": "Avi Arad, Amy Pascal, Phil Lord , Christopher Miller, Christina Steinberg",
+    "writtens": "Phil Lord, Rodney Rothman",
+    "music": "Daniel Pemberton",
+    "year": 2018,
+    "time": 117,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 371,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Shameik Moore",
+            "character": "Miles Morales"
+        },
+        {
+            "name": "Jake Johnson",
+            "character": "Peter B. Parker"
+        },
+        {
+            "name": "Hailee Steinfeld",
+            "character": "Gwen Stacy"
+        },
+        {
+            "name": "Mahershala Ali",
+            "character": "Uncle Aaron"
+        },
+        {
+            "name": "Brian Tyree Henry",
+            "character": "Jefferson Davis"
+        },
+        {
+            "name": "Lily Tomlin",
+            "character": "Aunt May"
+        },
+        {
+            "name": "Luna Lauren Velez",
+            "character": "Rio Morales"
+        },
+        {
+            "name": "Zoe Kravitz",
+            "character": "Mary Jane"
+        },
+        {
+            "name": "John Mulaney",
+            "character": "Spider-Ham"
+        },
+        {
+            "name": "Kimiko Glenn",
+            "character": "Peni Parker"
+        },
+        {
+            "name": "Nicolas Cage",
+            "character": "Spider-Man Noir"
+        },
+        {
+            "name": "Liev Schreiber",
+            "character": "Wilson Fisk"
+        }
+    ],
+    "synopsis": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature Film"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 201812,
+    "characters": 5
+}

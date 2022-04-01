@@ -1,0 +1,79 @@
+{
+    "id": 178,
+    "title": "World War Z",
+    "poster": "world_war_z",
+    "trailer": "Md6Dvxdr0AQ",
+    "genres": [
+        "Action",
+        "Adventures",
+        "Horror"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Skydance Productions"
+    ],
+    "director": [
+        "Marc Forster"
+    ],
+    "producers": "Brad Pitt, Dede Gardner, Jeremy Kleiner",
+    "writtens": "Matthew Michael Carnahan, Drew Goddard",
+    "music": "Marco Beltrami",
+    "cinema": "Ben Seresin",
+    "year": 2013,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 190,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 540,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Brad Pitt",
+            "character": "Gerry Lane"
+        },
+        {
+            "name": "Mireille Enos",
+            "character": "Karin Lane"
+        },
+        {
+            "name": "Daniella Kertesz",
+            "character": "Segen"
+        },
+        {
+            "name": "James Badge Dale",
+            "character": "Captain Speke"
+        },
+        {
+            "name": "Ludi Boeken",
+            "character": "Jurgen Warmbrunn"
+        }
+    ],
+    "synopsis": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Thriller Film"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Scared-As-S**t Performance"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201306
+}

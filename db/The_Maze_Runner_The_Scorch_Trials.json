@@ -1,0 +1,84 @@
+{
+    "id": 252,
+    "title": "The Maze Runner: The Scorch Trials",
+    "poster": "maze_runner_2",
+    "trailer": "SDofO3P2HpE",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Wes Ball"
+    ],
+    "producers": "Marty Bowen, Wyck Godfrey, Ellen Goldsmith-Vein, Lee Stollman",
+    "writtens": "T.S. Nowlin",
+    "music": "John Paesano",
+    "cinema": "Gyula Pados",
+    "year": 2015,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 61,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 312,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dylan O'Brien",
+            "character": "Thomas"
+        },
+        {
+            "name": "Kaya Scodelario",
+            "character": "Teresa"
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": "Harriet"
+        },
+        {
+            "name": "Thomas Brodie-Sangster",
+            "character": "Newt"
+        },
+        {
+            "name": "Ki Hong Lee",
+            "character": "Minho"
+        },
+        {
+            "name": "Aidan Gillen",
+            "character": "Janson"
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": "Jorge"
+        },
+        {
+            "name": "Katherine McNamara",
+            "character": "Sonya"
+        },
+        {
+            "name": "Rosa Salazar",
+            "character": "Brenda"
+        }
+    ],
+    "synopsis": "After having escaped the Maze, the Gladers now face a new set of challenges on the open roads of a desolate landscape filled with unimaginable obstacles.",
+    "collections": [
+        "Dystopia"
+    ],
+    "parts": {
+        "title": "The Maze Runner",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201509,
+    "characters": 6
+}

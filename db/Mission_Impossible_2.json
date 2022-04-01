@@ -1,0 +1,88 @@
+{
+    "id": 4,
+    "title": "Mission: Impossible 2",
+    "poster": "mi_2",
+    "trailer": "Aqk78Z57LGg",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "John Wo"
+    ],
+    "producers": "Tom Cruise, Paula Wagner",
+    "writtens": "Robert Towne",
+    "music": "Hans Zimmer",
+    "cinema": "Jeffrey L. Kimball",
+    "year": 2000,
+    "time": 123,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 546,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "name": "Dougray Scott",
+            "character": "Sean Ambrose"
+        },
+        {
+            "name": "Thandie Newton",
+            "character": "Nyah Hall"
+        },
+        {
+            "name": "Ving Rhames",
+            "character": "Luther Strickell"
+        },
+        {
+            "name": "Richard Roxburgh",
+            "character": "Hugh Stamp"
+        },
+        {
+            "name": "John Polson",
+            "character": "Billy Baird"
+        },
+        {
+            "name": "Brendan Gleeson",
+            "character": "McCloy"
+        },
+        {
+            "name": "Rade Serbedzija",
+            "character": "Dr. Nekhorvich"
+        }
+    ],
+    "synopsis": "IMF Agent Ethan Hunt is sent to Sydney, to find and destroy a genetically modified disease called \"Chimera\".",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "awards": [
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Male Performance",
+                "Best Action Sequence"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Mission: Impossible",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200005
+}

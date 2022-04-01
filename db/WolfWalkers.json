@@ -1,0 +1,65 @@
+{
+    "id": 289,
+    "title": "WolfWalkers",
+    "poster": "wolfwalkers",
+    "trailer": "d_Z_tybgPgg",
+    "genres": [
+        "Adventures"
+    ],
+    "production": [
+        "Apple TV+"
+    ],
+    "director": [
+        "Tomm Moore",
+        "Ross Stewart"
+    ],
+    "producers": "Tomm Moore, Stéphan Roelants, Nora Twomey, Paul Young",
+    "writtens": "Will Collins",
+    "music": "Bruno Coulais",
+    "year": 2020,
+    "time": 103,
+    "countries": [
+        "Ireland",
+        "UK",
+        "Luxembourg",
+        "France"
+    ],
+    "budget": {
+        "value": 12,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.3,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Honor Kneafsey",
+            "character": "Robyn Goodfellowe"
+        },
+        {
+            "name": "Eva Whittaker",
+            "character": "Mebh Óg MacTíre"
+        },
+        {
+            "name": "Sean Bean",
+            "character": "Bill Goodfellowe"
+        },
+        {
+            "name": "Simon McBurney",
+            "character": "Lord Protector"
+        },
+        {
+            "name": "Maria Doyle Kennedy",
+            "character": "Mebh's Mother"
+        }
+    ],
+    "synopsis": "A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 202010
+}

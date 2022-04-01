@@ -1,0 +1,106 @@
+{
+    "id": 23,
+    "title": "Star Wars Episode VII: The Force Awakens",
+    "poster": "star_wars_episode_VII",
+    "trailer": "sGbxmsDFVnE",
+    "genres": [
+        "SpaceOpera",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Lucasfilm"
+    ],
+    "director": [
+        "J.J. Abrams"
+    ],
+    "producers": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+    "writtens": "Lawrence Kasdan, J. J. Abrams, Michael Arndt",
+    "music": "John Williams",
+    "cinema": "Dan Mindel",
+    "year": 2015,
+    "time": 135,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 306,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 2.07,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Daisy Ridley",
+            "character": "Rey"
+        },
+        {
+            "name": "Adam Driver",
+            "character": "Kylo Ren"
+        },
+        {
+            "name": "John Boyega",
+            "character": "Finn"
+        },
+        {
+            "name": "Harrison Ford",
+            "character": "Han Solo"
+        },
+        {
+            "name": "Mark Hamill",
+            "character": "Luke Skywalker"
+        },
+        {
+            "name": "Carrie Fisher",
+            "character": "Leia"
+        },
+        {
+            "name": "Oscar Isaac",
+            "character": "Poe Dameron"
+        },
+        {
+            "name": "Andy Serkis",
+            "character": "Snoke"
+        },
+        {
+            "name": "Peter Mayhew",
+            "character": "Chewbacca"
+        }
+    ],
+    "synopsis": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker.",
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Achievement in Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Writing",
+                "Best Actor",
+                "Best Supporting Actor",
+                "Best Music",
+                "Best Editing",
+                "Best Make-Up",
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 10
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201512,
+    "characters": 5
+}

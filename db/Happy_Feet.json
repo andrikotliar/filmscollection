@@ -1,0 +1,91 @@
+{
+    "id": 150,
+    "title": "Happy Feet",
+    "poster": "happy_feet",
+    "trailer": "hFUC5adf8FE",
+    "genres": [
+        "Musical",
+        "Romance"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Village Roadshow Pictures"
+    ],
+    "director": [
+        "George Miller"
+    ],
+    "producers": "Bill Miller, George Miller, Doug Mitchell",
+    "writtens": "Warren Coleman, John Collee, George Miller, Judy Morris",
+    "music": "John Powell",
+    "cinema": "David Peers",
+    "year": 2006,
+    "time": 108,
+    "countries": [
+        "USA",
+        "Australia"
+    ],
+    "budget": {
+        "value": 100,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 384,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Elijah Wood",
+            "character": "Mumble"
+        },
+        {
+            "name": "Brittany Murphy",
+            "character": "Gloria"
+        },
+        {
+            "name": "Hugh Jackman",
+            "character": "Memphis"
+        },
+        {
+            "name": "Nicole Kidman",
+            "character": "Norma Jean"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Noah the Elder"
+        },
+        {
+            "name": "Carlos Alazraqui",
+            "character": "Nestor"
+        },
+        {
+            "name": "Lombardo Boyar",
+            "character": "Raul"
+        },
+        {
+            "name": "Robin Williams",
+            "character": "Ramon / Lovelace"
+        }
+    ],
+    "synopsis": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature Film of the Year"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Animated Feature Film"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200612
+}

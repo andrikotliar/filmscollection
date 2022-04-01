@@ -1,0 +1,69 @@
+{
+    "id": 298,
+    "title": "Raya and the Last Dragon",
+    "poster": "raya",
+    "trailer": "1VIZ89FEjYI",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Don Hall",
+        "Carlos López Estrada"
+    ],
+    "producers": "Peter Del Vecho",
+    "writtens": "Qui Nguyen, Adele Lim",
+    "music": "James Newton Howard",
+    "cinema": "Rob Dressel",
+    "year": 2021,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 100,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Kelly Marie Tran",
+            "character": "Raya"
+        },
+        {
+            "name": "Awkwafina",
+            "character": "Sisu"
+        },
+        {
+            "name": "Izaac Wang",
+            "character": "Boun"
+        },
+        {
+            "name": "Gemma Chan",
+            "character": "Namaari"
+        },
+        {
+            "name": "Daniel Dae Kim",
+            "character": "Benja"
+        },
+        {
+            "name": "Benedict Wong",
+            "character": "Tong"
+        }
+    ],
+    "synopsis": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202103,
+    "characters": 4
+}

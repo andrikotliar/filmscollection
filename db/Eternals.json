@@ -1,0 +1,99 @@
+{
+    "id": 201,
+    "title": "Eternals",
+    "poster": "eternals",
+    "trailer": "x_me3xsvDgk",
+    "genres": [
+        "Adventures",
+        "Action",
+        "Drama"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Chloe Zhao"
+    ],
+    "producers": "Kevin Feige, Nate Moore",
+    "writtens": "Chloe Zhao, Patrick Burleigh, Ryan Firpo, Kaz Firpo",
+    "music": "Ramin Djawadi",
+    "cinema": "Ben Davis",
+    "year": 2021,
+    "time": 100,
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 281,
+        "suffix": "million"
+    },
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Richard Madden",
+            "character": "Ikaris"
+        },
+        {
+            "name": "Salma Hayek",
+            "character": "Ajak"
+        },
+        {
+            "name": "Angelina Jolie",
+            "character": "Thena"
+        },
+        {
+            "name": "Kit Harington",
+            "character": "Dane Whitman / Black Knight"
+        },
+        {
+            "name": "Gemma Chan",
+            "character": "Sersi"
+        },
+        {
+            "name": "Barry Keoghan",
+            "character": "Druig"
+        },
+        {
+            "name": "Lia McHugh",
+            "character": "Sprite"
+        },
+        {
+            "name": "Brian Tyree Henry",
+            "character": "Phastos"
+        },
+        {
+            "name": "Kumail Nanjiani",
+            "character": "Kingo"
+        },
+        {
+            "name": "Lauren Ridloff",
+            "character": "Makkari"
+        },
+        {
+            "name": "Ma Dong Seok",
+            "character": "Gilgamesh"
+        },
+        {
+            "name": "Harish Patel",
+            "character": "Karun"
+        }
+    ],
+    "synopsis": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 28
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202111,
+    "characters": 12
+}

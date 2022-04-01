@@ -1,0 +1,146 @@
+{
+    "id": 74,
+    "title": "Avengers: Endgame",
+    "poster": "avengers_4",
+    "trailer": "TcMBFSGVi1c",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Anthony Russo",
+        "Joe Russo"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Markus, Stephen McFeely",
+    "music": "Alan Silvestri",
+    "cinema": "Trent Opaloch",
+    "year": 2019,
+    "time": 181,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 356,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 2.73,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America"
+        },
+        {
+            "name": "Brie Larson",
+            "character": "Carol Danvers / Captain Marvel"
+        },
+        {
+            "name": "Bradley Cooper",
+            "character": "Rocket"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "Thor"
+        },
+        {
+            "name": "Karen Gillan",
+            "character": "Nebula"
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": "Hope van Dyne / The Wasp"
+        },
+        {
+            "name": "Josh Brolin",
+            "character": "Thanos"
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "character": "Wanda Maximoff"
+        },
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker / Spider-Man"
+        },
+        {
+            "name": "Paul Rudd",
+            "character": "Scott Lang / Ant-Man"
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": "Bucky Barnes"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "Clint Barton / Hawkeye"
+        },
+        {
+            "name": "Chadwick Boseman",
+            "character": "T'Challa / Black Panther"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner / The Professor Hulk"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James Rhodes / The War Machine"
+        }
+    ],
+    "synopsis": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Comic-to-Film Motion Picture",
+                "Best Actor (Robert Downey Jr.)",
+                "Best Production Design",
+                "Best Make-Up",
+                "Best Editing",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie",
+                "Best Hero (Robert Downey Jr. as Tony Stark)",
+                "Best Villain (Josh Brolin as Thanos)"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Visual Effects",
+                "Best Action Movie"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 22
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201904,
+    "characters": 17
+}

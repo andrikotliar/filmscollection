@@ -1,0 +1,102 @@
+{
+    "id": 95,
+    "title": "Edge of Tomorrow",
+    "poster": "edge_of_tomorow",
+    "trailer": "vw61gCe2oqI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Doug Liman"
+    ],
+    "producers": "Erwin Stoff, Tom Lassally, Jeffrey Silver",
+    "writtens": "Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth",
+    "music": "Christophe Beck",
+    "cinema": "Dion Beebe",
+    "year": 2014,
+    "time": 113,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 178,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 370,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Cage"
+        },
+        {
+            "name": "Emily Blunt",
+            "character": "Rita"
+        },
+        {
+            "name": "Brendan Gleeson",
+            "character": "General Brigham"
+        },
+        {
+            "name": "Bill Paxton",
+            "character": "Master Sergeant Farell"
+        },
+        {
+            "name": "Jonas Armstrong",
+            "character": "Skinner"
+        },
+        {
+            "name": "Tony Way",
+            "character": "Kimmel"
+        },
+        {
+            "name": "Kick Gurry",
+            "character": "Griff"
+        },
+        {
+            "name": "Franz Drameh",
+            "character": "Ford"
+        },
+        {
+            "name": "Dragomir Mrsic",
+            "character": "Kuntz"
+        },
+        {
+            "name": "Charlotte Riley",
+            "character": "Nance"
+        },
+        {
+            "name": "Masayoshi Haneda",
+            "character": "Takeda"
+        }
+    ],
+    "synopsis": "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",
+    "collections": [
+        "Invaders"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Editing"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Actress in an Action Movie"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201405,
+    "characters": 2
+}

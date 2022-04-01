@@ -1,0 +1,82 @@
+{
+    "id": 75,
+    "title": "Spider-Man: Far from Home",
+    "poster": "mcu_spider_man_2",
+    "trailer": "Nt9L1jCKGnE",
+    "genres": [
+        "Sci-Fi",
+        "Comedy"
+    ],
+    "production": [
+        "Sony Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Jon Watts"
+    ],
+    "producers": "Kevin Feige, Amy Pascal",
+    "writtens": "Chris McKenna, Erik Sommers",
+    "music": "Michael Giacchino",
+    "cinema": "Matthew J. Lloyd",
+    "year": 2019,
+    "time": 129,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.13,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker / Spider-Man"
+        },
+        {
+            "name": "Jake Gyllenhaal",
+            "character": "Quentin Beck / Mysterio"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Marisa Tomei",
+            "character": "May Parker"
+        },
+        {
+            "name": "Jon Favreau",
+            "character": "Happy Hogan"
+        },
+        {
+            "name": "Zendaya",
+            "character": "MJ"
+        }
+    ],
+    "synopsis": "Following the events of Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actress",
+                "Best Performance by a Younger Actor"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 23
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201906,
+    "characters": 4
+}

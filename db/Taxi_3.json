@@ -1,0 +1,78 @@
+{
+    "id": 196,
+    "title": "Taxi 3",
+    "poster": "taxi_3",
+    "trailer": "XLP-rf3dHOQ",
+    "genres": [
+        "Comedy"
+    ],
+    "production": [
+        "LionsGate Entertainment"
+    ],
+    "director": [
+        "Gérard Krawczyk"
+    ],
+    "producers": "Luc Besson",
+    "writtens": "Luc Besson",
+    "music": "DJ Kore, DJ Skalp",
+    "cinema": "G'rard Sterin",
+    "year": 2003,
+    "time": 84,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 14,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 64,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Samy Naceri",
+            "character": "Daniel Morales"
+        },
+        {
+            "name": "Frédéric Diefenthal",
+            "character": "Emilien Coutant-Kerbalec"
+        },
+        {
+            "name": "Bernard Farcy",
+            "character": "Commissaire Gibert"
+        },
+        {
+            "name": "Bai Ling",
+            "character": "Qiu"
+        },
+        {
+            "name": "Emma Wiklund",
+            "character": "Petra"
+        },
+        {
+            "name": "Marion Cotillard",
+            "character": "Lilly Bertineau"
+        },
+        {
+            "name": "Edouard Montoute",
+            "character": "Alain"
+        },
+        {
+            "name": "Jean-Christophe Bouvet",
+            "character": "G'n'ral Edmond Bertineau"
+        }
+    ],
+    "synopsis": "Out to stop a new gang disguised as Santa Claus, Emilien and Daniel must also handle major changes in their personal relationships.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "Besson's Taxi",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200301
+}

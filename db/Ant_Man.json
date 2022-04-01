@@ -1,0 +1,96 @@
+{
+    "id": 64,
+    "title": "Ant-Man",
+    "poster": "ant_man_1",
+    "trailer": "pWdKf3MneyI",
+    "genres": [
+        "Sci-Fi",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Peyton Reed"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Edgar Wright, Joe Cornish, Adam McKay, Paul Rudd",
+    "music": "Christophe Beck",
+    "cinema": "Russell Carpenter",
+    "year": 2015,
+    "time": 117,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 519,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Paul Rudd",
+            "character": "Scott Lang / Ant-Man"
+        },
+        {
+            "name": "Michael Douglas",
+            "character": "Dr. Hank Pym"
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": "Hope van Dyne"
+        },
+        {
+            "name": "Corey Stoll",
+            "character": "Darren Cross / Yellowjacket"
+        },
+        {
+            "name": "Bobby Cannavale",
+            "character": "Paxton"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Sam Wilson / Falcon"
+        },
+        {
+            "name": "Judy Greer",
+            "character": "Maggie Lang"
+        },
+        {
+            "name": "Abby Ryder Fortson",
+            "character": "Cassie Lang"
+        },
+        {
+            "name": "Michael Pena",
+            "character": "Luis"
+        },
+        {
+            "name": "David Dastmalchian",
+            "character": "Kurt"
+        }
+    ],
+    "synopsis": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Comic-to-Film Motion Picture"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 12
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201507
+}

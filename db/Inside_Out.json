@@ -1,0 +1,80 @@
+{
+    "id": 333,
+    "title": "Inside Out",
+    "poster": "inside_out",
+    "trailer": "yRUAzGQ3nSY",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "Pete Docter",
+        "Ronnie Del Carmen"
+    ],
+    "producers": "Jonas Rivera",
+    "writtens": "Pete Docter, Meg LeFauve, Josh Cooley",
+    "music": "Michael Giacchino",
+    "year": 2015,
+    "time": 95,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 859,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Amy Poehler",
+            "character": "Joy"
+        },
+        {
+            "name": "Phyllis Smith",
+            "character": "Sadness"
+        },
+        {
+            "name": "Richard Kind",
+            "character": "Bing Bong"
+        },
+        {
+            "name": "Bill Hader",
+            "character": "Fear"
+        },
+        {
+            "name": "Lewis Black",
+            "character": "Anger"
+        },
+        {
+            "name": "Mindy Kaling",
+            "character": "Disgust"
+        },
+        {
+            "name": "Kaitlyn Dias",
+            "character": "Riley"
+        },
+        {
+            "name": "Diane Lane",
+            "character": "Mom"
+        },
+        {
+            "name": "Kyle MacLachlan",
+            "character": "Dad"
+        }
+    ],
+    "synopsis": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 201506,
+    "characters": 5
+}

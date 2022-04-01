@@ -1,0 +1,161 @@
+{
+    "id": 291,
+    "title": "Dark",
+    "poster": "dark",
+    "genres": [
+        "Fantasy",
+        "Drama"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "Baran bo Odar",
+        "Jantje Friese"
+    ],
+    "producers": "Justyna Müsch, Jantje Friese, Quirin Berg, Max Wiedemann, Baran bo Odar",
+    "writtens": "Jantje Friese, Ronny Schalk, Marc O. Seng, Martin Behnke, Daphne Ferraro",
+    "music": "Ben Frost",
+    "cinema": "Nikolaus Summerer",
+    "year": 2017,
+    "time": 1560,
+    "countries": [
+        "Germany",
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Louis Hofmann",
+            "character": "Jonas Kahnwald"
+        },
+        {
+            "name": "Karoline Eichhorn",
+            "character": "Charlotte Doppler"
+        },
+        {
+            "name": "Lisa Vicari",
+            "character": "Martha Nielsen"
+        },
+        {
+            "name": "Maja Schöne",
+            "character": "Hannah Kahnwald"
+        },
+        {
+            "name": "Stephan Kampwirth",
+            "character": "Peter Doppler"
+        },
+        {
+            "name": "Jördis Triebel",
+            "character": "Katharina Nielsen"
+        },
+        {
+            "name": "Andreas Pietschmann",
+            "character": "The Stranger"
+        },
+        {
+            "name": "Paul Lux",
+            "character": "Bartosz Tiedemann"
+        },
+        {
+            "name": "Moritz Jahn",
+            "character": "Magnus Nielsen"
+        },
+        {
+            "name": "Christian Hutcherson",
+            "character": "Magnus Nielsen"
+        },
+        {
+            "name": "Oliver Masucci",
+            "character": "Ulrich Nielsen"
+        },
+        {
+            "name": "Peter Benedict",
+            "character": "Aleksander Tiedemann"
+        },
+        {
+            "name": "Gina Stiebitz",
+            "character": "Franziska Doppler"
+        },
+        {
+            "name": "Deborah Kaufmann",
+            "character": "Regina Tiedemann"
+        },
+        {
+            "name": "Julika Jenkins",
+            "character": "Claudia Tiedemann (1987)"
+        },
+        {
+            "name": "Carlotta von Falkenhayn",
+            "character": "Elisabeth Doppler"
+        },
+        {
+            "name": "Dietrich Hollinderbäumer",
+            "character": "Adam"
+        },
+        {
+            "name": "Mark Waschke",
+            "character": "Noah"
+        },
+        {
+            "name": "Hermann Beyer",
+            "character": "Helge Doppler"
+        },
+        {
+            "name": "Lisa Kreuzer",
+            "character": "Claudia Tiedemann"
+        },
+        {
+            "name": "Anne Ratte-Polle",
+            "character": "Ines Kahnwald (1986)"
+        },
+        {
+            "name": "Walter Kreye",
+            "character": "Tronte Nielsen"
+        },
+        {
+            "name": "Lydia Maria Makrides",
+            "character": "Regina Tiedemann (1986)"
+        },
+        {
+            "name": "Tom Philipp",
+            "character": "Helge Doppler (1953)"
+        },
+        {
+            "name": "Max Schimmelpfennig",
+            "character": "Young Noah"
+        }
+    ],
+    "synopsis": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Jupyter",
+            "nominations": [
+                "Best German TV Actor"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "rrwycJ08PSA"
+        },
+        {
+            "season": 2,
+            "episodes": 8,
+            "trailer": "810CHvSdXOo"
+        },
+        {
+            "season": 3,
+            "episodes": 8,
+            "trailer": "cq2iTHoLrt0"
+        }
+    ],
+    "sort": 201712
+}

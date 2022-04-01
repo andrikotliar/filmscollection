@@ -1,0 +1,87 @@
+{
+    "id": 90,
+    "title": "The Mummy",
+    "poster": "mummy_1",
+    "trailer": "h3ptPtxWJRs",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Stephen Sommers"
+    ],
+    "producers": "James Jacks, Sean Daniel",
+    "writtens": "Stephen Sommers",
+    "music": "Jerry Goldsmith",
+    "cinema": "Adrian Biddle",
+    "year": 1999,
+    "time": 125,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 80,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 416,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Brendan Fraser",
+            "character": "Rick O'Connell"
+        },
+        {
+            "name": "Rachel Weisz",
+            "character": "Evelyn Carnahan"
+        },
+        {
+            "name": "John Hannah",
+            "character": "Jonathan Carnahan"
+        },
+        {
+            "name": "Arnold Vosloo",
+            "character": "Imhotep"
+        },
+        {
+            "name": "Kevin J. O'Connor",
+            "character": "Beni Gabor"
+        },
+        {
+            "name": "Jonathan Hyde",
+            "character": "Dr. Allen Chamberlain"
+        },
+        {
+            "name": "Oded Fehr",
+            "character": "Ardeth Bay"
+        },
+        {
+            "name": "Erick Avari",
+            "character": "Dr. Terrence Bey"
+        }
+    ],
+    "synopsis": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreck havoc as he searches for the reincarnation of his long-lost love.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Mummy",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199904
+}

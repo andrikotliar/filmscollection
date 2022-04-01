@@ -1,0 +1,92 @@
+{
+    "id": 278,
+    "title": "Monsters, Inc.",
+    "poster": "monsters_inc",
+    "trailer": "6tCxnHCqqxg",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "Pete Docter"
+    ],
+    "producers": "Darla K. Anderson",
+    "writtens": "Andrew Stanton, Daniel Gerson",
+    "music": "Randy Newman",
+    "year": 2001,
+    "time": 92,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 115,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 580,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "John Goodman",
+            "character": "Sullivan"
+        },
+        {
+            "name": "Billy Crystal",
+            "character": "Mike"
+        },
+        {
+            "name": "Mary Gibbs",
+            "character": "Boo"
+        },
+        {
+            "name": "Steve Buscemi",
+            "character": "Randall"
+        },
+        {
+            "name": "James Coburn",
+            "character": "Waternoose"
+        },
+        {
+            "name": "Jennifer Tilly",
+            "character": "Celia"
+        }
+    ],
+    "synopsis": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Music (Original Song)"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Feature Film"
+            ]
+        },
+        {
+            "title": "Annie",
+            "nominations": [
+                "Outstanding Character Animation"
+            ]
+        },
+        {
+            "title": "Grammy",
+            "nominations": [
+                "Best Song Written for Visual Media"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200111
+}

@@ -1,0 +1,71 @@
+{
+    "id": 124,
+    "title": "Ice Age: The Meltdown",
+    "poster": "ice_age_2",
+    "trailer": "s4PWGVtIZWA",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Blue Sky Studios"
+    ],
+    "director": [
+        "Carlos Saldanha"
+    ],
+    "producers": "Lori Forte",
+    "writtens": "Peter Gaulke, Gerry Swallow, Jim Hecht",
+    "music": "John Powell",
+    "year": 2006,
+    "time": "91",
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 80,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 661,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ray Romano",
+            "character": "Manny"
+        },
+        {
+            "name": "John Leguizamo",
+            "character": "Sid"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Diego"
+        },
+        {
+            "name": "Seann William Scott",
+            "character": "Crash"
+        },
+        {
+            "name": "Josh Peck",
+            "character": "Eddie"
+        },
+        {
+            "name": "Queen Latifah",
+            "character": "Ellie"
+        }
+    ],
+    "synopsis": "Manny, Sid, and Diego discover that the ice age is coming to an end, and join everybody for a journey to higher ground. On the trip, they discover that Manny, in fact, is not the last of the woolly mammoths.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Ice Age",
+        "part": 2
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 200603
+}

@@ -1,0 +1,77 @@
+{
+    "id": 118,
+    "title": "Men in Black: International",
+    "poster": "mib_3",
+    "trailer": "BV-WEb2oxLk",
+    "genres": [
+        "Sci-Fi",
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Sony Pictures",
+        "Amblin Intertainment"
+    ],
+    "director": [
+        "F. Gary Gray"
+    ],
+    "producers": "Walter F. Parkes, Laurie MacDonald",
+    "writtens": "Art Marcum and Matt Holloway",
+    "music": "Danny Elfman, Chris Bacon",
+    "cinema": "Stuart Dryburgh",
+    "year": 2019,
+    "time": 115,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 254,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Hemsworth",
+            "character": "Agent H"
+        },
+        {
+            "name": "Tessa Thompson",
+            "character": "Agent M"
+        },
+        {
+            "name": "Kumail Nanjiani",
+            "character": "Pawny"
+        },
+        {
+            "name": "Rebecca Ferguson",
+            "character": "Riza"
+        },
+        {
+            "name": "Rafe Spall",
+            "character": "Agent C"
+        },
+        {
+            "name": "Emma Thompson",
+            "character": "Agent O"
+        },
+        {
+            "name": "Liam Neeson",
+            "character": "Agent High T"
+        }
+    ],
+    "synopsis": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+    "collections": [
+        "Invaders"
+    ],
+    "parts": {
+        "title": "Men in Black",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201906
+}

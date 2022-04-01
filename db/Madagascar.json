@@ -1,0 +1,76 @@
+{
+    "id": 250,
+    "title": "Madagascar",
+    "poster": "madagascar",
+    "trailer": "orAqhC-Hp_o",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": [
+        "Eric Darnell",
+        "Tom McGrath"
+    ],
+    "producers": "Mireille Soria",
+    "writtens": "Mark Burton, Billy Frolick, Eric Darnell, Tom McGrath",
+    "music": "Hans Zimmer",
+    "year": 2005,
+    "time": 86,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 542,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Stiller",
+            "character": "Alex"
+        },
+        {
+            "name": "Chris Rock",
+            "character": "Marty"
+        },
+        {
+            "name": "David Schwimmer",
+            "character": "Melman"
+        },
+        {
+            "name": "Jada Pinkett Smith",
+            "character": "Gloria"
+        },
+        {
+            "name": "Sacha Baron Cohen",
+            "character": "Julien"
+        },
+        {
+            "name": "Tom McGrath",
+            "character": "Skipper"
+        },
+        {
+            "name": "Chris Miller",
+            "character": "Kowalski"
+        }
+    ],
+    "synopsis": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Madagascar",
+        "part": 1
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 200506,
+    "characters": 4
+}

@@ -1,0 +1,91 @@
+{
+    "id": 130,
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "poster": "percy_jackson",
+    "trailer": "xko1Mx5w4tg",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Chris Columbus"
+    ],
+    "producers": "Karen Rosenfelt, Chris Columbus, Michael Barnathan, Mark Redcliff",
+    "writtens": "Craig Titley",
+    "music": "Christophe Beck",
+    "cinema": "Stephen Goldblatt",
+    "year": 2010,
+    "time": 95,
+    "countries": [
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+    ],
+    "budget": {
+        "value": 95,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 226,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Logan Lerman",
+            "character": "Percy Jackson"
+        },
+        {
+            "name": "Brandon T. Jackson",
+            "character": "Grover"
+        },
+        {
+            "name": "Alexandra Daddario",
+            "character": "Annabeth"
+        },
+        {
+            "name": "Jake Abel",
+            "character": "Luke"
+        },
+        {
+            "name": "Sean Bean",
+            "character": "Zeus"
+        },
+        {
+            "name": "Pierce Brosnan",
+            "character": "Mr. Brunner / Chiron"
+        },
+        {
+            "name": "Steve Coogan",
+            "character": "Hades"
+        },
+        {
+            "name": "Rosario Dawson",
+            "character": "Persephone"
+        },
+        {
+            "name": "Melina Kanakaredes",
+            "character": "Athena"
+        },
+        {
+            "name": "Catherine Keener",
+            "character": "Sally Jackson"
+        },
+        {
+            "name": "Kevin McKidd",
+            "character": "Poseidon"
+        }
+    ],
+    "synopsis": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201002,
+    "characters": 7
+}

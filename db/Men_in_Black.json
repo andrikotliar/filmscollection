@@ -1,0 +1,84 @@
+{
+    "id": 116,
+    "title": "Men in Black",
+    "poster": "mib_1",
+    "trailer": "1Q4mhYF9aQQ",
+    "genres": [
+        "Sci-Fi",
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Barry Sonnenfeld"
+    ],
+    "producers": "Walter F. Parkes, Laurie MacDonald",
+    "writtens": "Ed Solomon",
+    "music": "Danny Elfman",
+    "cinema": "Don Peterman",
+    "year": 1997,
+    "time": 98,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 589,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tommy Lee Jones",
+            "character": "Agent Kay"
+        },
+        {
+            "name": "Will Smith",
+            "character": "Agent Jay"
+        },
+        {
+            "name": "Linda Fiorentino",
+            "character": "Laurel"
+        },
+        {
+            "name": "Vincent D'Onofrio",
+            "character": "Edgar"
+        },
+        {
+            "name": "Rip Torn",
+            "character": "Z"
+        }
+    ],
+    "synopsis": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+    "collections": [
+        "Invaders"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Makeup"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Supporting Actor",
+                "Best Music"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Men in Black",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199707
+}

@@ -1,0 +1,115 @@
+{
+    "id": 135,
+    "title": "Transformers",
+    "poster": "transformers_1",
+    "trailer": "dxQxgAfNzyE",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "DreamWorks Pictures",
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Michael Bay"
+    ],
+    "producers": "Lorenzo di Bonaventura, Tom DeSanto, Don Murphy, Ian Bryce",
+    "writtens": "Roberto Orci, Alex Kurtzman",
+    "music": "Steve Jablonsky",
+    "cinema": "Mitchell Amundsen",
+    "year": 2007,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 710,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Shia LaBeouf",
+            "character": "Sam Witwicky"
+        },
+        {
+            "name": "Megan Fox",
+            "character": "Mikaela Banes"
+        },
+        {
+            "name": "Josh Duhamel",
+            "character": "Captain Lennox"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Epps"
+        },
+        {
+            "name": "Rachael Taylor",
+            "character": "Maggie Madsen"
+        },
+        {
+            "name": "Anthony Anderson",
+            "character": "Glen Whitmann"
+        },
+        {
+            "name": "Jon Voight",
+            "character": "John Keller"
+        },
+        {
+            "name": "John Turturro",
+            "character": "Agent Simmons"
+        },
+        {
+            "name": "Peter Cullen",
+            "character": "Optimus Prime"
+        },
+        {
+            "name": "Mark Ryan",
+            "character": "Bumblebee"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Megatron"
+        },
+        {
+            "name": "Reno Wilson",
+            "character": "Frenzy"
+        },
+        {
+            "name": "Charlie Adler",
+            "character": "Starscream"
+        }
+    ],
+    "synopsis": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.",
+    "collections": [
+        "Robots"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Transformers",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200707,
+    "characters": 3
+}

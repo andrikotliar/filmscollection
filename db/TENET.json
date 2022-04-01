@@ -1,0 +1,93 @@
+{
+    "id": 223,
+    "title": "TENET",
+    "poster": "tenet",
+    "trailer": "AZGcmvrTX9M",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Syncopy"
+    ],
+    "director": [
+        "Christopher Nolan"
+    ],
+    "producers": "Christopher Nolan, Emma Thomas, Andy Thompson",
+    "writtens": "Christopher Nolan",
+    "music": "Ludwig Göransson",
+    "cinema": "Hoyte Van Hoytema",
+    "year": 2020,
+    "time": 150,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 205,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 364,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "John David Washington",
+            "character": "Protagonist"
+        },
+        {
+            "name": "Robert Pattinson",
+            "character": "Neil"
+        },
+        {
+            "name": "Elizabeth Debicki",
+            "character": "Katherine Barton"
+        },
+        {
+            "name": "Dimple Kapadia",
+            "character": "Priya"
+        },
+        {
+            "name": "Martin Donovan",
+            "character": "Fay"
+        },
+        {
+            "name": "Fiona Dourif",
+            "character": "Wheeler"
+        },
+        {
+            "name": "Kenneth Branagh",
+            "character": "Andrei Sator"
+        }
+    ],
+    "synopsis": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Achievement in Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Visual Effects"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202008
+}

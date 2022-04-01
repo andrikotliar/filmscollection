@@ -1,0 +1,71 @@
+{
+    "id": 284,
+    "title": "King Arthur: Legend of the Sword",
+    "poster": "king_arthur",
+    "trailer": "jIM4-HLtUM0",
+    "genres": [
+        "Fantasy",
+        "Drama"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Village Roadshow Pictures"
+    ],
+    "director": [
+        "Guy Ritchie"
+    ],
+    "producers": "Steve Clark-Hall, Akiva Goldsman, Joby Harold, Guy Ritchie, Tory Tunnell, Lionel Wigram",
+    "writtens": "Joby Harold, Guy Ritchie, Lionel Wigram",
+    "music": "Daniel Pemberton",
+    "cinema": "John Mathieson",
+    "year": 2017,
+    "time": 126,
+    "countries": [
+        "USA",
+        "UK",
+        "Australia"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 149,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Charlie Hunnam",
+            "character": "Arthur"
+        },
+        {
+            "name": "Astrid Berges-Frisbey",
+            "character": "The Mage"
+        },
+        {
+            "name": "Jude Law",
+            "character": "Vortigern"
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": "Bedivere"
+        },
+        {
+            "name": "Eric Bana",
+            "character": "Uther"
+        },
+        {
+            "name": "Aidan Gillen",
+            "character": "Bill"
+        }
+    ],
+    "synopsis": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201705,
+    "characters": 6
+}

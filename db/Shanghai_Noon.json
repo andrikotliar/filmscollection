@@ -1,0 +1,77 @@
+{
+    "id": 239,
+    "title": "Shanghai Noon",
+    "poster": "shanghai_noon",
+    "trailer": "C6tduzl-EY8",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Touchstone Pictures",
+        "Spyglass Entertainment"
+    ],
+    "director": [
+        "Tom Dey"
+    ],
+    "producers": "Gary Barber, Roger Birnbau, Jonathan Glickmanm",
+    "writtens": "Miles Millar, Alfred Gough",
+    "music": "Randy Edelman",
+    "cinema": "Dan Mindel",
+    "year": 2000,
+    "time": 110,
+    "countries": [
+        "USA",
+        "Hong Kong"
+    ],
+    "budget": {
+        "value": 55,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 99,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jackie Chan",
+            "character": "Chon Wang"
+        },
+        {
+            "name": "Owen Wilson",
+            "character": "Roy O'Bannon"
+        },
+        {
+            "name": "Lucy Liu",
+            "character": "Princess Pei Pei"
+        },
+        {
+            "name": "Brandon Merrill",
+            "character": "Indian Wife"
+        },
+        {
+            "name": "Roger Yuan",
+            "character": "Lo Fong"
+        },
+        {
+            "name": "Xander Berkeley",
+            "character": "Van Cleef"
+        }
+    ],
+    "synopsis": "A Chinese man travels to the Wild West to rescue a kidnapped Princess. After teaming up with a train robber, the unlikely duo takes on a Chinese traitor and his corrupt boss.",
+    "collections": [
+        "Martial Arts"
+    ],
+    "awards": [
+        {
+            "title": "Blockbuster Entertainment Awards",
+            "nominations": [
+                "Favorite Supporting Actress - Action"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200005
+}

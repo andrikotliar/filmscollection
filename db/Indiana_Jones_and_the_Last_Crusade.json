@@ -1,0 +1,93 @@
+{
+    "id": 308,
+    "title": "Indiana Jones and the Last Crusade",
+    "poster": "indiana_jones_3",
+    "trailer": "sagmdpkWUqc",
+    "genres": [
+        "Adventures",
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Lucasfilm"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Robert Watts",
+    "writtens": "Jeffrey Boam, George Lucas (story)",
+    "music": "John Williams",
+    "cinema": "Douglas Slocombe",
+    "year": 1989,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 48,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 474,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Harrison Ford",
+            "character": "Dr. Henry «Indiana» Jones, Jr."
+        },
+        {
+            "name": "Sean Connery",
+            "character": "Professor Henry Jones"
+        },
+        {
+            "name": "Denholm Elliott",
+            "character": "Marcus Brody"
+        },
+        {
+            "name": "Alison Doody",
+            "character": "Elsa"
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": "Sallah"
+        },
+        {
+            "name": "Julian Glover",
+            "character": "Walter Donovan"
+        }
+    ],
+    "synopsis": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound Effects Editing"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best DVD Collection"
+            ]
+        },
+        {
+            "title": "Jupiter",
+            "nominations": [
+                "Best International Actor"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Indiana Jones",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 198909
+}

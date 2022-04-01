@@ -1,0 +1,100 @@
+{
+    "id": 329,
+    "title": "Fantastic Beasts and Where to Find Them",
+    "poster": "fantastic_beasts_1",
+    "trailer": "VYZ3U1inHA4",
+    "genres": [
+        "Fantasy"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "David Yates"
+    ],
+    "producers": "David Heyman, Steve Kloves, J.K. Rowling, Lionel Wigram",
+    "writtens": "J.K. Rowling",
+    "music": "James Newton Howard",
+    "cinema": "Philippe Rousselot",
+    "year": 2016,
+    "time": 132,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 180,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 814,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Eddie Redmayne",
+            "character": "Newt Scamander"
+        },
+        {
+            "name": "Katherine Waterston",
+            "character": "Porpentina Esther \"Tina\" Goldstein"
+        },
+        {
+            "name": "Dan Fogler",
+            "character": "Jacob Kowalski"
+        },
+        {
+            "name": "Alison Sudol",
+            "character": "Queenie Goldstein"
+        },
+        {
+            "name": "Samantha Morton",
+            "character": "Mary Lou Barebone"
+        },
+        {
+            "name": "Ezra Miller",
+            "character": "Credence Barebone"
+        },
+        {
+            "name": "Carmen Ejogo",
+            "character": "Seraphina Picquery"
+        },
+        {
+            "name": "Colin Farrell",
+            "character": "Percival Graves"
+        }
+    ],
+    "synopsis": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Costume Design"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Production Design"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costume Design"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201611,
+    "characters": 8
+}

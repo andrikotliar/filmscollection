@@ -1,0 +1,68 @@
+{
+    "id": 229,
+    "title": "Jurassic Park III",
+    "poster": "jurassic_park_3",
+    "trailer": "gjIaV6CU0wA",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures",
+        "Amblin Entertainment"
+    ],
+    "director": [
+        "Joe Johnston"
+    ],
+    "producers": "Larry Franco, Kathleen Kennedy",
+    "writtens": "Peter Buchman, Alexander Payne, Jim Taylor",
+    "music": "Don Davis",
+    "cinema": "Shelly Johnson",
+    "year": 2001,
+    "time": 92,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 93,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 368,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Sam Neill",
+            "character": "Dr. Alan Grant"
+        },
+        {
+            "name": "William H. Macy",
+            "character": "Paul Kirby"
+        },
+        {
+            "name": "Téa Leoni",
+            "character": "Amanda Kirby"
+        },
+        {
+            "name": "Alessandro Nivola",
+            "character": "Billy Brennan"
+        },
+        {
+            "name": "Trevor Morgan",
+            "character": "Eric Kirby"
+        }
+    ],
+    "synopsis": "A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla Sorna for a holiday, but their unexpected landing startles the island's new inhabitants.",
+    "collections": [
+        "Monsters"
+    ],
+    "parts": {
+        "title": "Jurassic Park",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200107
+}

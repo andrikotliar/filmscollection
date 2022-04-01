@@ -1,0 +1,80 @@
+{
+    "id": 141,
+    "title": "Prince of Persia: The Sand of Time",
+    "poster": "prince_of_persia",
+    "trailer": "bZ7Li5w2I-k",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Mike Newell"
+    ],
+    "producers": "Jerry Bruckheimer",
+    "writtens": "Boaz Yakin, Doug Miro, Carlo Bernard",
+    "music": "Harry Gregson-Williams",
+    "cinema": "John Seale",
+    "year": 2010,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 336,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jake Gyllenhaal",
+            "character": "Dastan"
+        },
+        {
+            "name": "Gemma Arterton",
+            "character": "Tamina"
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": "Nizam"
+        },
+        {
+            "name": "Alfred Molina",
+            "character": "Sheik Amar"
+        },
+        {
+            "name": "Steve Toussaint",
+            "character": "Seso"
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": "Garsiv"
+        },
+        {
+            "name": "Richard Coyle",
+            "character": "Tus"
+        },
+        {
+            "name": "Ronald Pickup",
+            "character": "King Sharaman"
+        },
+        {
+            "name": "Reece Ritchie",
+            "character": "Bis"
+        }
+    ],
+    "synopsis": "A young fugitive Prince and Princess must stop a villain who unknowingly threatens to destroy the world with a special dagger that enables the magic sand inside to reverse time.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201003,
+    "characters": 3
+}

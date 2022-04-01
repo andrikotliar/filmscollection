@@ -1,0 +1,74 @@
+{
+    "id": 255,
+    "title": "Eight Below",
+    "poster": "eight_below",
+    "trailer": "zz7TGf1awDo",
+    "genres": [
+        "Adventures",
+        "Drama"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Spyglass-Entertainment"
+    ],
+    "director": [
+        "Frank Marshall"
+    ],
+    "producers": "Patrick Crowley, David Hoberman",
+    "writtens": "David DiGilio",
+    "music": "Mark Isham",
+    "cinema": "Don Burgess",
+    "year": 2006,
+    "time": 120,
+    "countries": [
+        "USA",
+        "Canada",
+        "Antarctica"
+    ],
+    "budget": {
+        "value": 40,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Paul Walker",
+            "character": "Jerry Shepard"
+        },
+        {
+            "name": "Bruce Greenwood",
+            "character": "Davis McClaren"
+        },
+        {
+            "name": "Moon Bloodgood",
+            "character": "Katie"
+        },
+        {
+            "name": "Wendy Crewson",
+            "character": "Eve McClaren"
+        },
+        {
+            "name": "Gerard Plunkett",
+            "character": "Dr. Andy Harrison"
+        },
+        {
+            "name": "August Schellenberg",
+            "character": "Mindo"
+        },
+        {
+            "name": "Jason Biggs",
+            "character": "Charlie Cooper"
+        }
+    ],
+    "synopsis": "Brutal cold forces two Antarctic explorers to leave their team of sled dogs behind as they fend for their survival.",
+    "collections": [
+        "Life Story"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200602
+}

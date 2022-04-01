@@ -1,0 +1,71 @@
+{
+    "id": 128,
+    "title": "Oblivion",
+    "poster": "oblivion",
+    "trailer": "XmIIgE7eSak",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Joseph Kosinski"
+    ],
+    "producers": "Peter Chernin, Dylan Clark, Duncan Henderson",
+    "writtens": "Karl Gajdusek, Michael deBruyn",
+    "music": "M83, Joseph Trapanese",
+    "cinema": "Claudio Miranda",
+    "year": 2013,
+    "time": 124,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 286,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Jack"
+        },
+        {
+            "name": "Morgan Freeman",
+            "character": "Beech"
+        },
+        {
+            "name": "Olga Kurylenko",
+            "character": "Julia"
+        },
+        {
+            "name": "Andrea Riseborough",
+            "character": "Victoria"
+        },
+        {
+            "name": "Nikolaj Coster-Waldau",
+            "character": "Sykes"
+        },
+        {
+            "name": "Melissa Leo",
+            "character": "Sally"
+        },
+        {
+            "name": "Zoe Bell",
+            "character": "Kara"
+        }
+    ],
+    "synopsis": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+    "collections": [
+        "Invaders"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201304
+}

@@ -1,0 +1,71 @@
+{
+    "id": 232,
+    "title": "Wonder Woman 1984",
+    "poster": "wonder_woman_2",
+    "trailer": "sfM7_JLk-84",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "DC Entertainment"
+    ],
+    "director": [
+        "Patty Jenkins"
+    ],
+    "producers": "Gal Gadot, Patty Jenkins, Charles Roven, Stephen Jones, Deborah Snyder, Zack Snyder",
+    "writtens": "Patty Jenkins, Geoff Johns, Dave Callaham",
+    "music": "Hans Zimmer",
+    "cinema": "Matthew Jensen",
+    "year": 2020,
+    "time": 151,
+    "countries": [
+        "USA",
+        "UK",
+        "Spain"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 132,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Gal Gadot",
+            "character": "Diana Prince / Wonder Woman"
+        },
+        {
+            "name": "Chris Pine",
+            "character": "Steve Trevor"
+        },
+        {
+            "name": "Kristen Wiig",
+            "character": "Barbara Minerva"
+        },
+        {
+            "name": "Pedro Pascal",
+            "character": "Maxwell Lord"
+        },
+        {
+            "name": "Lucian Perez",
+            "character": "Alistair"
+        }
+    ],
+    "synopsis": "Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing.",
+    "collections": [
+        "DC Extended Universe"
+    ],
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 9
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202012,
+    "characters": 4
+}

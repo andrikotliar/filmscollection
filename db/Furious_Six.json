@@ -1,0 +1,99 @@
+{
+    "id": 50,
+    "title": "Furious Six",
+    "poster": "fast_and_furious_6",
+    "trailer": "dKi5XoeTN0k",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Justin Lin"
+    ],
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Lucas Vidal",
+    "cinema": "Stephen F. Windon",
+    "year": 2013,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 789,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "name": "Paul Walker",
+            "character": "Brian O'Conner"
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": "Hobbs"
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": "Mia"
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": "Letty"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Roman"
+        },
+        {
+            "name": "Sung Kang",
+            "character": "Han"
+        },
+        {
+            "name": "Gal Gadot",
+            "character": "Gisele"
+        },
+        {
+            "name": "Ludacris",
+            "character": "Tej"
+        },
+        {
+            "name": "Luke Evans",
+            "character": "Shaw"
+        },
+        {
+            "name": "Elsa Pataky",
+            "character": "Elena"
+        }
+    ],
+    "synopsis": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
+    "collections": [
+        "Cars"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Action/Adventure Film"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 6
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201305
+}

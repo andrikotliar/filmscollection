@@ -1,0 +1,76 @@
+{
+    "id": 88,
+    "title": "Sherlock Holmes",
+    "poster": "sherlock_holmes_1",
+    "trailer": "J7nJksXDBWc",
+    "genres": [
+        "Adventures",
+        "Detective"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Guy Ritchie"
+    ],
+    "producers": "Joel Silver, Lionel Wigram",
+    "writtens": "Michael Robert Johnson, Anthony Peckham",
+    "music": "Hans Zimmer",
+    "cinema": "Philippe Rousselot",
+    "year": 2009,
+    "time": 129,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 524,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Sherlock Holmes"
+        },
+        {
+            "name": "Jude Law",
+            "character": "Dr. John Watson"
+        },
+        {
+            "name": "Rachel McAdams",
+            "character": "Irene Adler"
+        },
+        {
+            "name": "Mark Strong",
+            "character": "Lord Henry Blackwood"
+        },
+        {
+            "name": "Eddie Marsan",
+            "character": "Inspector Lestrade"
+        },
+        {
+            "name": "Robert Maillet",
+            "character": "Dredger"
+        },
+        {
+            "name": "Geraldine James",
+            "character": "Mrs. Hudson"
+        }
+    ],
+    "synopsis": "Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose SYNOPSIS is a threat to all of England.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "parts": {
+        "title": "Ritchie's Sherlock Holmes",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200912,
+    "characters": 7
+}

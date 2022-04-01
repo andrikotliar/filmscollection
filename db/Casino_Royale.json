@@ -1,0 +1,71 @@
+{
+    "id": 277,
+    "title": "Casino Royale",
+    "poster": "casino_royale",
+    "trailer": "36mnx8dBbGE",
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Martin Campbell"
+    ],
+    "producers": "Barbara Broccoli, Michael G. Wilson",
+    "writtens": "Neal Purvis, Robert Wade, Paul Haggis",
+    "music": "David Arnold",
+    "cinema": "Phil Meheux",
+    "year": 2006,
+    "time": 144,
+    "countries": [
+        "UK",
+        "USA",
+        "Czech Republic",
+        "Germany",
+        "Bahamas"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 616,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Craig",
+            "character": "James Bond"
+        },
+        {
+            "name": "Eva Green",
+            "character": "Vesper Lynd"
+        },
+        {
+            "name": "Mads Mikkelsen",
+            "character": "Le Chiffre"
+        },
+        {
+            "name": "Judi Dench",
+            "character": "M"
+        },
+        {
+            "name": "Jeffrey Wright",
+            "character": "Felix Leiter"
+        },
+        {
+            "name": "Giancarlo Giannini",
+            "character": "Rene Mathis"
+        }
+    ],
+    "synopsis": "After earning 00 status and a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200611
+}

@@ -1,0 +1,85 @@
+{
+    "id": 164,
+    "title": "Aquaman",
+    "poster": "aquaman",
+    "trailer": "WDkg3h8PCVU",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "DC Entertainment",
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "James Wan"
+    ],
+    "producers": "Peter Safran, Rob Cowan",
+    "writtens": "David Leslie Johnson-McGoldrick, Will Beall",
+    "music": "Rupert Gregson-Williams",
+    "cinema": "Don Burgess",
+    "year": 2018,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.15,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Jason Momoa",
+            "character": "Arthur Curry / Aquaman"
+        },
+        {
+            "name": "Amber Heard",
+            "character": "Mera"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Vulko"
+        },
+        {
+            "name": "Patrick Wilson",
+            "character": "King Orm"
+        },
+        {
+            "name": "Nicole Kidman",
+            "character": "Queen Atlanna"
+        },
+        {
+            "name": "Dolph Lundgren",
+            "character": "King Nereus"
+        },
+        {
+            "name": "Yahya Abdul-Mateen II",
+            "character": "Black Manta"
+        },
+        {
+            "name": "Temuera Morrison",
+            "character": "Tom Curry"
+        },
+        {
+            "name": "Ludi Lin",
+            "character": "Captain Murk"
+        }
+    ],
+    "synopsis": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "collections": [
+        "DC Extended Universe"
+    ],
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 6
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201811,
+    "characters": 7
+}

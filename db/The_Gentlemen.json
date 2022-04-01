@@ -1,0 +1,83 @@
+{
+    "id": 302,
+    "title": "The Gentlemen",
+    "poster": "gentlemen",
+    "trailer": "vaN8BtA8OJk",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "production": [
+        "STX Films",
+        "Miramax"
+    ],
+    "director": [
+        "Guy Ritchie"
+    ],
+    "producers": "Ivan Atkinson, Bill Block, Guy Ritchie",
+    "writtens": "Guy Ritchie",
+    "music": "Christopher Benstead",
+    "cinema": "Alan Stewart",
+    "year": 2019,
+    "time": 113,
+    "countries": [
+        "UK",
+        "USA"
+    ],
+    "budget": {
+        "value": 22,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 115,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Matthew McConaughey",
+            "character": "Michael Pearson"
+        },
+        {
+            "name": "Charlie Hunnam",
+            "character": "Ray"
+        },
+        {
+            "name": "Michelle Dockery",
+            "character": "Rosalind Pearson"
+        },
+        {
+            "name": "Jeremy Strong",
+            "character": "Matthew"
+        },
+        {
+            "name": "Lyne Renée",
+            "character": "Jackie"
+        },
+        {
+            "name": "Colin Farrell",
+            "character": "Coach"
+        },
+        {
+            "name": "Henry Golding",
+            "character": "Dry Eye"
+        },
+        {
+            "name": "Tom Wu",
+            "character": "Lord George"
+        },
+        {
+            "name": "Hugh Grant",
+            "character": "Fletcher"
+        }
+    ],
+    "synopsis": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+    "collections": [
+        "Life Story"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201912,
+    "characters": 6
+}

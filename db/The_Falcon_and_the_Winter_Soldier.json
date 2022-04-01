@@ -1,0 +1,96 @@
+{
+    "id": 180,
+    "title": "The Falcon and the Winter Soldier",
+    "poster": "falcon_and_the_winter_soldier",
+    "genres": [
+        "Action",
+        "Drama"
+    ],
+    "production": [
+        "Disney+",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Kari Skogland"
+    ],
+    "producers": "Ariella Blejer, Dawn Kamoche",
+    "writtens": "Malcolm Spellman, Michael Kastelein, Dalan Musson, Josef Sawyer",
+    "music": "Henry Jackman",
+    "cinema": "P.J. Dillon",
+    "year": 2021,
+    "time": 300,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Anthony Mackie",
+            "character": "Sam Wilson / Falcon / Captain America"
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": "James \"Bucky\" Barnes / Winter Soldier / White Wolf"
+        },
+        {
+            "name": "Wyatt Russell",
+            "character": "John Walker / Captain America / U.S. Agent"
+        },
+        {
+            "name": "Erin Kellyman",
+            "character": "Karli Morgenthau"
+        },
+        {
+            "name": "Adepero Oduye",
+            "character": "Sarah Wilson"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James \"Rhodey\" Rhodes"
+        },
+        {
+            "name": "Daniel Brühl",
+            "character": "Helmut Zemo"
+        },
+        {
+            "name": "Emily VanCamp",
+            "character": "Sharon Carter / Power Broker"
+        },
+        {
+            "name": "Florence Kasumba",
+            "character": "Ayo"
+        },
+        {
+            "name": "Julia Louis-Dreyfus",
+            "character": "Valentina Allegra de Fontaine"
+        }
+    ],
+    "synopsis": "Following the events of «Avengers: Endgame» Sam Wilson and Bucky Barnes team up in a global adventure that tests their abilities and their patience.",
+    "awards": [
+        {
+            "title": "MTV Movie + TV Award",
+            "nominations": [
+                "Best Hero",
+                "Best Duo"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 25
+    },
+    "type": [
+        "Series"
+    ],
+    "sort": 202103,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 6,
+            "trailer": "IWBsDaFWyTE"
+        }
+    ],
+    "characters": 6
+}

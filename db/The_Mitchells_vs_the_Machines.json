@@ -1,0 +1,64 @@
+{
+    "id": 189,
+    "title": "The Mitchells vs the Machines",
+    "poster": "mitchells",
+    "trailer": "_ak5dFt8Ar0",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "Michael Rianda"
+    ],
+    "producers": "Phil Lord, Christopher Miller,  Kurt Albrecht",
+    "writtens": "Michael Rianda, Jeff Rowe",
+    "music": "Mark Mothersbaugh",
+    "year": 2021,
+    "time": 113,
+    "countries": [
+        "USA",
+        "Canada",
+        "Hong Kong"
+    ],
+    "actors": [
+        {
+            "name": "Abbi Jacobson",
+            "character": "Katie Mitchell"
+        },
+        {
+            "name": "Danny McBride",
+            "character": "Rick Mitchell"
+        },
+        {
+            "name": "Maya Rudolph",
+            "character": "Linda Mitchell"
+        },
+        {
+            "name": "Michael Rianda",
+            "character": "Aaron Mitchell"
+        },
+        {
+            "name": "Olivia Colman",
+            "character": "PAL"
+        },
+        {
+            "name": "Eric Andre",
+            "character": "Dr. Mark Bowman"
+        },
+        {
+            "name": "Fred Armisen",
+            "character": "Deborahbot 5000"
+        }
+    ],
+    "synopsis": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    "collections": [
+        "Robots"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 202104
+}

@@ -1,0 +1,104 @@
+{
+    "id": 82,
+    "title": "X-Men: The Last Stand",
+    "poster": "x_men_3",
+    "trailer": "r8ZMvxzplwc",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Brett Ratner"
+    ],
+    "producers": "Lauren Shuler Donner, Ralph Winter",
+    "writtens": "Simon Kinberg, Zak Penn",
+    "music": "John Powell",
+    "cinema": "Dante Spinotti",
+    "year": 2006,
+    "time": 104,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 210,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 459,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan / Wolverine"
+        },
+        {
+            "name": "Halle Berry",
+            "character": "Ororo Munroe / Storm"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Erik Lehnsherr / Magneto"
+        },
+        {
+            "name": "Patrick Stewart",
+            "character": "Charles Xavier / Professor X"
+        },
+        {
+            "name": "Famke Janssen",
+            "character": "Jean Grey / Phoenix"
+        },
+        {
+            "name": "Anna Paquin",
+            "character": "Marie / Rogue"
+        },
+        {
+            "name": "Kelsey Grammer",
+            "character": "Dr. Henry 'Hank' McCoy / Beast"
+        },
+        {
+            "name": "James Marsden",
+            "character": "Scott Summers / Cyclops"
+        },
+        {
+            "name": "Shawn Ashmore",
+            "character": "Bobby Drake / Iceman"
+        },
+        {
+            "name": "Aaron Stanford",
+            "character": "John Allerdyce / Pyro"
+        },
+        {
+            "name": "Vinnie Jones",
+            "character": "Cain Marko / Juggernaut"
+        },
+        {
+            "name": "Ellen Page",
+            "character": "Kitty Pryde / Shadowcat"
+        }
+    ],
+    "synopsis": "The human government develops a cure for mutations, and Jean Gray becomes a darker uncontrollable persona called the Phoenix who allies with Magneto, causing escalation into an all-out battle for the X-Men.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actress (Famke Janssen)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200605
+}

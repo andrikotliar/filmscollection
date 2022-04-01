@@ -1,0 +1,80 @@
+{
+    "id": 36,
+    "title": "The Matrix Revolutions",
+    "poster": "matrix_3",
+    "trailer": "hMbexEPAOQI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "The Wachowski Brothers"
+    ],
+    "producers": "Joel Silver",
+    "writtens": "The Wachowski Brothers",
+    "music": "Don Davis",
+    "cinema": "Bill Pope",
+    "year": 2003,
+    "time": 129,
+    "countries": [
+        "USA",
+        "Australia"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 427,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": "Neo"
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": "Morpheus"
+        },
+        {
+            "name": "Carrie-Anne Moss",
+            "character": "Trinity"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Agent Smith"
+        },
+        {
+            "name": "Mary Alice",
+            "character": "Oracle"
+        },
+        {
+            "name": "Jada Pinkett Smith",
+            "character": "Niobe"
+        },
+        {
+            "name": "Harry J. Lennix",
+            "character": "Lock"
+        },
+        {
+            "name": "Harold Perrineau",
+            "character": "Link"
+        }
+    ],
+    "synopsis": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+    "collections": [
+        "Future"
+    ],
+    "parts": {
+        "title": "The Matrix",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200311
+}

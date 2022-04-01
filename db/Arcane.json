@@ -1,0 +1,90 @@
+{
+    "id": 324,
+    "title": "Arcane",
+    "poster": "arcane",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Netflix",
+        "Riot Games"
+    ],
+    "director": [
+        "Christian Linke",
+        "Alex Yee"
+    ],
+    "producers": "Christian Linke, Marc Merill, Brandon Beck, Jane Chung, Thomas Vu",
+    "writtens": "Christian Linke, Alex Yee",
+    "music": "Alex Seaver, Alexander Temple",
+    "year": 2021,
+    "time": 410,
+    "countries": [
+        "USA",
+        "France"
+    ],
+    "actors": [
+        {
+            "name": "Hailee Steinfeld",
+            "character": "Vi"
+        },
+        {
+            "name": "Ella Purnell",
+            "character": "Jinx"
+        },
+        {
+            "name": "Kevin Alejandro",
+            "character": "Jayce"
+        },
+        {
+            "name": "Jason Spisak",
+            "character": "Silco"
+        },
+        {
+            "name": "Harry Lloyd",
+            "character": "Viktor"
+        },
+        {
+            "name": "Toks Olagundoye",
+            "character": "Mel Medarda"
+        },
+        {
+            "name": "JB Blanc",
+            "character": "Vander"
+        },
+        {
+            "name": "Remy Hii",
+            "character": "Marcus"
+        },
+        {
+            "name": "Katie Leung",
+            "character": "Caitlyn"
+        },
+        {
+            "name": "Mick Wingert",
+            "character": "Heimerdinger"
+        },
+        {
+            "name": "Reed Shannon",
+            "character": "Ekko"
+        }
+    ],
+    "synopsis": "Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions-and the power that will tear them apart.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Series",
+        "Animation"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "3Svs_hl897c"
+        }
+    ],
+    "sort": 202111,
+    "characters": 9,
+    "top": 10
+}

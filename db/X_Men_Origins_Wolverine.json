@@ -1,0 +1,84 @@
+{
+    "id": 83,
+    "title": "X-Men Origins: Wolverine",
+    "poster": "x_men_4",
+    "trailer": "QojV7s3UTu0",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Gavin Hood"
+    ],
+    "producers": "Lauren Shuler Donner, Ralph Winter, Hugh Jackman",
+    "writtens": "David Benioff, Skip Woods",
+    "music": "Harry Gregson-Williams",
+    "cinema": "Donald McAlpine",
+    "year": 2009,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 373,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan / Wolverine"
+        },
+        {
+            "name": "Liev Schreiber",
+            "character": "Victor Creed"
+        },
+        {
+            "name": "Danny Huston",
+            "character": "Stryker"
+        },
+        {
+            "name": "Will.i.am",
+            "character": "John Wraith"
+        },
+        {
+            "name": "Lynn Collins",
+            "character": "Kayla Silverfox"
+        },
+        {
+            "name": "Kevin Durand",
+            "character": "Fred Dukes"
+        },
+        {
+            "name": "Dominic Monaghan",
+            "character": "Chris Bradley / Bolt"
+        },
+        {
+            "name": "Taylor Kitsch",
+            "character": "Remy LeBeau"
+        },
+        {
+            "name": "Ryan Reynolds",
+            "character": "Wade Wilson"
+        }
+    ],
+    "synopsis": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200904
+}

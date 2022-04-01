@@ -1,0 +1,68 @@
+{
+    "id": 106,
+    "title": "I, Robot",
+    "poster": "i_robot",
+    "trailer": "rL6RRIOZyCM",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Alex Proyas"
+    ],
+    "producers": "Laurence Mark, John Davis, Topher Dow, Wyck Godfrey",
+    "writtens": "Jeff Vintar, Akiva Goldsman",
+    "music": "Marco Beltrami",
+    "cinema": "Simon Duggan",
+    "year": 2004,
+    "time": 115,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 347,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": "Del Spooner"
+        },
+        {
+            "name": "Bridget Moynahan",
+            "character": "Susan Calvin"
+        },
+        {
+            "name": "Alan Tudyk",
+            "character": "Sonny"
+        },
+        {
+            "name": "James Cromwell",
+            "character": "Dr. Alfred Lanning"
+        },
+        {
+            "name": "Bruce Greenwood",
+            "character": "Lawrence Robertson"
+        },
+        {
+            "name": "Fiona Hogan",
+            "character": "V.I.K.I."
+        }
+    ],
+    "synopsis": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.",
+    "collections": [
+        "Robots"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200407,
+    "top": 3
+}

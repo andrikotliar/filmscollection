@@ -1,0 +1,99 @@
+{
+    "id": 96,
+    "title": "Interstellar",
+    "poster": "interstellar",
+    "trailer": "zSWdZVtXT7E",
+    "genres": [
+        "Sci-Fi",
+        "Drama"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Cristopher Nolan"
+    ],
+    "producers": "Cristopher Nolan, Lynda Obst, Emma Thomas",
+    "writtens": "Jonathan Nolan, Cristopher Nolan",
+    "music": "Hans Zimmer",
+    "cinema": "Hoyte Van Hoytema",
+    "year": 2014,
+    "time": 169,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 165,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 677,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Matthew McConaughey",
+            "character": "Cooper"
+        },
+        {
+            "name": "Jessica Chastain",
+            "character": "Murph"
+        },
+        {
+            "name": "Mackenzie Foy",
+            "character": "Murph (10 yrs.)"
+        },
+        {
+            "name": "Ann Hathaway",
+            "character": "Brand"
+        },
+        {
+            "name": "Michael Caine",
+            "character": "Professor Brand"
+        },
+        {
+            "name": "Matt Damon",
+            "character": "Mann"
+        }
+    ],
+    "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "collections": [
+        "Space"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Production Design",
+                "Best Special Effects",
+                "Best Performance by a Younger Actor",
+                "Best Writing",
+                "Best Music"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Sci-Fi/Horror Movie"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201411
+}

@@ -1,0 +1,91 @@
+{
+    "id": 33,
+    "title": "How to Train Your Dragon: The Hidden World",
+    "poster": "how_to_train_your_dragon_3",
+    "trailer": "SkcucKDrbOI",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "DreamWorks Animation",
+        "Universal Pictures"
+    ],
+    "director": [
+        "Dean DeBlois"
+    ],
+    "producers": "Bonnie Amold, Brad Lewis",
+    "writtens": "Dean DeBlois",
+    "music": "John Powell",
+    "year": 2019,
+    "time": 104,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 129,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 443,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jay Baruchel",
+            "character": "Hiccup"
+        },
+        {
+            "name": "America Ferrera",
+            "character": "Astrid "
+        },
+        {
+            "name": "F. Murray Abraham",
+            "character": "Grimmel "
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": "Valka "
+        },
+        {
+            "name": "Gerard Butler",
+            "character": "Stoick "
+        },
+        {
+            "name": "Craig Ferguson",
+            "character": "Gobber "
+        },
+        {
+            "name": "Jonah Hill",
+            "character": "Snotlout "
+        },
+        {
+            "name": "Christopher Mintz-Plasse",
+            "character": "Fishlegs "
+        },
+        {
+            "name": "Kristen Wiig",
+            "character": "Ruffnut "
+        },
+        {
+            "name": "Kit Harington",
+            "character": "Eret "
+        },
+        {
+            "name": "Justin Rupple",
+            "character": "Tuffnut"
+        }
+    ],
+    "synopsis": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "How to Train Your Dragon",
+        "part": 3
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 201902
+}

@@ -1,0 +1,88 @@
+{
+    "id": 186,
+    "title": "Teenage Mutant Ninja Tourtles",
+    "poster": "tmnt",
+    "trailer": "VZZ0PnDZdZk",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Jonathan Liebesman"
+    ],
+    "producers": "Michael Bay, Andrew Form, Brad Fuller, Galen Walker, Scott Mednick, Ian Bryce",
+    "writtens": "Josh Appelbaum, André Nemec, Evan Daugherty",
+    "music": "Brian Tyler",
+    "cinema": "Lula Carvalho",
+    "year": 2014,
+    "time": 101,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 493,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Pete Ploszek",
+            "character": "Leonardo"
+        },
+        {
+            "name": "Johnny Knoxville",
+            "character": "Leonardo"
+        },
+        {
+            "name": "Alan Ritchson",
+            "character": "Raphael"
+        },
+        {
+            "name": "Jeremy Howard",
+            "character": "Donatello"
+        },
+        {
+            "name": "Noel Fisher",
+            "character": "Michelangelo"
+        },
+        {
+            "name": "Tony Shalhoub",
+            "character": "Splinter"
+        },
+        {
+            "name": "Tohoru Masamune",
+            "character": "Shredder"
+        },
+        {
+            "name": "Megan Fox",
+            "character": "April O'Neil"
+        },
+        {
+            "name": "Will Arnett",
+            "character": "Vern Fenwick"
+        },
+        {
+            "name": "William Fichtner",
+            "character": "Eric Sacks"
+        },
+        {
+            "name": "Danny Woodburn",
+            "character": "Splinter"
+        }
+    ],
+    "synopsis": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+    "collections": [
+        "Superheroes"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201408,
+    "characters": 4
+}

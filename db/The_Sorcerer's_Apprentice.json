@@ -1,0 +1,80 @@
+{
+    "id": 126,
+    "title": "The Sorcerer's Apprentice",
+    "poster": "sorcerers_apprentice",
+    "trailer": "v2uV0_1C4UM",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Jerry Bruckheimer Films"
+    ],
+    "director": [
+        "Jon Torteltaub"
+    ],
+    "producers": "Jerry Bruckheimer",
+    "writtens": "Doug Miro, Carlo Bernard, Matt Lopez",
+    "music": "Trevor Rabin",
+    "cinema": "Bojan Bazelli",
+    "year": 2010,
+    "time": 109,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 215,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Nicolas Cage",
+            "character": "Balthazar"
+        },
+        {
+            "name": "Jay Baruchel",
+            "character": "Dave"
+        },
+        {
+            "name": "Alfred Molina",
+            "character": "Horvath"
+        },
+        {
+            "name": "Teresa Palmer",
+            "character": "Becky"
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": "Drake Stone"
+        },
+        {
+            "name": "Omar Benson Miller",
+            "character": "Bennet"
+        },
+        {
+            "name": "Monica Bellucci",
+            "character": "Veronica"
+        },
+        {
+            "name": "Alice Krige",
+            "character": "Morgana"
+        },
+        {
+            "name": "Jake Cherry",
+            "character": "Young Dave"
+        }
+    ],
+    "synopsis": "Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201007
+}

@@ -1,0 +1,106 @@
+{
+    "id": 139,
+    "title": "The Day after Tomorrow",
+    "poster": "day_after_tomorrow",
+    "trailer": "Ku_IseK3xTc",
+    "genres": [
+        "Sci-Fi"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Roland Emmerich"
+    ],
+    "producers": "Roland Emmerich, Mark Gordon",
+    "writtens": "Roland Emmerich, Jeffrey Nachmanoff",
+    "music": "Harald Kloser",
+    "cinema": "Ueli Steiger",
+    "year": 2004,
+    "time": 123,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 544,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dennis Quaid",
+            "character": "Jack Hall"
+        },
+        {
+            "name": "Jake Gyllenhaal",
+            "character": "Sam Hall"
+        },
+        {
+            "name": "Emmy Rossum",
+            "character": "Laura Chapman"
+        },
+        {
+            "name": "Dash Mihok",
+            "character": "Jason Evans"
+        },
+        {
+            "name": "Jay O. Sanders",
+            "character": "Frank Harris"
+        },
+        {
+            "name": "Sela Ward",
+            "character": "Dr. Lucy Hall"
+        },
+        {
+            "name": "Austin Nichols",
+            "character": "J.D."
+        },
+        {
+            "name": "Arjay Smith",
+            "character": "Brian Parks"
+        },
+        {
+            "name": "Tamlyn Tomita",
+            "character": "Janet Tokada"
+        },
+        {
+            "name": "Sasha Roiz",
+            "character": "Parker"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Terry Rapson"
+        }
+    ],
+    "synopsis": "Jack Hall, paleoclimatologist, must make a daring trek from Washington, D.C. to New York City to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.",
+    "collections": [
+        "Disaster"
+    ],
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Achievement in Special Visual Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Action Sequence"
+            ]
+        },
+        {
+            "title": "Jupiter Award",
+            "nominations": [
+                "Best International Film"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200405
+}

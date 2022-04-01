@@ -1,0 +1,71 @@
+{
+    "id": 109,
+    "title": "Venom",
+    "poster": "venom",
+    "trailer": "xLCn88bfW1o",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Ruben Fleischer"
+    ],
+    "producers": "Avi Arad, Matt Tolmach, Amy Pascal",
+    "writtens": "Jeff Pinkner, Scott Rosenberg, Kelly Marcel",
+    "music": "Ludwig Göransson",
+    "cinema": "Matthew Libatique",
+    "year": 2018,
+    "time": 112,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 100,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 855,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Hardy",
+            "character": "Eddie Brock / Venom"
+        },
+        {
+            "name": "Michelle Williams",
+            "character": "Anne Weying"
+        },
+        {
+            "name": "Riz Ahmed",
+            "character": "Carlton Drake / Riot"
+        },
+        {
+            "name": "Scott Haze",
+            "character": "Security Chief Roland Treece"
+        },
+        {
+            "name": "Reid Scott",
+            "character": "Dr. Dan Lewis"
+        },
+        {
+            "name": "Jenny Slate",
+            "character": "Dr. Dora Skirth"
+        }
+    ],
+    "synopsis": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "Sony's Spider-Man Universe",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201810
+}

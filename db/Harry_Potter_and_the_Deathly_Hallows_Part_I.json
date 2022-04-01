@@ -1,0 +1,81 @@
+{
+    "id": 43,
+    "title": "Harry Potter and the Deathly Hallows: Part I",
+    "poster": "harry_potter_7",
+    "trailer": "MxqsmsA8y5k",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "David Yates"
+    ],
+    "producers": "David Heyman, David Barron, J.K.Rowling",
+    "writtens": "Steve Kloves",
+    "music": "Alexandre Desplat",
+    "cinema": "Eduardo Serra",
+    "year": 2010,
+    "time": 146,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 960,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "name": "Ralph Fiennes",
+            "character": "Lord Voldemort"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": "Bellatrix Lestrage"
+        }
+    ],
+    "synopsis": "As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 9
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201011,
+    "characters": 8
+}

@@ -1,0 +1,75 @@
+{
+    "id": 219,
+    "title": "Predator",
+    "poster": "predator",
+    "trailer": "_1wDBNHYDv8",
+    "genres": [
+        "Action",
+        "Horror"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "John McTiernan"
+    ],
+    "producers": "John Davis, Lawrence Gordon, Joel Silver",
+    "writtens": "Jim Thomas, John Thomas",
+    "music": "Alan Silvestri",
+    "cinema": "Donald McAlpine",
+    "year": 1987,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 15,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 98,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Arnold Schwarzenegger",
+            "character": "Dutch"
+        },
+        {
+            "name": "Carl Weathers",
+            "character": "Dillon"
+        },
+        {
+            "name": "Elpidia Carrillo",
+            "character": "Anna"
+        },
+        {
+            "name": "Bill Duke",
+            "character": "Mac"
+        },
+        {
+            "name": "Jesse Ventura",
+            "character": "Blain"
+        },
+        {
+            "name": "Sonny Landham",
+            "character": "Billy"
+        },
+        {
+            "name": "Richard Chaves",
+            "character": "Poncho"
+        },
+        {
+            "name": "Kevin Peter Hall",
+            "character": "Predator"
+        }
+    ],
+    "synopsis": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+    "collections": [
+        "Invaders"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 198706
+}

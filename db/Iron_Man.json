@@ -1,0 +1,91 @@
+{
+    "id": 53,
+    "title": "Iron Man",
+    "poster": "iron_man_1",
+    "trailer": "8hYlB38asDY",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Jon Favreau"
+    ],
+    "producers": "Avi Arad, Kevin Feige",
+    "writtens": "Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway",
+    "music": "Ramin Djawadi",
+    "cinema": "Matthew Libatique",
+    "year": 2008,
+    "time": 126,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 140,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 585,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Terrence Howard",
+            "character": "Rhodey"
+        },
+        {
+            "name": "Jeff Bridges",
+            "character": "Obadiah Stane"
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": "Pepper Potts"
+        },
+        {
+            "name": "Leslie Bibb",
+            "character": "Christine Everhart"
+        },
+        {
+            "name": "Shaun Toub",
+            "character": "Yinsen"
+        },
+        {
+            "name": "Faran Tahir",
+            "character": "Raza"
+        },
+        {
+            "name": "Clark Gregg",
+            "character": "Agent Coulson"
+        }
+    ],
+    "synopsis": "After being held captive in an Afghan cave, baire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Actor",
+                "Best Director"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200804,
+    "top": 2
+}

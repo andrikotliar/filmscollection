@@ -1,0 +1,83 @@
+{
+    "id": 140,
+    "title": "John Carter",
+    "poster": "john_carter",
+    "trailer": "nlvYKl1fjBI",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Andrew Stanton"
+    ],
+    "producers": "Jim Morris, Colin Wilson, Lindsey Collins",
+    "writtens": "Andrew Stanton, Mark Andrews",
+    "music": "Michael Giacchino",
+    "cinema": "Dan Mindel",
+    "year": 2012,
+    "time": 132,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 306,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 284,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Taylor Kitsch",
+            "character": "John Carter"
+        },
+        {
+            "name": "Lynn Collins",
+            "character": "Dejah Thoris"
+        },
+        {
+            "name": "Samantha Morton",
+            "character": "Sola"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Tars Tarkas"
+        },
+        {
+            "name": "Thomas Haden Church",
+            "character": "Tal Hajus"
+        },
+        {
+            "name": "Mark Strong",
+            "character": "Matai Shang"
+        },
+        {
+            "name": "Ciaran Hinds",
+            "character": "Tardos Mors"
+        },
+        {
+            "name": "Dominic West",
+            "character": "Sab Than"
+        },
+        {
+            "name": "James Purefoy",
+            "character": "Kantos Kan"
+        },
+        {
+            "name": "Bryan Cranston",
+            "character": "Powell"
+        }
+    ],
+    "synopsis": "Transported to Barsoom, a Civil War vet discovers a barren planet seemingly inhabited by 12-foot tall barbarians. Finding himself prisoner of these creatures, he escapes, only to encounter Woola and a princess in desperate need of a savior.",
+    "collections": [
+        "Space"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201202
+}

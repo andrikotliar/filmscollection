@@ -1,0 +1,91 @@
+{
+    "id": 49,
+    "title": "Fast Five",
+    "poster": "fast_and_furious_5",
+    "trailer": "mw2AqdB5EVA",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Justin Lin"
+    ],
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Brian Tyler",
+    "cinema": "Stephen F. Windon",
+    "year": 2011,
+    "time": 130,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 626,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "name": "Paul Walker",
+            "character": "Brian O'Conner"
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": "Mia"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Roman"
+        },
+        {
+            "name": "Ludacris",
+            "character": "Tej"
+        },
+        {
+            "name": "Matt Schulze",
+            "character": "Vince"
+        },
+        {
+            "name": "Sung Kang",
+            "character": "Han"
+        },
+        {
+            "name": "Gal Gadot",
+            "character": "Gisele"
+        },
+        {
+            "name": "Joaquim de Almeida",
+            "character": "Reyes"
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": "Hobbs"
+        },
+        {
+            "name": "Elsa Pataky",
+            "character": "Elena"
+        }
+    ],
+    "synopsis": "Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 5
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201104
+}

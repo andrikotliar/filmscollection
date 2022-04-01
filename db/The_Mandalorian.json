@@ -1,0 +1,102 @@
+{
+    "id": 187,
+    "title": "The Mandalorian",
+    "poster": "mandalorian",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Disney+",
+        "Lucasfilm"
+    ],
+    "director": [
+        "Jon Favreau"
+    ],
+    "producers": "Jon Favreau, Dave Filoni, Kathleen Kennedy, Colin Wilson",
+    "writtens": "Jon Favreau, Rick Famuyiwa, Dave Filoni",
+    "music": "Ludwig Göransson",
+    "cinema": "Barry Baz Idoine, Greig Fraser, Matthew Jensen, David Klein",
+    "year": 2019,
+    "time": 640,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Pedro Pascal",
+            "character": "The Mandalorian"
+        },
+        {
+            "name": "Gina Carano",
+            "character": "Cara Dune"
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": "Moff Gideon"
+        },
+        {
+            "name": "Carl Weathers",
+            "character": "Greef Karga"
+        },
+        {
+            "name": "Temuera Morrison",
+            "character": "Boba Fett"
+        },
+        {
+            "name": "Ming-Na Wen",
+            "character": "Fennec Shand"
+        },
+        {
+            "name": "Rosario Dawson",
+            "character": "Ahsoka Tano"
+        },
+        {
+            "name": "Taika Waititi",
+            "character": "IG-11"
+        },
+        {
+            "name": "Nick Nolte",
+            "character": "Kuiil"
+        }
+    ],
+    "synopsis": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "awards": [
+        {
+            "title": "Primetime Emmy",
+            "nominations": [
+                "Outstanding Cinematography for a Single-Camera Series (Half-Hour)",
+                "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "Outstanding Production Design for a Narrative Program (Half-Hour)",
+                "Outstanding Stunt Coordination for a Drama Series Limited Series or Movie",
+                "Outstanding Sound Editing for a Comedy or Drama Series (Half-Hour) and Animation",
+                "Outstanding Sound Mixing for a Comedy or Drama Series (Half-Hour) and Animation",
+                "Outstanding Special Visual Effects"
+            ]
+        }
+    ],
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 9
+    },
+    "type": [
+        "Series"
+    ],
+    "sort": 201911,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 8,
+            "trailer": "OFlBh_eUsjA"
+        },
+        {
+            "season": 2,
+            "episodes": 8,
+            "trailer": "eW7Twd85m2g"
+        }
+    ],
+    "characters": 10
+}

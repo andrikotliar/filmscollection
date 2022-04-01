@@ -1,0 +1,95 @@
+{
+    "id": 173,
+    "title": "Hellboy",
+    "poster": "hellboy_1",
+    "trailer": "kA9vtXbbhVs",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Guillermo del Toro"
+    ],
+    "producers": "Lawrence Gordon, Mike Richardson, Lloyd Levin",
+    "writtens": "Guillermo del Toro",
+    "music": "Marco Beltrami",
+    "cinema": "Guillermo Navarro",
+    "year": 2004,
+    "time": 122,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 66,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 99,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ron Perlman",
+            "character": "Hellboy"
+        },
+        {
+            "name": "John Hurt",
+            "character": "Trevor Bruttenholm"
+        },
+        {
+            "name": "Selma Blair",
+            "character": "Liz Sherman"
+        },
+        {
+            "name": "Rupert Evans",
+            "character": "John Myers"
+        },
+        {
+            "name": "Karel Roden",
+            "character": "Grigori Rasputin"
+        },
+        {
+            "name": "Jeffrey Tambor",
+            "character": "Tom Manning"
+        },
+        {
+            "name": "Doug Jones",
+            "character": "Abe Sapien"
+        },
+        {
+            "name": "Brian Steele",
+            "character": "Sammael"
+        },
+        {
+            "name": "Ladislav Beran",
+            "character": "Karl Ruprecht Kroenen"
+        },
+        {
+            "name": "Biddy Hodson",
+            "character": "Ilsa Haupstein"
+        }
+    ],
+    "synopsis": "A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "del Toro's Hellboy",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200403
+}

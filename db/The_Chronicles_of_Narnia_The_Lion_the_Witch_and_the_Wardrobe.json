@@ -1,0 +1,107 @@
+{
+    "id": 156,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "poster": "narnia_1",
+    "trailer": "lWKj41HZBzM",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Andrew Adamson"
+    ],
+    "producers": "Mark Johnson, Phillip Steuer",
+    "writtens": "Ann Peacock, Andrew Adamson, Christopher Markus, Stephen McFeely",
+    "music": "Harry Gregson-Williams",
+    "cinema": "Donald McAlpine",
+    "year": 2005,
+    "time": 145,
+    "countries": [
+        "UK",
+        "USA"
+    ],
+    "budget": {
+        "value": 180,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 745,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Georgie Henley",
+            "character": "Lucy Pevensie"
+        },
+        {
+            "name": "Skandar Keynes",
+            "character": "Edmund Pevensie"
+        },
+        {
+            "name": "William Moseley",
+            "character": "Peter Pevensie"
+        },
+        {
+            "name": "Anna Popplewell",
+            "character": "Susan Pevensie"
+        },
+        {
+            "name": "Tilda Swinton",
+            "character": "White Witch"
+        },
+        {
+            "name": "James McAvoy",
+            "character": "Mr. Tumnus"
+        },
+        {
+            "name": "Jim Broadbent",
+            "character": "Professor Kirke"
+        },
+        {
+            "name": "Liam Neeson",
+            "character": "Aslan"
+        }
+    ],
+    "synopsis": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Makeup"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Make Up/Hair"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costume",
+                "Best Make-Up"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Family Film (Live Action)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Chronicles of Narnia",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200512
+}

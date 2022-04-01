@@ -1,0 +1,100 @@
+{
+    "id": 238,
+    "title": "The Umbrella Academy",
+    "poster": "umbrella_academy",
+    "genres": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "Steve Blackman",
+        "Jeremy Slater"
+    ],
+    "producers": "Kevin Lafferty, Sneha Koorse, Jamie Neese, Jason Neese, Ted Miller",
+    "writtens": "Steve Blackman, Jeremy Slater",
+    "music": "Jeff Russo, Perrine Virgile",
+    "cinema": "Neville Kidd, Craig Wrobleski",
+    "year": 2019,
+    "time": 1200,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Tom Hopper",
+            "character": "Luther Hargreeves"
+        },
+        {
+            "name": "David Castañeda",
+            "character": "Diego Hargreeves"
+        },
+        {
+            "name": "Emmy Raver-Lampman",
+            "character": "Allison Hargreeves"
+        },
+        {
+            "name": "Robert Sheehan",
+            "character": "Klaus Hargreeves"
+        },
+        {
+            "name": "Aidan Gallagher",
+            "character": "Number Five"
+        },
+        {
+            "name": "Justin H. Min",
+            "character": "Ben Hargreeves"
+        },
+        {
+            "name": "Ellen Page",
+            "character": "Vanya Hargreeves"
+        },
+        {
+            "name": "Colm Feore",
+            "character": "Reginald Hargreeves"
+        },
+        {
+            "name": "Ritu Arya",
+            "character": "Lila Pitts"
+        },
+        {
+            "name": "Jordan Claire Robbins",
+            "character": "Grace"
+        },
+        {
+            "name": "Kate Walsh",
+            "character": "The Handler"
+        },
+        {
+            "name": "Cameron Britton",
+            "character": "Hazel"
+        },
+        {
+            "name": "Mary J. Blige",
+            "character": "Cha-Cha"
+        }
+    ],
+    "synopsis": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+    "collections": [
+        "Superheroes"
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "0DAmWHxeoKw"
+        },
+        {
+            "season": 2,
+            "episodes": 10,
+            "trailer": "Me0eoCwLj-A"
+        }
+    ],
+    "sort": 201902,
+    "characters": 8
+}

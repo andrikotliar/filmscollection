@@ -1,0 +1,85 @@
+{
+    "id": 102,
+    "title": "Pirates of the Caribbean: At World's End",
+    "poster": "pirates_3",
+    "trailer": "HKSZtp_OGHY",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Jerry Bruckheimer Films"
+    ],
+    "director": [
+        "Gore Verbinski"
+    ],
+    "producers": "Jerry Bruckheimer",
+    "writtens": "Ted Elliott, Terry Rossio",
+    "music": "Hans Zimmer",
+    "cinema": "Dariusz Wolski",
+    "year": 2007,
+    "time": 168,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 300,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 963,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Johnny Depp",
+            "character": "Captain Jack Sparrow"
+        },
+        {
+            "name": "Geoffrey Rush",
+            "character": "Captain Hector Barbossa"
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": "Will Turner"
+        },
+        {
+            "name": "Keira Knightley",
+            "character": "Elizabeth Swann"
+        },
+        {
+            "name": "Jack Davenport",
+            "character": "Norrington"
+        },
+        {
+            "name": "Bill Nighy",
+            "character": "Davy Jones"
+        },
+        {
+            "name": "Jonathan Pryce",
+            "character": "Governor Weatherby Swann"
+        }
+    ],
+    "synopsis": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Pirates of the Caribbean",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200705,
+    "characters": 4
+}

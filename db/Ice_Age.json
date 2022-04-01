@@ -1,0 +1,64 @@
+{
+    "id": 123,
+    "title": "Ice Age",
+    "poster": "ice_age_1",
+    "trailer": "i4noiCRJRoE",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Blue Sky Studios"
+    ],
+    "director": [
+        "Chris Wedge"
+    ],
+    "producers": "Lori Forte",
+    "writtens": "Michael Berg, Michael J. Wilson, Peter Ackerman",
+    "music": "David Newman",
+    "year": 2002,
+    "time": 81,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 59,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 383,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ray Romano",
+            "character": "Manfred"
+        },
+        {
+            "name": "John Leguizamo",
+            "character": "Sid"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Diego"
+        },
+        {
+            "name": "Goran Visnjic",
+            "character": "Soto"
+        }
+    ],
+    "synopsis": "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Ice Age",
+        "part": 1
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 200208,
+    "top": 8
+}

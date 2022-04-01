@@ -1,0 +1,93 @@
+{
+    "id": 2,
+    "title": "Ready Player One",
+    "poster": "ready_player_one",
+    "trailer": "cSp1dM2Vj48",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Amblin Entertainment"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Donald De Line, Dan Farah",
+    "writtens": "Zak Penn, Ernest Cline",
+    "music": "Alan Silvestri",
+    "cinema": "Janusz Kaminski",
+    "year": 2018,
+    "time": 140,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 582,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tye Sheridan",
+            "character": "Parzival / Wade"
+        },
+        {
+            "name": "Olivia Cooke",
+            "character": "Art3mis / Samantha"
+        },
+        {
+            "name": "Ben Mendelsohn",
+            "character": "Sorrento"
+        },
+        {
+            "name": "Lena Waithe",
+            "character": "Aech / Helen"
+        },
+        {
+            "name": "T.J. Miller",
+            "character": "I-R0k"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Curator / Ogden Morrow"
+        },
+        {
+            "name": "Mark Rylance",
+            "character": "Anorak / Halliday"
+        },
+        {
+            "name": "Philip Zhao",
+            "character": "Sho"
+        },
+        {
+            "name": "Win Morisaki",
+            "character": "Daito"
+        },
+        {
+            "name": "Hannah John-Kamen",
+            "character": "F'Nale Zandor"
+        }
+    ],
+    "synopsis": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201803,
+    "characters": 7
+}

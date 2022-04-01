@@ -1,0 +1,88 @@
+{
+    "id": 171,
+    "title": "Godzilla: King of Monsters",
+    "poster": "monsterverse_3",
+    "trailer": "QFxN2oDKk0E",
+    "genres": [
+        "Action",
+        "Fantasy"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary"
+    ],
+    "director": [
+        "Michael Dougherty"
+    ],
+    "producers": "Mary Parent, Alex Garcia, Thomas Tull",
+    "writtens": "Michael Dougherty, Zach Shields",
+    "music": "Bear McCreary",
+    "cinema": "Lawrence Sher",
+    "year": 2019,
+    "time": 132,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 170,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 386,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Kyle Chandler",
+            "character": "Dr. Mark Russell"
+        },
+        {
+            "name": "Vera Farmiga",
+            "character": "Dr. Emma Russell"
+        },
+        {
+            "name": "Millie Bobby Brown",
+            "character": "Madison Russell"
+        },
+        {
+            "name": "Ken Watanabe",
+            "character": "Dr. Ishiro Serizawa"
+        },
+        {
+            "name": "Ziyi Zhang",
+            "character": "Dr. Ilene Chen / Dr. Ling"
+        },
+        {
+            "name": "Bradley Whitford",
+            "character": "Dr. Rick Stanton"
+        },
+        {
+            "name": "Sally Hawkins",
+            "character": "Dr. Vivienne Graham"
+        },
+        {
+            "name": "Charles Dance",
+            "character": "Alan Jonah"
+        },
+        {
+            "name": "Thomas Middleditch",
+            "character": "Sam Coleman"
+        },
+        {
+            "name": "Aisha Hinds",
+            "character": "Colonel Diane Foster"
+        }
+    ],
+    "synopsis": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+    "collections": [
+        "Monsters"
+    ],
+    "parts": {
+        "title": "Monsterverse",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201903
+}

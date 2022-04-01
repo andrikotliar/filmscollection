@@ -1,0 +1,94 @@
+{
+    "id": 73,
+    "title": "Captain Marvel",
+    "poster": "captain_marvel",
+    "trailer": "TcMBFSGVi1c",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Anna Boden",
+        "Ryan Fleck"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+    "music": "Pinar Toprak",
+    "cinema": "Ben Davis",
+    "year": 2019,
+    "time": 124,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 152,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.13,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Brie Larson",
+            "character": "Carol Danvers / Captain Marvel"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Ben Mendelsohn",
+            "character": "Talos / Keller"
+        },
+        {
+            "name": "Jude Law",
+            "character": "Yon-Rogg"
+        },
+        {
+            "name": "Annette Bening",
+            "character": "Supreme Intelligence / Dr. Wendy Lawson"
+        },
+        {
+            "name": "Lashana Lynch",
+            "character": "Maria Rambeau"
+        },
+        {
+            "name": "Clark Gregg",
+            "character": "Agent Coulson"
+        },
+        {
+            "name": "Rune Temte",
+            "character": "Bron-Char"
+        },
+        {
+            "name": "Gemma Chan",
+            "character": "Minn-Erva"
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": "Korath"
+        },
+        {
+            "name": "Lee Pace",
+            "character": "Ronan"
+        }
+    ],
+    "synopsis": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 21
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201903,
+    "characters": 6
+}

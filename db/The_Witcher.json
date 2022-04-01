@@ -1,0 +1,85 @@
+{
+    "id": 246,
+    "title": "The Witcher",
+    "poster": "witcher",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "Lauren Schmidt"
+    ],
+    "producers": "Mike Ostrowski",
+    "writtens": "Haily Hall, Declan De Barra, Beau DeMayo, Jenny Klein, Sneha Koorse, Mike Ostrowski",
+    "music": "Sonya Belousova, Giona Ostinelli, Joseph Trapanese",
+    "cinema": "Jean-Philippe Gossart, Gavin Struthers, Romain Lacourbas",
+    "year": 2019,
+    "time": 480,
+    "countries": [
+        "USA",
+        "Poland",
+        "Hungary"
+    ],
+    "actors": [
+        {
+            "name": "Henry Cavill",
+            "character": "Geralt of Rivia"
+        },
+        {
+            "name": "Freya Allan",
+            "character": "Ciri"
+        },
+        {
+            "name": "Anya Chalotra",
+            "character": "Yennefer"
+        },
+        {
+            "name": "MyAnna Buring",
+            "character": "Tissaia"
+        },
+        {
+            "name": "Wilson Radjou-Pujalte",
+            "character": "Dara"
+        },
+        {
+            "name": "Adam Levy",
+            "character": "Mousesack"
+        },
+        {
+            "name": "Lars Mikkelsen",
+            "character": "Stregobor"
+        },
+        {
+            "name": "Royce Pierreson",
+            "character": "Istredd"
+        },
+        {
+            "name": "Jodhi May",
+            "character": "Queen Calanthe"
+        }
+    ],
+    "synopsis": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 8,
+            "trailer": "ndl1W4ltcmg"
+        },
+        {
+            "season": 2,
+            "episodes": 0,
+            "trailer": "TJFVV2L8GKs"
+        }
+    ],
+    "sort": 201912,
+    "characters": 3
+}

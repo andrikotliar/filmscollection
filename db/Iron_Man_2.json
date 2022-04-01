@@ -1,0 +1,89 @@
+{
+    "id": 55,
+    "title": "Iron Man 2",
+    "poster": "iron_man_2",
+    "trailer": "BoohRoVA9WQ",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Jon Favreau"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Justin Theroux",
+    "music": "John Debney",
+    "cinema": "Matthew Libatique",
+    "year": 2010,
+    "time": 125,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 624,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": "Pepper Potts"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James Rhodes / War Machine"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Whidow"
+        },
+        {
+            "name": "Sam Rockwell",
+            "character": "Justin Hammer"
+        },
+        {
+            "name": "Mickey Rourke",
+            "character": "Ivan Vanko"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Clark Gregg",
+            "character": "Agent Coulson"
+        },
+        {
+            "name": "John Slattery",
+            "character": "Howard Stark"
+        },
+        {
+            "name": "Garry Shandling",
+            "character": "Senator Stern"
+        }
+    ],
+    "synopsis": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201004,
+    "characters": 4
+}

@@ -1,0 +1,93 @@
+{
+    "id": 68,
+    "title": "Spider-Man: Homecoming",
+    "poster": "mcu_spider_man_1",
+    "trailer": "n9DwoQ7HWvI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Jon Watts"
+    ],
+    "producers": "Kevin Feige, Amy Pascal",
+    "writtens": "Jonathan Goldstein, John Francis Daley, Jon Watts, Christopher Ford",
+    "music": "Michael Giacchino",
+    "cinema": "Salvatore Totino",
+    "year": 2017,
+    "time": 133,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 880,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Michael Keaton",
+            "character": "Adrian Toomes / Vulture"
+        },
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker / Spider-Man"
+        },
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Marisa Tomei",
+            "character": "May Parker"
+        },
+        {
+            "name": "Jon Favreau",
+            "character": "Happy Hogan"
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": "Pepper Potts"
+        },
+        {
+            "name": "Zendaya",
+            "character": "Michelle"
+        },
+        {
+            "name": "Donald Glover",
+            "character": "Aaron Davis"
+        },
+        {
+            "name": "Jacob Batalon",
+            "character": "Ned"
+        }
+    ],
+    "synopsis": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Performance by a Younger Actor"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 16
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201706,
+    "characters": 3
+}

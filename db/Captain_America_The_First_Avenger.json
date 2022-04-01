@@ -1,0 +1,89 @@
+{
+    "id": 57,
+    "title": "Captain America: The First Avenger",
+    "poster": "captain_america_1",
+    "trailer": "JOddp-nlNvQ",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Joe Johnston"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Markus, Stephen McFeely",
+    "music": "Alan Silvestri",
+    "cinema": "Shelly Johnson",
+    "year": 2011,
+    "time": 124,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 140,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 371,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Evans",
+            "character": "Captain America / Steve Rogers"
+        },
+        {
+            "name": "Hayley Atwell",
+            "character": "Peggy Carter"
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": "James Buchanan 'Bucky' Barnes"
+        },
+        {
+            "name": "Tommy Lee Jones",
+            "character": "Colonel Chester Phillips"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Johann Schmidt / Red Skull"
+        },
+        {
+            "name": "Dominic Cooper",
+            "character": "Howard Stark"
+        },
+        {
+            "name": "Richard Armitage",
+            "character": "Heinz Kruger"
+        },
+        {
+            "name": "Stanley Tucci",
+            "character": "Dr. Abraham Erskine"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Toby Jones",
+            "character": "Dr. Arnim Zola"
+        }
+    ],
+    "synopsis": "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 5
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201107,
+    "characters": 3
+}

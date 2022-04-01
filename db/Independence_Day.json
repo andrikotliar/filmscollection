@@ -1,0 +1,87 @@
+{
+    "id": 129,
+    "title": "Independence Day",
+    "poster": "independence_day",
+    "trailer": "kA2WzBi2grE",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Roland Emmerich"
+    ],
+    "producers": "Dean Devlin",
+    "writtens": "Dean Devlin, Roland Emmerich",
+    "music": "David Arnold",
+    "cinema": "Karl Walter Lindenlaub",
+    "year": 1996,
+    "time": 145,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 817,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": "Capt. Steven Hiller"
+        },
+        {
+            "name": "Bill Pullman",
+            "character": "President Thomas J. Whitmore"
+        },
+        {
+            "name": "Jeff Goldblum",
+            "character": "David Levinson"
+        },
+        {
+            "name": "Mary McDonnell",
+            "character": "Marilyn Whitmore"
+        },
+        {
+            "name": "Judd Hirsch",
+            "character": "Julius Levinson"
+        },
+        {
+            "name": "Robert Loggia",
+            "character": "General William Grey"
+        },
+        {
+            "name": "Randy Quaid",
+            "character": "Russell Casse"
+        }
+    ],
+    "synopsis": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+    "collections": [
+        "Invaders"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Director",
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 199607
+}

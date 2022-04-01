@@ -1,0 +1,79 @@
+{
+    "id": 315,
+    "title": "Madagascar: Escape 2 Africa",
+    "poster": "madagascar_2",
+    "trailer": "hLVjIhPYq7s",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": [
+        "Eric Darnell",
+        "Tom McGrath"
+    ],
+    "producers": "Mireille Soria, Mark Swift",
+    "writtens": "Etan Cohen, Eric Darnell, Tom McGrath",
+    "music": "Hans Zimmer",
+    "year": 2008,
+    "time": 89,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 604,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Stiller",
+            "character": "Alex"
+        },
+        {
+            "name": "Chris Rock",
+            "character": "Marty"
+        },
+        {
+            "name": "David Schwimmer",
+            "character": "Melman"
+        },
+        {
+            "name": "Jada Pinkett Smith",
+            "character": "Gloria"
+        },
+        {
+            "name": "Sacha Baron Cohen",
+            "character": "Julien"
+        },
+        {
+            "name": "Cedric the Entertainer",
+            "character": "Maurice"
+        },
+        {
+            "name": "Bernie Mac",
+            "character": "Zuba"
+        },
+        {
+            "name": "Alec Baldwin",
+            "character": "Makunga"
+        }
+    ],
+    "synopsis": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Madagascar",
+        "part": 2
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 200810
+}

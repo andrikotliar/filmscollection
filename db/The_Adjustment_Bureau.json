@@ -1,0 +1,84 @@
+{
+    "id": 213,
+    "title": "The Adjustment Bureau",
+    "poster": "adjustment_bureau",
+    "trailer": "wZJ0TP4nTaE",
+    "genres": [
+        "Romance",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "George Nolfi"
+    ],
+    "producers": "Bill Carraro, Michael Hackett, Chris Moore, George Nolfi",
+    "writtens": "George Nolfi",
+    "music": "Thomas Newman",
+    "cinema": "John Toll",
+    "year": 2011,
+    "time": 106,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 50,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 128,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Matt Damon",
+            "character": "David Norris"
+        },
+        {
+            "name": "Emily Blunt",
+            "character": "Elise Sellas"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Harry Mitchell"
+        },
+        {
+            "name": "John Slattery",
+            "character": "Richardson"
+        },
+        {
+            "name": "Michael Kelly",
+            "character": "Charlie Traynor"
+        },
+        {
+            "name": "Terence Stamp",
+            "character": "Thompson"
+        },
+        {
+            "name": "Donnie Keshawarz",
+            "character": "Donaldson"
+        },
+        {
+            "name": "Anthony Ruivivar",
+            "character": "McCrady"
+        }
+    ],
+    "synopsis": "The affair between a politician and a contemporary dancer is affected by mysterious forces keeping the lovers apart.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actress"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201103
+}

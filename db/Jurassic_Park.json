@@ -1,0 +1,105 @@
+{
+    "id": 227,
+    "title": "Jurassic Park",
+    "poster": "jurassic_park_1",
+    "trailer": "QWBKEmWWL38",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures",
+        "Amblin Entertainment"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Kathleen Kennedy, Gerald R. Molen",
+    "writtens": "Michael Crichton, David Koepp",
+    "music": "John Williams",
+    "cinema": "Dean Cundey",
+    "year": 1993,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 63,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.03,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Sam Neill",
+            "character": "Grant"
+        },
+        {
+            "name": "Laura Dern",
+            "character": "Ellie"
+        },
+        {
+            "name": "Jeff Goldblum",
+            "character": "Malcolm"
+        },
+        {
+            "name": "Richard Attenborough",
+            "character": "Hammond"
+        },
+        {
+            "name": "Joseph Mazzello",
+            "character": "Tim"
+        },
+        {
+            "name": "Ariana Richards",
+            "character": "Lex"
+        }
+    ],
+    "synopsis": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "collections": [
+        "Legends",
+        "Monsters"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound",
+                "Best Sound Effects Editing",
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Director",
+                "Best Writing",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "Jupiter Award",
+            "nominations": [
+                "Best International Film",
+                "Best International Director"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Jurassic Park",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199306
+}

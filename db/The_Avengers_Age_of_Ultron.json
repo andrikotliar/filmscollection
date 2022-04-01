@@ -1,0 +1,121 @@
+{
+    "id": 63,
+    "title": "The Avengers: Age of Ultron",
+    "poster": "avengers_2",
+    "trailer": "tmeOjFno6Do",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Joss Whedon"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Joss Whedon",
+    "music": "Brian Tyler, Danny Elfman",
+    "cinema": "Ben Davis",
+    "year": 2015,
+    "time": 141,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 365,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.4,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "Thor"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner / Hulk"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "Clint Barton / Hawkeye"
+        },
+        {
+            "name": "James Spader",
+            "character": "Ultron"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James Rhodes"
+        },
+        {
+            "name": "Aaron Taylor-Johnson",
+            "character": "Pietro Maximoff"
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "character": "Wanda Maximoff / Scarlett Witch"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Jarvis / Vision"
+        },
+        {
+            "name": "Cobie Smulders",
+            "character": "Maria Hill"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Sam Wilson"
+        },
+        {
+            "name": "Hayley Atwell",
+            "character": "Peggy Carter"
+        },
+        {
+            "name": "Idris Elba",
+            "character": "Heimdall"
+        }
+    ],
+    "synopsis": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costume Design"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 11
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201504,
+    "characters": 10
+}

@@ -1,0 +1,54 @@
+{
+    "id": 249,
+    "title": "Hawkeye",
+    "poster": "hawkeye",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Marvel Studios"
+    ],
+    "director": [
+        "Jonathan Igla"
+    ],
+    "producers": "Kevin Feige, Trinh Tran, Rhys Thomas, Jonathan Igla",
+    "writtens": "Tanner Bean, Katrina Mathewson, Jenna Noel Frazier",
+    "music": "Christophe Beck",
+    "cinema": "Eric Steelberg, James Whitaker",
+    "year": 2021,
+    "time": 360,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Jeremy Renner",
+            "character": "Clint Barton / Hawkeye"
+        },
+        {
+            "name": "Hailee Steinfeld",
+            "character": "Kate Bishop"
+        }
+    ],
+    "synopsis": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate M. Bishop, who took on the role after the original Avenger, Clint Barton.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 29
+    },
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 6,
+            "trailer": "5VYb3B1ETlk"
+        }
+    ],
+    "sort": 202111,
+    "characters": 7
+}

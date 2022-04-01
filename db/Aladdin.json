@@ -1,0 +1,81 @@
+{
+    "id": 220,
+    "title": "Aladdin",
+    "poster": "aladdin",
+    "trailer": "foyufD52aog",
+    "genres": [
+        "Adventures",
+        "Comedy",
+        "Family"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Guy Ritchie"
+    ],
+    "producers": "Dan Lin, Jonathan Eirich",
+    "writtens": "John August, Guy Ritchie",
+    "music": "Alan Menken",
+    "cinema": "Alan Stewart",
+    "year": 2019,
+    "time": 128,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 183,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.03,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": "Genie"
+        },
+        {
+            "name": "Mena Massoud",
+            "character": "Aladdin"
+        },
+        {
+            "name": "Naomi Scott",
+            "character": "Jasmine"
+        },
+        {
+            "name": "Marwan Kenzari",
+            "character": "Jafar"
+        },
+        {
+            "name": "Navid Negahban",
+            "character": "Sultan"
+        },
+        {
+            "name": "Nasim Pedrad",
+            "character": "Dalia"
+        },
+        {
+            "name": "Billy Magnussen",
+            "character": "Prince Anders"
+        }
+    ],
+    "synopsis": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costume Design"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201905,
+    "characters": 4
+}

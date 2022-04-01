@@ -1,0 +1,87 @@
+{
+    "id": 190,
+    "title": "The Day the Earth Stood Steel",
+    "poster": "day_the_earth_stood_still",
+    "trailer": "6QFcZohER3s",
+    "genres": [
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Scott Derrickson"
+    ],
+    "producers": "Paul Harris Boardman, Gregory Goodman, Erwin Stoff",
+    "writtens": "David Scarpa",
+    "music": "Tyler Bates",
+    "cinema": "David Tattersall",
+    "year": 2008,
+    "time": 103,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 80,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 233,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": "Klaatu"
+        },
+        {
+            "name": "Jennifer Connelly",
+            "character": "Helen Benson"
+        },
+        {
+            "name": "Kathy Bates",
+            "character": "Regina Jackson"
+        },
+        {
+            "name": "Jaden Smith",
+            "character": "Jacob Benson"
+        },
+        {
+            "name": "John Cleese",
+            "character": "Professor Barnhardt"
+        },
+        {
+            "name": "Jon Hamm",
+            "character": "Michael Granier"
+        },
+        {
+            "name": "Kyle Chandler",
+            "character": "John Driscoll"
+        },
+        {
+            "name": "Robert Knepper",
+            "character": "Colonel"
+        },
+        {
+            "name": "James Hong",
+            "character": "Mr. Wu"
+        }
+    ],
+    "synopsis": "A remake of the 1951 classic science fiction film about an alien visitor and his giant robot counterpart who visit Earth.",
+    "collections": [
+        "Invaders"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Performance by a Younger Actor"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200812
+}

@@ -1,0 +1,95 @@
+{
+    "id": 44,
+    "title": "Harry Potter and the Deathly Hallows: Part II",
+    "poster": "harry_potter_8",
+    "trailer": "5NYt1qirBWg",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "David Yates"
+    ],
+    "producers": "David Heyman, David Barron, J.K.Rowling",
+    "writtens": "Steve Kloves",
+    "music": "Alexandre Desplat",
+    "cinema": "Eduardo Serra",
+    "year": 2011,
+    "time": 130,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.34,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "name": "Ralph Fiennes",
+            "character": "Lord Voldemort"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": "Bellatrix Lestrage"
+        }
+    ],
+    "synopsis": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Fantasy Film"
+            ]
+        }
+    ],
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 10
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201107,
+    "characters": 8
+}

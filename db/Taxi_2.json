@@ -1,0 +1,66 @@
+{
+    "id": 195,
+    "title": "Taxi 2",
+    "poster": "taxi_2",
+    "trailer": "XkMZ75BwhCg",
+    "genres": [
+        "Comedy"
+    ],
+    "production": [
+        "LionsGate Entertainment"
+    ],
+    "director": [
+        "Gérard Pirès"
+    ],
+    "producers": "Luc Besson, Michele Petin, Laurent Petin",
+    "writtens": "Luc Besson",
+    "music": "Olivier \"Akos\" Castelli, Al Khemya, One Shot",
+    "cinema": "Thierry Guilmaro",
+    "year": 2000,
+    "time": 88,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 10,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 64,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Samy Naceri",
+            "character": "Daniel Morales"
+        },
+        {
+            "name": "Frédéric Diefenthal",
+            "character": "Emilien Coutant-Kerbalec"
+        },
+        {
+            "name": "Marion Cotillard",
+            "character": "Lilly Bertineau"
+        },
+        {
+            "name": "Emma Wiklund",
+            "character": "Petra"
+        },
+        {
+            "name": "Bernard Farcy",
+            "character": "Commissaire Gibert"
+        }
+    ],
+    "synopsis": "Police inspector Emilien and his taxi-driver pal Daniel are back, this time on the tail of a group of Japanese yakuza.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "Besson's Taxi",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200003
+}

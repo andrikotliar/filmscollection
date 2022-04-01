@@ -1,0 +1,145 @@
+{
+    "id": 242,
+    "title": "Heroes",
+    "poster": "heroes",
+    "genres": [
+        "Sci-Fi",
+        "Drama"
+    ],
+    "production": [
+        "Tailwind Productions",
+        "NBC Universal Television",
+        "Universal Media Studios"
+    ],
+    "director": [
+        "Tim Kring"
+    ],
+    "producers": "Lori Motyer",
+    "writtens": "Tim Kring",
+    "music": "Lisa Coleman, Wendy Melvoin",
+    "cinema": "Nathaniel Goodman, Charlie Lieberman, John B. Aronson, Edward J. Pei, Adam Kane, John Newby",
+    "year": 2006,
+    "time": 3465,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Jack Coleman",
+            "character": "Noah Bennet"
+        },
+        {
+            "name": "Hayden Panettiere",
+            "character": "Claire Bennet"
+        },
+        {
+            "name": "Milo Ventimiglia",
+            "character": "Peter Petrelli"
+        },
+        {
+            "name": "Masi Oka",
+            "character": "Hiro Nakamura"
+        },
+        {
+            "name": "Sendhil Ramamurthy",
+            "character": "Mohinder Suresh"
+        },
+        {
+            "name": "Greg Grunberg",
+            "character": "Matt Parkman"
+        },
+        {
+            "name": "James Kyson Lee",
+            "character": "Ando Masahashi"
+        },
+        {
+            "name": "Adrian Pasdar",
+            "character": "Nathan Petrelli"
+        },
+        {
+            "name": "Zachary Quinto",
+            "character": "Sylar"
+        },
+        {
+            "name": "Ali Larter",
+            "character": "Niki Sanders"
+        },
+        {
+            "name": "Cristine Rose",
+            "character": "Angela Petrelli"
+        },
+        {
+            "name": "Ashley Crow",
+            "character": "Sandra Bennet"
+        },
+        {
+            "name": "Noah Gray-Cabey",
+            "character": "Micah Sanders"
+        },
+        {
+            "name": "Robert Knepper",
+            "character": "Isaac Mendez"
+        },
+        {
+            "name": "Adair Tishler",
+            "character": "Molly Walker"
+        },
+        {
+            "name": "David Anders",
+            "character": "Adam Monroe"
+        },
+        {
+            "name": "Robert Forster",
+            "character": "Arthur Petrelli"
+        },
+        {
+            "name": "Malcolm McDowell",
+            "character": "Daniel Linderman"
+        }
+    ],
+    "synopsis": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Primetime Emmy Awards (2009)",
+            "nominations": [
+                "Outstanding Special Visual Effects for a Series"
+            ]
+        },
+        {
+            "title": "BAFTA Awards (2008)",
+            "nominations": [
+                "Best International"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 23,
+            "trailer": "deNDnHW1sWo"
+        },
+        {
+            "season": 2,
+            "episodes": 11,
+            "trailer": "9mNGxXpAmHc"
+        },
+        {
+            "season": 3,
+            "episodes": 25,
+            "trailer": "mTzPPIEUFEs"
+        },
+        {
+            "season": 4,
+            "episodes": 18,
+            "trailer": "i1VA_aWyrPI"
+        }
+    ],
+    "sort": 200609,
+    "characters": 11
+}

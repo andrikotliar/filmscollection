@@ -1,0 +1,132 @@
+{
+    "id": 138,
+    "title": "Inception",
+    "poster": "inception",
+    "trailer": "YoHD9XEInc0",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary"
+    ],
+    "director": [
+        "Christopher Nolan"
+    ],
+    "producers": "Emma Thomas, Christopher Nolan",
+    "writtens": "Christopher Nolan",
+    "music": "Hans Zimmer",
+    "cinema": "Wally Pfister",
+    "year": 2010,
+    "time": 148,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 828,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Leonardo DiCaprio",
+            "character": "Cobb"
+        },
+        {
+            "name": "Joseph Gordon-Levitt",
+            "character": "Arthur"
+        },
+        {
+            "name": "Ellen Page",
+            "character": "Ariadne"
+        },
+        {
+            "name": "Tom Hardy",
+            "character": "Eames"
+        },
+        {
+            "name": "Ken Watanabe",
+            "character": "Saito"
+        },
+        {
+            "name": "Dileep Rao",
+            "character": "Yusuf"
+        },
+        {
+            "name": "Cillian Murphy",
+            "character": "Robert Fischer"
+        },
+        {
+            "name": "Tom Berenger",
+            "character": "Browning"
+        },
+        {
+            "name": "Marion Cotillard",
+            "character": "Mal"
+        },
+        {
+            "name": "Michael Caine",
+            "character": "Miles"
+        }
+    ],
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Cinematography",
+                "Best Achievement in Sound Mixing",
+                "Best Achievement in Sound Editing",
+                "Best Achievement in Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Production Design",
+                "Best Sound",
+                "Best Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Director",
+                "Best Writing",
+                "Best Music",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Scared-As-Shit Performance",
+                "Breakthrough Male Performance"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Cinematography",
+                " Best Art Direction",
+                "Best Editing",
+                "Best Visual Effects",
+                "Best Sound",
+                "Best Action Movie"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201007,
+    "characters": 6
+}

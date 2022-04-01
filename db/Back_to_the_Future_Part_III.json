@@ -1,0 +1,63 @@
+{
+    "id": 11,
+    "title": "Back to the Future: Part III",
+    "poster": "back_to_the_future_3",
+    "trailer": "EYkguxpqsrg",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Robert Zemeckis"
+    ],
+    "producers": "Bob Gale, Neil Canton",
+    "writtens": "Bob Gale",
+    "music": "Alan Silvestri",
+    "cinema": "Dean Cundey",
+    "year": 1990,
+    "time": 118,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 40,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 245,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Michael J. Fox",
+            "character": "Marty McFly"
+        },
+        {
+            "name": "Christopher Lloyd",
+            "character": "Dr. Emmett Brown"
+        },
+        {
+            "name": "Mary Steenburgen",
+            "character": "Clara Clayton"
+        },
+        {
+            "name": "Thomas F. Wilson",
+            "character": "Biff Tannen / Griff Tannen"
+        }
+    ],
+    "synopsis": "Enjoying a peaceable existence in 1885, Doctor Emmet Brown is about to be killed by Buford \"Mad Dog\"Tannen. Marty McFly travels back in time to save his friend.",
+    "collections": [
+        "Legends"
+    ],
+    "parts": {
+        "title": "Back to the Future",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199005
+}

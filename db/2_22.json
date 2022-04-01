@@ -1,0 +1,68 @@
+{
+    "id": 207,
+    "title": "2:22",
+    "poster": "two_twenty_two",
+    "trailer": "Af2N3N5rURI",
+    "genres": [
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "production": [
+        "Magnet Releasing"
+    ],
+    "director": [
+        "Paul Currie"
+    ],
+    "producers": "Bill Mechanic, Steve Hutensky, Paul Currie, Jackie O’Sullivan, Garrett Kelleher",
+    "writtens": "Nathan Parker, Todd Stein",
+    "music": "Lisa Gerrard, James Orr",
+    "cinema": "David Eggby",
+    "year": 2017,
+    "time": 98,
+    "countries": [
+        "Australlia",
+        "USA"
+    ],
+    "boxoffice": {
+        "value": 4,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Michiel Huisman",
+            "character": "Dylan Branson"
+        },
+        {
+            "name": "Teresa Palmer",
+            "character": "Sarah Barton"
+        },
+        {
+            "name": "Sam Reid",
+            "character": "Jonas Edman"
+        },
+        {
+            "name": "John Waters",
+            "character": "Bill"
+        },
+        {
+            "name": "Kerry Armstrong",
+            "character": "Catherine Mills"
+        },
+        {
+            "name": "Richard Davies",
+            "character": "Inky"
+        },
+        {
+            "name": "Maeve Dermody",
+            "character": "Sandy"
+        }
+    ],
+    "synopsis": "A man's life is derailed when an ominous pattern of events repeats itself in exactly the same manner every day, ending at precisely 2:22 p.m.",
+    "collections": [
+        "Future"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201706
+}

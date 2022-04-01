@@ -1,0 +1,60 @@
+{
+    "id": 293,
+    "title": "Enola Holmes",
+    "poster": "enola_holmes",
+    "trailer": "1d0Zf9sXlHk",
+    "genres": [
+        "Adventures",
+        "Crime"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "Harry Bradbeer"
+    ],
+    "producers": "Millie Bobby Brown, Paige Brown, Alex Garcia, Ali Mendes, Mary Parent",
+    "writtens": "Jack Thorne",
+    "music": "Daniel Pemberton",
+    "cinema": "Giles Nuttgens",
+    "year": 2020,
+    "time": 123,
+    "countries": [
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Millie Bobby Brown",
+            "character": "Enola Holmes"
+        },
+        {
+            "name": "Henry Cavill",
+            "character": "Sherlock Holmes"
+        },
+        {
+            "name": "Sam Claflin",
+            "character": "Mycroft Holmes"
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": "Eudoria Holmes"
+        },
+        {
+            "name": "Louis Partridge",
+            "character": "Tewkesbury"
+        },
+        {
+            "name": "Burn Gorman",
+            "character": "Linthorn"
+        }
+    ],
+    "synopsis": "When Enola Holmes-Sherlock's teen sister-discovers her mother missing, she sets off to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy around a mysterious young Lord.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202009,
+    "characters": 5
+}

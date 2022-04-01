@@ -1,0 +1,98 @@
+{
+    "id": 87,
+    "title": "Logan",
+    "poster": "logan",
+    "trailer": "Div0iP65aZo",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "James Mangold"
+    ],
+    "producers": "Lauren Shuler Donner, Simon Kinberg",
+    "writtens": "Scott Frank, James Mangold, Michael Green",
+    "music": "Marco Beltrami",
+    "cinema": "John Mathieson",
+    "year": 2017,
+    "time": 137,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 97,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 619,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan / X-24"
+        },
+        {
+            "name": "Patrick Stewart",
+            "character": "Charles"
+        },
+        {
+            "name": "Dafne Keen",
+            "character": "Laura"
+        },
+        {
+            "name": "Boyd Holbrook",
+            "character": "Pierce"
+        },
+        {
+            "name": "Stephen Merchant",
+            "character": "Caliban"
+        },
+        {
+            "name": "Elizabeth Rodriguez",
+            "character": "Gabriela"
+        },
+        {
+            "name": "Richard E. Grant",
+            "character": "Dr. Rice"
+        },
+        {
+            "name": "Eriq La Salle",
+            "character": "Will Munson"
+        },
+        {
+            "name": "Elise Neal",
+            "character": "Kathryn Munson"
+        }
+    ],
+    "synopsis": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actor (Patrick Stewart)"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Duo"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 9
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201703
+}

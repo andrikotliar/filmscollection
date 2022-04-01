@@ -1,0 +1,94 @@
+{
+    "id": 290,
+    "title": "The Queen's Gambit",
+    "poster": "queens_gambit",
+    "genres": [
+        "Drama",
+        "Sport"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": [
+        "Scott Frank",
+        "Allan Scott"
+    ],
+    "producers": "Marcus Loges, Mick Aniceto",
+    "writtens": "Scott Frank",
+    "music": "Carlos Rafael Rivera",
+    "cinema": "Steven Meizler",
+    "year": 2020,
+    "time": 395,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Anya Taylor-Joy",
+            "character": "Beth Harmon"
+        },
+        {
+            "name": "Chloe Pirrie",
+            "character": "Alice Harmon"
+        },
+        {
+            "name": "Bill Camp",
+            "character": "Mr. Shaibel"
+        },
+        {
+            "name": "Marcin Dorocinski",
+            "character": "Vasily Borgov"
+        },
+        {
+            "name": "Marielle Heller",
+            "character": "Alma Wheatley"
+        },
+        {
+            "name": "Thomas Brodie-Sangster",
+            "character": "Benny Watts"
+        },
+        {
+            "name": "Moses Ingram",
+            "character": "Jolene"
+        },
+        {
+            "name": "Harry Melling",
+            "character": "Harry Beltik"
+        },
+        {
+            "name": "Isla Johnston",
+            "character": "Young Beth Harmon"
+        }
+    ],
+    "synopsis": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+    "collections": [
+        "Life Story"
+    ],
+    "awards": [
+        {
+            "title": "Golden Globe",
+            "nominations": [
+                "Best Motion Picture Made for Television",
+                "Best Performance by an Actress in a Motion Picture Made for Television"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Limited Series",
+                "Best Actress in a Limited Series or a Movie Made for Television"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 7,
+            "trailer": "oZn3qSgmLqI"
+        }
+    ],
+    "sort": 202010
+}

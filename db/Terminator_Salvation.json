@@ -1,0 +1,76 @@
+{
+    "id": 14,
+    "title": "Terminator: Salvation",
+    "poster": "terminator_4",
+    "trailer": "-Czz-TcWCkA",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures",
+        "The Halcyon Company"
+    ],
+    "director": [
+        "McG"
+    ],
+    "producers": "Derek Anderson, Moritz Borman",
+    "writtens": "John Brancato, Michael Ferris",
+    "music": "Danny Elfman",
+    "cinema": "Shane Hurlbut",
+    "year": 2009,
+    "time": 115,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 371,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Christian Bale",
+            "character": "John Connor"
+        },
+        {
+            "name": "Sam Worthington",
+            "character": "Marcus Wright"
+        },
+        {
+            "name": "Moon Bloodgood",
+            "character": "Blair Williams"
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": "Dr. Serena Kogan"
+        },
+        {
+            "name": "Anton Yelchin",
+            "character": "Kyle Reese"
+        },
+        {
+            "name": "Jadagrace",
+            "character": "Star (as Jadagrace Berry)"
+        },
+        {
+            "name": "Bryce Dallas Howard",
+            "character": "Kate Connor"
+        }
+    ],
+    "synopsis": "In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
+    "collections": [
+        "Robots"
+    ],
+    "parts": {
+        "title": "The Terminator",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200906
+}

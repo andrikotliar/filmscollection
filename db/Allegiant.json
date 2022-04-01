@@ -1,0 +1,72 @@
+{
+    "id": 262,
+    "title": "Allegiant",
+    "poster": "divergent_3",
+    "trailer": "0G0C-vMHcQY",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Summit Entertainment"
+    ],
+    "director": [
+        "Robert Schwentke"
+    ],
+    "producers": "Lucy Fisher, Pouya Shahbazian, Douglas Wick",
+    "writtens": "Noah Oppenheim, Adam Cooper, Bill Collage",
+    "music": "Joseph Trapanese",
+    "cinema": "Florian Ballhaus",
+    "year": 2016,
+    "time": 119,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 297,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Shailene Woodley",
+            "character": "Tris"
+        },
+        {
+            "name": "Theo James",
+            "character": "Four"
+        },
+        {
+            "name": "Jeff Daniels",
+            "character": "David"
+        },
+        {
+            "name": "Miles Teller",
+            "character": "Peter"
+        },
+        {
+            "name": "Ansel Elgort",
+            "character": "Caleb"
+        },
+        {
+            "name": "Zoë Kravitz",
+            "character": "Christina"
+        }
+    ],
+    "synopsis": "After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago, to finally discover the shocking truth of the world around them.",
+    "collections": [
+        "Dystopia"
+    ],
+    "parts": {
+        "title": "Divergent",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201603
+}

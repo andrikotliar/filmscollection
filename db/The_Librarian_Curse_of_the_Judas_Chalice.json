@@ -1,0 +1,67 @@
+{
+    "id": 99,
+    "title": "The Librarian: Curse of the Judas Chalice",
+    "poster": "librarian_3",
+    "trailer": "SfONecwHgHY",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "TNT"
+    ],
+    "director": [
+        "Jonathan Frakes"
+    ],
+    "producers": "Phillip M. Goldfarb, Noah Wyle",
+    "writtens": "Marco Schnabel",
+    "music": "Joseph LoDuca",
+    "cinema": "David Connell",
+    "year": 2008,
+    "time": 95,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Noah Wyle",
+            "character": "Flynn Carsen"
+        },
+        {
+            "name": "Bruce Davison",
+            "character": "Professor Lazlo / Vlad"
+        },
+        {
+            "name": "Stana Katic",
+            "character": "Simone Renoir"
+        },
+        {
+            "name": "Bob Newhart",
+            "character": "Judson"
+        },
+        {
+            "name": "Jane Curtin",
+            "character": "Charlene"
+        }
+    ],
+    "synopsis": "Losing his girlfriend because he was at an auction dramatically getting the magical philosopher's stone instead of a date, he needs a vacation - New Orleans but finds himself busy saving Earth from the curse of the Judas chalice/vampires.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Presentation on Television"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Librarian",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200812
+}

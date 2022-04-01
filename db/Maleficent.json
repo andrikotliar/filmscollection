@@ -1,0 +1,87 @@
+{
+    "id": 269,
+    "title": "Maleficent",
+    "poster": "maleficent_1",
+    "trailer": "w-XO4XiRop0",
+    "genres": [
+        "Fantasy"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Robert Stromberg"
+    ],
+    "producers": "Joe Roth",
+    "writtens": "Linda Woolverton",
+    "music": "James Newton Howard",
+    "cinema": "Dean Semler",
+    "year": 2014,
+    "time": 97,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 180,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 758,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Angelina Jolie",
+            "character": "Maleficent"
+        },
+        {
+            "name": "Elle Fanning",
+            "character": "Aurora"
+        },
+        {
+            "name": "Sharlto Copley",
+            "character": "Stefan"
+        },
+        {
+            "name": "Sam Riley",
+            "character": "Diaval"
+        },
+        {
+            "name": "Imelda Staunton",
+            "character": "Knotgrass"
+        },
+        {
+            "name": "Lesley Manville",
+            "character": "Flittle"
+        },
+        {
+            "name": "Juno Temple",
+            "character": "Thistletwit"
+        },
+        {
+            "name": "Brenton Thwaites",
+            "character": "Prince Phillip"
+        }
+    ],
+    "synopsis": "A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Hollywood Film Award",
+            "nominations": [
+                "Production Designer of the Year"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Maleficent",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201405
+}

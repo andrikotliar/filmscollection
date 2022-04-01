@@ -1,0 +1,96 @@
+{
+    "id": 265,
+    "title": "Spider-Man 2",
+    "poster": "raimi_spider_man_2",
+    "trailer": "1s9Yln0YwCw",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures",
+        "Marvel Enterprises"
+    ],
+    "director": [
+        "Sam Raimi"
+    ],
+    "producers": "Avi Arad, Laura Ziskin",
+    "writtens": "Alvin Sargent",
+    "music": "Danny Elfman",
+    "cinema": "Bill Pope",
+    "year": 2004,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 789,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tobey Maguire",
+            "character": "Spider-Man / Peter Parker"
+        },
+        {
+            "name": "Alfred Molina",
+            "character": "Doc Ock / Dr. Otto Octavius"
+        },
+        {
+            "name": "Kirsten Dunst",
+            "character": "Mary Jane Watson"
+        },
+        {
+            "name": "James Franco",
+            "character": "Harry Osborn"
+        },
+        {
+            "name": "Rosemary Harris",
+            "character": "May Parker"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "J. Jonah Jameson"
+        }
+    ],
+    "synopsis": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn Award",
+            "nominations": [
+                "Best Fantasy Film",
+                "Best Actor",
+                "Best Director",
+                "Best Writer",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "Empire Award",
+            "nominations": [
+                "Best Director"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Raimi's Spider-Man",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200406
+}

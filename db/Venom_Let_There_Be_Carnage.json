@@ -1,0 +1,69 @@
+{
+    "id": 197,
+    "title": "Venom: Let There Be Carnage",
+    "poster": "venom_2",
+    "trailer": "-ezfi6FQ8Ds",
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "production": [
+        "Marvel Entertainment",
+        "Sony Pictures Entertainment"
+    ],
+    "director": [
+        "Andy Serkis"
+    ],
+    "producers": "Avi Arad, Tom Hardy, Kelly Marcel, Hutch Parker, Amy Pascal, Matt Tolmach",
+    "writtens": "Kelly Marcel",
+    "music": "Marco Beltrami",
+    "cinema": "Robert Richardson",
+    "year": 2021,
+    "time": 100,
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 441,
+        "suffix": "million"
+    },
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Tom Hardy",
+            "character": "Eddie Brock / Venom"
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": "Cletus Kasady / Carnage"
+        },
+        {
+            "name": "Michelle Williams",
+            "character": "Anne Weying"
+        },
+        {
+            "name": "Stephen Graham",
+            "character": "Detective Mulligan"
+        },
+        {
+            "name": "Naomie Harris",
+            "character": "Shriek"
+        }
+    ],
+    "synopsis": "Tom Hardy returns to the big screen as the lethal protector Venom, one of MARVEL's greatest and most complex characters. Directed by Andy Serkis, the film also stars Michelle Williams, Naomie Harris and Woody Harrelson, in the role of the villain Cletus Kasady/Carnage.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "Sony's Spider-Man Universe",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202110,
+    "characters": 4
+}

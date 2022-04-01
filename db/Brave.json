@@ -1,0 +1,79 @@
+{
+    "id": 281,
+    "title": "Brave",
+    "poster": "brave",
+    "trailer": "TEHWDA_6e3M",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "Mark Andrews"
+    ],
+    "producers": "Katherine Sarafian",
+    "writtens": "Mark Andrews, Steve Purcell, Brenda Chapman, Irene Mecchi",
+    "music": "Patrick Doyle",
+    "year": 2012,
+    "time": 93,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 185,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 539,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Kelly Macdonald",
+            "character": "Merida"
+        },
+        {
+            "name": "Billy Connolly",
+            "character": "Fergus"
+        },
+        {
+            "name": "Emma Thompson",
+            "character": "Elinor"
+        },
+        {
+            "name": "Julie Walters",
+            "character": "The Witch"
+        }
+    ],
+    "synopsis": "Determined to make her own path in life, Princess Merida (Kelly Macdonald) defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        },
+        {
+            "title": "Golden Globe",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 201206
+}

@@ -1,0 +1,120 @@
+{
+    "id": 58,
+    "title": "The Avengers",
+    "poster": "avengers_1",
+    "trailer": "hIR8Ar-Z4hw",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Joss Whedon"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Joss Whedon",
+    "music": "Alan Silvestri",
+    "cinema": "Seamus McGarvey",
+    "year": 2012,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 220,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.52,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner / The Hulk"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "Thor"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "Clint Barton / Hawkeye"
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": "Loki"
+        },
+        {
+            "name": "Clark Gregg",
+            "character": "Agent Phil Coulson"
+        },
+        {
+            "name": "Cobie Smulders",
+            "character": "Agent Maria Hill"
+        },
+        {
+            "name": "Stellan Skarsgard",
+            "character": "Selvig"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": "Pepper Potts"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Jarvis"
+        }
+    ],
+    "synopsis": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Supporting Actor (Clark Gregg)",
+                "Best Director",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Movie of the Year",
+                "Best Villain",
+                "Best Fight"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 6
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201205,
+    "characters": 8
+}

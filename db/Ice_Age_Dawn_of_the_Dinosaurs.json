@@ -1,0 +1,83 @@
+{
+    "id": 125,
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "poster": "ice_age_3",
+    "trailer": "Y_nSwh2WjAM",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Blue Sky Studios"
+    ],
+    "director": [
+        "Carlos Saldanha"
+    ],
+    "producers": "Lori Forte, John C. Donkin",
+    "writtens": "Michael Berg, Peter Ackerman, Mike Reiss, Yoni Brenner",
+    "music": "John Powell",
+    "year": 2009,
+    "time": 94,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 886,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ray Romano",
+            "character": "Manny"
+        },
+        {
+            "name": "Queen Latifah",
+            "character": "Ellie"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Diego"
+        },
+        {
+            "name": "John Leguizamo",
+            "character": "Sid"
+        },
+        {
+            "name": "Josh Peck",
+            "character": "Eddie"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Buck"
+        },
+        {
+            "name": "Seann William Scott",
+            "character": "Crash"
+        },
+        {
+            "name": "Chris Wedge",
+            "character": "Scrat"
+        },
+        {
+            "name": "Karen Disher",
+            "character": "Scratte"
+        }
+    ],
+    "synopsis": "When Sid's attempt to adopt three dinosaur eggs gets him abducted by their real mother to an underground lost world, his friends attempt to rescue him.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "Ice Age",
+        "part": 3
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 200907
+}

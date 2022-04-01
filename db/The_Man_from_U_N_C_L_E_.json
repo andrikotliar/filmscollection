@@ -1,0 +1,73 @@
+{
+    "id": 152,
+    "title": "The Man from U.N.C.L.E.",
+    "poster": "the_man_from_uncle",
+    "trailer": "CzYRlISYE8Y",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Guy Ritchie"
+    ],
+    "producers": "Steve Clark-Hall, John Davis, Guy Ritchie, Lionel Wigram",
+    "writtens": "Guy Ritchie, Lionel Wigram",
+    "music": "Daniel Pemberton",
+    "cinema": "John Mathieson",
+    "year": 2015,
+    "time": 116,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 107,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Henry Cavill",
+            "character": "Napoleon Solo"
+        },
+        {
+            "name": "Armie Hammer",
+            "character": "Illya Kuryakin"
+        },
+        {
+            "name": "Alicia Vikander",
+            "character": "Gaby"
+        },
+        {
+            "name": "Elizabeth Debicki",
+            "character": "Victoria"
+        },
+        {
+            "name": "Luca Calvani",
+            "character": "Alexander"
+        },
+        {
+            "name": "Sylvester Groth",
+            "character": "Uncle Rudi"
+        },
+        {
+            "name": "Hugh Grant",
+            "character": "Waverly"
+        }
+    ],
+    "synopsis": "In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201508,
+    "characters": 5
+}

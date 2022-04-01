@@ -1,0 +1,89 @@
+{
+    "id": 330,
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "poster": "fantastic_beasts_2",
+    "trailer": "vvFybpmyB9E",
+    "genres": [
+        "Fantasy",
+        "Drama"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "David Yates"
+    ],
+    "producers": "Steve Kloves, J.K. Rowlingб Lionel Wigram",
+    "writtens": "J.K. Rowling",
+    "music": "James Newton Howard",
+    "cinema": "Philippe Rousselot",
+    "year": 2018,
+    "time": 134,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 654,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Eddie Redmayne",
+            "character": "Newt Scamander"
+        },
+        {
+            "name": "Johnny Depp",
+            "character": "Grindelwald"
+        },
+        {
+            "name": "Katherine Waterston",
+            "character": "Porpentina Esther \"Tina\" Goldstein"
+        },
+        {
+            "name": "Dan Fogler",
+            "character": "Jacob Kowalski"
+        },
+        {
+            "name": "Alison Sudol",
+            "character": "Queenie Goldstein"
+        },
+        {
+            "name": "Ezra Miller",
+            "character": "Credence Barebone"
+        },
+        {
+            "name": "Zoe Kravitz",
+            "character": "Leta Lestrange"
+        },
+        {
+            "name": "Callum Turner",
+            "character": "Theseus Scamander"
+        },
+        {
+            "name": "Jude Law",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "name": "Claudia Kim",
+            "character": "Nagini"
+        }
+    ],
+    "synopsis": "The second installment of the \"Fantastic Beasts\" series featuring the adventures of Magizoologist Newt Scamander.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201811,
+    "characters": 10
+}

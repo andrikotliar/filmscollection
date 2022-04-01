@@ -1,0 +1,87 @@
+{
+    "id": 92,
+    "title": "The Mummy: Tomb of Dragon Emperor",
+    "poster": "mummy_3",
+    "trailer": "5-4qSE2Ch0Y",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Rob Cohen"
+    ],
+    "producers": "Stephen Sommers, Sean Daniel",
+    "writtens": "Alfred Gough, Miles Millar",
+    "music": "Randy Edelman",
+    "cinema": "Simon Duggan",
+    "year": 2008,
+    "time": 112,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 145,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 401,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Brendan Fraser",
+            "character": "Rick O'Connell"
+        },
+        {
+            "name": "Jet Li",
+            "character": "Emperor"
+        },
+        {
+            "name": "Maria Bello",
+            "character": "Evelyn O'Connell"
+        },
+        {
+            "name": "John Hannah",
+            "character": "Jonathan Carnahan"
+        },
+        {
+            "name": "Michelle Yeoh",
+            "character": "Zi Yuan"
+        },
+        {
+            "name": "Luke Ford",
+            "character": "Alex O'Connell"
+        },
+        {
+            "name": "Isabella Leong",
+            "character": "Lin"
+        },
+        {
+            "name": "Anthony Chau-Sang Wong",
+            "character": "General Yang"
+        },
+        {
+            "name": "Russell Wong",
+            "character": "Ming Guo"
+        },
+        {
+            "name": "Liam Cunningham",
+            "character": "Maguire"
+        }
+    ],
+    "synopsis": "In the Far East, Alex O'Connell, the son of famed mummy fighters Rick and Evy O'Connell, unearths the mummy of the first Emperor of Qin -- a shape-shifting entity cursed by a witch centuries ago.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "parts": {
+        "title": "The Mummy",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200807
+}

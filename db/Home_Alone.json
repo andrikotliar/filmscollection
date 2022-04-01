@@ -1,0 +1,82 @@
+{
+    "id": 184,
+    "title": "Home Alone",
+    "poster": "home_alone_1",
+    "trailer": "jEDaVHmw7r4",
+    "genres": [
+        "Comedy"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Chris Columbus"
+    ],
+    "producers": "John Hughes",
+    "writtens": "John Hughes",
+    "music": "John Williams",
+    "cinema": "Julio Macat",
+    "year": 1990,
+    "time": 103,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 18,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 477,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Macaulay Culkin",
+            "character": "Kevin"
+        },
+        {
+            "name": "Joe Pesci",
+            "character": "Harry"
+        },
+        {
+            "name": "Daniel Stern",
+            "character": "Marv"
+        },
+        {
+            "name": "John Heard",
+            "character": "Peter"
+        },
+        {
+            "name": "Roberts Blossom",
+            "character": "Marley"
+        },
+        {
+            "name": "Catherine O'Hara",
+            "character": "Kate"
+        },
+        {
+            "name": "Angela Goethals",
+            "character": "Linnie"
+        },
+        {
+            "name": "Devin Ratray",
+            "character": "Buzz"
+        },
+        {
+            "name": "Gerry Bamman",
+            "character": "Uncle Frank"
+        }
+    ],
+    "synopsis": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+    "collections": [
+        "Legends"
+    ],
+    "parts": {
+        "title": "Home Alone",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199011
+}

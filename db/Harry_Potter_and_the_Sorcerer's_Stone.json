@@ -1,0 +1,88 @@
+{
+    "id": 37,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "poster": "harry_potter_1",
+    "trailer": "VyHV0BRtdxo",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Chris Columbus"
+    ],
+    "producers": "David Heyman",
+    "writtens": "Steve Kloves",
+    "music": "John Williams",
+    "cinema": "John Seale",
+    "year": 2001,
+    "time": 152,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 975,
+        "suffix": "illionm"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "name": "Richard Harris",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "name": "Ian Hart",
+            "character": "Quirinus Quirrell"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        }
+    ],
+    "synopsis": "An orphaned boy enrolled in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costumes"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200111
+}

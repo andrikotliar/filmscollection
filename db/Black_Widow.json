@@ -1,0 +1,76 @@
+{
+    "id": 191,
+    "title": "Black Widow",
+    "poster": "black_widow",
+    "trailer": "ybji16u608U",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios"
+    ],
+    "director": [
+        "Cate Shortland"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Eric Pearson",
+    "music": "Lorne Balfe",
+    "cinema": "Gabriel Beristain",
+    "year": 2021,
+    "time": 134,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 379,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow"
+        },
+        {
+            "name": "Florence Pugh",
+            "character": "Yelena Belova / Black Widow"
+        },
+        {
+            "name": "Rachel Weisz",
+            "character": "Melina Vostokoff / Black Widow"
+        },
+        {
+            "name": "David Harbour",
+            "character": "Alexei Shostakov / Red Guardian"
+        },
+        {
+            "name": "O-T Fagbenle",
+            "character": "Rick Mason"
+        },
+        {
+            "name": "Olga Kurylenko",
+            "character": "Antonia Dreykov / Taskmaster"
+        },
+        {
+            "name": "Ray Winstone",
+            "character": "Dreykov"
+        }
+    ],
+    "synopsis": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 27
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202107,
+    "characters": 6
+}

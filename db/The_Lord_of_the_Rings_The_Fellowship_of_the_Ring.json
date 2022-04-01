@@ -1,0 +1,138 @@
+{
+    "id": 28,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "poster": "middle_earth_4",
+    "trailer": "aStYWD25fAQ",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "New Line Cinema"
+    ],
+    "director": [
+        "Peter Jackson"
+    ],
+    "producers": "Peter Jackson, Tim Sanders, Fran Walsh, Barrie M. Osborne",
+    "writtens": "Fran Walsh, Philippa Boyens, Peter Jackson",
+    "music": "Howard Shore",
+    "cinema": "Andrew Lesnie",
+    "year": 2001,
+    "time": 178,
+    "countries": [
+        "USA",
+        "New Zealand"
+    ],
+    "budget": {
+        "value": 93,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 871,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Elijah Wood",
+            "character": "Frodo Baggins"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Gandalf"
+        },
+        {
+            "name": "Sean Astin",
+            "character": "Samwise Gamgee"
+        },
+        {
+            "name": "Viggo Mortensen",
+            "character": "Aragorn"
+        },
+        {
+            "name": "Billy Boyd",
+            "character": "Pereggrin"
+        },
+        {
+            "name": "Dominic Monaghan",
+            "character": "Meriadoc"
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": "Gimli"
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": "Legolas"
+        },
+        {
+            "name": "Sean Bean",
+            "character": "Boromir"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Bilbo Baggins"
+        },
+        {
+            "name": "Christopher Lee",
+            "character": "Saruman"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Elrond"
+        }
+    ],
+    "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save The World of Middle-earth from the Dark Lord Sauron.",
+    "collections": [
+        "Middle-Earth"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Cinematography",
+                "Best Makeup",
+                "Best Music",
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Film",
+                "Best Achievement in Special Visual Effects",
+                "Best Make Up/Hair"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Fantasy Film",
+                "Best Supporting Actor",
+                "Best Director"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie",
+                "Breakthrough Male Performance"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Favorite Film Franchise",
+                "Best Song",
+                "Best Composer"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Middle-Earth",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200112
+}

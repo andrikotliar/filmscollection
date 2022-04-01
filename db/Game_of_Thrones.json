@@ -1,0 +1,239 @@
+{
+    "id": 323,
+    "title": "Game of Thrones",
+    "poster": "got",
+    "genres": [
+        "Adventures",
+        "Drama"
+    ],
+    "production": [
+        "HBO"
+    ],
+    "director": [
+        "David Benioff",
+        "D. B. Weiss"
+    ],
+    "producers": "Christopher Newman, Greg Spence, Lisa McAtackney, Mark Huffam, Jo Burn",
+    "writtens": "David Benioff, George R.R. Martin, D.B. Weiss, Bryan Cogman, Vanessa Taylor",
+    "music": "Ramin Djawadi",
+    "cinema": "Anette Haellmigk, Jonathan Freeman, Robert McLachlan, Fabian Wagner, David Franco, Gregory Middleton, P.J. Dillon, Matthew Jensen, Alik Sakharov, Martin Kenzie, Marco Pontecorvo, Kramer Morgenthau, Chris Seager, Sam McCurdy, David Katznelson",
+    "year": 2011,
+    "time": 4161,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Peter Dinklage",
+            "character": "Tyrion Lannister"
+        },
+        {
+            "name": "Lena Headey",
+            "character": "Cersei Lannister"
+        },
+        {
+            "name": "Emilia Clarke",
+            "character": "Daenerys Targaryen"
+        },
+        {
+            "name": "Kit Harington",
+            "character": "Jon Snow"
+        },
+        {
+            "name": "Sophie Turner",
+            "character": "Sansa Stark"
+        },
+        {
+            "name": "Maisie Williams",
+            "character": "Arya Stark"
+        },
+        {
+            "name": "Nikolaj Coster-Waldau",
+            "character": "Jaime Lannister"
+        },
+        {
+            "name": "Iain Glen",
+            "character": "Jorah Mormont"
+        },
+        {
+            "name": "John Bradley",
+            "character": "Samwell Tarly"
+        },
+        {
+            "name": "Alfie Allen",
+            "character": "Theon Greyjoy"
+        },
+        {
+            "name": "Conleth Hill",
+            "character": "Lord Varys"
+        },
+        {
+            "name": "Liam Cunningham",
+            "character": "Davos Seaworth"
+        },
+        {
+            "name": "Gwendoline Christie",
+            "character": "Brienne of Tarth"
+        },
+        {
+            "name": "Aidan Gillen",
+            "character": "Petyr 'Littlefinger' Baelish"
+        },
+        {
+            "name": "Isaac Hempstead Wright",
+            "character": "Bran Stark"
+        },
+        {
+            "name": "Rory McCann",
+            "character": "Sandor 'The Hound' Clegane"
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": "Missandei"
+        },
+        {
+            "name": "Jerome Flynn",
+            "character": "Bronn"
+        },
+        {
+            "name": "Daniel Portman",
+            "character": "Podrick Payne"
+        },
+        {
+            "name": "Jacob Anderson",
+            "character": "Grey Worm"
+        },
+        {
+            "name": "Carice van Houten",
+            "character": "Melisandre"
+        },
+        {
+            "name": "Charles Dance",
+            "character": "Tywin Lannister"
+        },
+        {
+            "name": "Natalie Dormer",
+            "character": "Margaery Tyrell"
+        },
+        {
+            "name": "Jack Gleeson",
+            "character": "Joffrey Baratheon"
+        },
+        {
+            "name": "Michelle Fairley",
+            "character": "Catelyn Stark"
+        },
+        {
+            "name": "Stephen Dillane",
+            "character": "Stannis Baratheon"
+        },
+        {
+            "name": "Kristian Nairn",
+            "character": "Hodor"
+        },
+        {
+            "name": "Richard Madden",
+            "character": "Robb Stark"
+        },
+        {
+            "name": "Iwan Rheon",
+            "character": "Ramsay Bolton"
+        },
+        {
+            "name": "Pilou Asbæk",
+            "character": "Euron Greyjoy"
+        },
+        {
+            "name": "Diana Rigg",
+            "character": "Olenna Tyrell"
+        },
+        {
+            "name": "Dean-Charles Chapman",
+            "character": "Tommen Baratheon"
+        },
+        {
+            "name": "Gemma Whelan",
+            "character": "Yara Greyjoy"
+        },
+        {
+            "name": "Art Parkinson",
+            "character": "Rickon Stark"
+        },
+        {
+            "name": "Sean Bean",
+            "character": "Eddard 'Ned' Stark"
+        },
+        {
+            "name": "Mark Addy",
+            "character": "Robert Baratheon"
+        },
+        {
+            "name": "Vladimir 'Furdo' Furdik",
+            "character": "The Night King"
+        },
+        {
+            "name": "Rose Leslie",
+            "character": "Ygritte"
+        },
+        {
+            "name": "Hannah Murray",
+            "character": "Gilly"
+        },
+        {
+            "name": "Kristofer Hivju",
+            "character": "Tormund Giantsbane"
+        }
+    ],
+    "synopsis": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "gcTkNV5Vg1E"
+        },
+        {
+            "season": 2,
+            "episodes": 10,
+            "trailer": "AlhHGUfCYw4"
+        },
+        {
+            "season": 3,
+            "episodes": 10,
+            "trailer": "wBtkdje5OfY"
+        },
+        {
+            "season": 4,
+            "episodes": 10,
+            "trailer": "xZY43QSx3Fk"
+        },
+        {
+            "season": 5,
+            "episodes": 10,
+            "trailer": "F9Bo89m2f6g"
+        },
+        {
+            "season": 6,
+            "episodes": 10,
+            "trailer": "EI0ib1NErqg"
+        },
+        {
+            "season": 7,
+            "episodes": 7,
+            "trailer": "giYeaKsXnsI"
+        },
+        {
+            "season": 8,
+            "episodes": 6,
+            "trailer": "rlR4PJn8b8I"
+        }
+    ],
+    "sort": 201109,
+    "characters": 29
+}

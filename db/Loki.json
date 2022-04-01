@@ -1,0 +1,83 @@
+{
+    "id": 182,
+    "title": "Loki",
+    "poster": "loki",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Disney+",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Kate Herron"
+    ],
+    "producers": "Kevin Feige, Louis D'Esposito, Victoria Alonso, Stephen Broussard",
+    "writtens": "Michael Waldron, Bisha K. Ali, Eric Martin, Tom Kauffman",
+    "music": "Natalie Holt",
+    "cinema": "Autumn Durald Arkapaw",
+    "year": 2021,
+    "time": 300,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Tom Hiddleston",
+            "character": "Loki"
+        },
+        {
+            "name": "Gugu Mbatha-Raw",
+            "character": "Ravonna Renslayer"
+        },
+        {
+            "name": "Sophia Di Martino",
+            "character": "Sylvie"
+        },
+        {
+            "name": "Owen Wilson",
+            "character": "Mobius"
+        },
+        {
+            "name": "Wunmi Mosaku",
+            "character": "Hunter B-15"
+        },
+        {
+            "name": "Lauren Revard",
+            "character": "Miss Minutes"
+        },
+        {
+            "name": "Richard E. Grant",
+            "character": "Classic Loki"
+        },
+        {
+            "name": "Jack Veal",
+            "character": "Kid Loki"
+        },
+        {
+            "name": "Jonathan Majors",
+            "character": "He Who Remains"
+        }
+    ],
+    "synopsis": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of «Avengers: Endgame».",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 26
+    },
+    "type": [
+        "Series"
+    ],
+    "sort": 202106,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 6,
+            "trailer": "nW948Va-l10"
+        }
+    ],
+    "characters": 9
+}

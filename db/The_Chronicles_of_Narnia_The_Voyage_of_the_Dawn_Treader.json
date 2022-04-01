@@ -1,0 +1,96 @@
+{
+    "id": 158,
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "poster": "narnia_3",
+    "trailer": "hrJQDPpIK6I",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Michael Apted"
+    ],
+    "producers": "Mark Johnson, Phillip Steuer, Andrew Adamson",
+    "writtens": "Christopher Markus, Stephen McFeely, Michael Petroni",
+    "music": "David Arnold",
+    "cinema": "Dante Spinotti",
+    "year": 2010,
+    "time": 115,
+    "countries": [
+        "UK",
+        "USA"
+    ],
+    "budget": {
+        "value": 155,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 416,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Georgie Henley",
+            "character": "Lucy Pevensie"
+        },
+        {
+            "name": "Skandar Keynes",
+            "character": "Edmund Pevensie"
+        },
+        {
+            "name": "Ben Barnes",
+            "character": "Caspian"
+        },
+        {
+            "name": "Will Poulter",
+            "character": "Eustace Scrubb"
+        },
+        {
+            "name": "Gary Sweet",
+            "character": "Drinian"
+        },
+        {
+            "name": "Terry Norris",
+            "character": "Lord Bern"
+        },
+        {
+            "name": "Bruce Spence",
+            "character": "Lord Rhoop"
+        },
+        {
+            "name": "Bille Brown",
+            "character": "Coriakin"
+        },
+        {
+            "name": "Laura Brent",
+            "character": "Liliandil"
+        },
+        {
+            "name": "Colin Moody",
+            "character": "Auctioneer"
+        },
+        {
+            "name": "Anna Popplewell",
+            "character": "Susan Pevensie"
+        },
+        {
+            "name": "William Moseley",
+            "character": "Peter Pevensie"
+        }
+    ],
+    "synopsis": "Lucy and Edmund Pevensie return to Narnia with their cousin Eustace where they meet up with Prince Caspian for a trip across the sea aboard the royal ship The Dawn Treader. Along the way they encounter dragons, dwarves, merfolk, and a band of lost warriors before reaching the edge of the world.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "The Chronicles of Narnia",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201012
+}

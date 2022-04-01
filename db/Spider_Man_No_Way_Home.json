@@ -1,0 +1,83 @@
+{
+    "id": 202,
+    "title": "Spider-Man: No Way Home",
+    "poster": "mcu_spider_man_3",
+    "trailer": "rt-2cxAiPJk",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Sony Pictures Entertainment"
+    ],
+    "director": [
+        "Jon Watts"
+    ],
+    "producers": "Kevin Feige, Amy Pascal",
+    "writtens": "Chris McKenna, Erik Sommers",
+    "music": "Michael Giacchino",
+    "year": 2021,
+    "time": 100,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker / Spider-Man"
+        },
+        {
+            "name": "Zendaya",
+            "character": "MJ"
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Doctor Strange"
+        },
+        {
+            "name": "Jon Favreau",
+            "character": "Happy Hogan"
+        },
+        {
+            "name": "Marisa Tomei",
+            "character": "May Parker"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "J. Jonah Jameson"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Norman Osborn / Green Goblin"
+        },
+        {
+            "name": "Benedict Wong",
+            "character": "Wong"
+        },
+        {
+            "name": "Jamie Foxx",
+            "character": "Max Dillon / Electro"
+        },
+        {
+            "name": "Alfred Molina",
+            "character": "Otto Octavius / Doctor Octopus"
+        },
+        {
+            "name": "Jacob Batalon",
+            "character": "Ned Leeds"
+        }
+    ],
+    "synopsis": "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from the high-stakes of being a Super Hero. When he asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 30
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202112
+}

@@ -1,0 +1,149 @@
+{
+    "id": 26,
+    "title": "The Hobbit: The Desolation of Smaug",
+    "poster": "middle_earth_2",
+    "trailer": "fnaojlfdUbs",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "New Line Cinema"
+    ],
+    "director": [
+        "Peter Jackson"
+    ],
+    "producers": "Carolynne Cunningham, Zane Weiner, Fran Walsh, Peter Jackson",
+    "writtens": "Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro",
+    "music": "Howard Shore",
+    "cinema": "Andrew Lesnie",
+    "year": 2013,
+    "time": 161,
+    "countries": [
+        "USA",
+        "New Zealand"
+    ],
+    "budget": {
+        "value": 225,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 960,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ian McKellen",
+            "character": "Gendalf"
+        },
+        {
+            "name": "Martin Freeman",
+            "character": "Bilbo"
+        },
+        {
+            "name": "Luke Evans",
+            "character": "Bard"
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Smaug"
+        },
+        {
+            "name": "Richard Armitage",
+            "character": "Thorin"
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": "Tauriel"
+        },
+        {
+            "name": "Ken Stott",
+            "character": "Balin"
+        },
+        {
+            "name": "Graham McTavish",
+            "character": "Dwalin"
+        },
+        {
+            "name": "William Kircher",
+            "character": "Bifur"
+        },
+        {
+            "name": "James Nesbitt",
+            "character": "Bofur"
+        },
+        {
+            "name": "Stephen Hunter",
+            "character": "Bombur"
+        },
+        {
+            "name": "Dean O'Gorman",
+            "character": "Fili"
+        },
+        {
+            "name": "Aidan Turner",
+            "character": "Kili"
+        },
+        {
+            "name": "John Callen",
+            "character": "Oin"
+        },
+        {
+            "name": "Peter Hambleton",
+            "character": "Gloin"
+        },
+        {
+            "name": "Jed Brophy",
+            "character": "Nori"
+        },
+        {
+            "name": "Mark Hadlow",
+            "character": "Dori"
+        },
+        {
+            "name": "Adam Brown",
+            "character": "Ori"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Old Bilbo"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Elrond"
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": "Galadriel"
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": "Legolas"
+        },
+        {
+            "name": "Lee Pace",
+            "character": "Thranduil"
+        }
+    ],
+    "synopsis": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+    "collections": [
+        "Middle-Earth"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Production Design"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Middle-Earth",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201312,
+    "characters": 7
+}

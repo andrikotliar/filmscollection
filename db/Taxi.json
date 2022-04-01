@@ -1,0 +1,67 @@
+{
+    "id": 194,
+    "title": "Taxi",
+    "poster": "taxi_1",
+    "trailer": "buQxF0eIeXI",
+    "genres": [
+        "Comedy"
+    ],
+    "production": [
+        "TF1 Films Productions",
+        "ARP Selectio"
+    ],
+    "director": [
+        "Gérard Pirès"
+    ],
+    "producers": "Luc Besson, Michele Petin, Laurent Petin",
+    "writtens": "Luc Besson",
+    "music": "Akhenaton",
+    "cinema": "Jean-Pierre Sauvaire",
+    "year": 1998,
+    "time": 86,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 9,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 44,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Samy Naceri",
+            "character": "Daniel Morales"
+        },
+        {
+            "name": "Frédéric Diefenthal",
+            "character": "Emilien Coutant-Kerbalec"
+        },
+        {
+            "name": "Marion Cotillard",
+            "character": "Lilly Bertineau"
+        },
+        {
+            "name": "Emma Wiklund",
+            "character": "Petra"
+        },
+        {
+            "name": "Bernard Farcy",
+            "character": "Commissaire Gibert"
+        }
+    ],
+    "synopsis": "To work off his tarnished driving record, a hip taxi driver must chauffeur a loser police inspector on the trail of German bank robbers.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "Besson's Taxi",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199804
+}

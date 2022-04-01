@@ -1,0 +1,89 @@
+{
+    "id": 287,
+    "title": "Kung Fu Panda",
+    "poster": "kungfu_panda",
+    "trailer": "NRc-ze7Wrxw",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": [
+        "Mark Osborne",
+        "John Stevenson"
+    ],
+    "producers": "Melissa Cobb",
+    "writtens": "Jonathan Aibel, Glenn Berger",
+    "music": "John Powell, Hans Zimmer",
+    "cinema": "Yong Duk Jhun",
+    "year": 2008,
+    "time": 92,
+    "countries": [
+        "USA",
+        "China"
+    ],
+    "budget": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 632,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jack Black",
+            "character": "Po"
+        },
+        {
+            "name": "Dustin Hoffman",
+            "character": "Shifu"
+        },
+        {
+            "name": "Angelina Jolie",
+            "character": "Tigress"
+        },
+        {
+            "name": "Ian McShane",
+            "character": "Tai Lung"
+        },
+        {
+            "name": "Jackie Chan",
+            "character": "Monkey"
+        },
+        {
+            "name": "Seth Rogen",
+            "character": "Mantis"
+        },
+        {
+            "name": "Lucy Liu",
+            "character": "Viper"
+        },
+        {
+            "name": "David Cross",
+            "character": "Crane"
+        },
+        {
+            "name": "Randall Duk Kim",
+            "character": "Oogway"
+        }
+    ],
+    "synopsis": "The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.",
+    "collections": [
+        "Martial Arts"
+    ],
+    "awards": [
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200806
+}

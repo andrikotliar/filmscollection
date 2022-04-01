@@ -1,0 +1,60 @@
+{
+    "id": 114,
+    "title": "In Time",
+    "poster": "time",
+    "trailer": "fdadZ_KrZVw",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Andrew Niccol"
+    ],
+    "producers": "Andrew Niccol, Marc Abraham, Eric Newman",
+    "writtens": "Andrew Niccol",
+    "music": "Craig Armstrong",
+    "cinema": "Roger Deakins",
+    "year": 2011,
+    "time": 109,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 40,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 174,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Justin Timberlake",
+            "character": "Will Salas"
+        },
+        {
+            "name": "Olivia Wilde",
+            "character": "Rachel Salas"
+        },
+        {
+            "name": "Shyloh Oostwald",
+            "character": "Maya"
+        },
+        {
+            "name": "Johnny Galecki",
+            "character": "Borel"
+        }
+    ],
+    "synopsis": "In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.",
+    "collections": [
+        "Future"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201110,
+    "top": 9
+}

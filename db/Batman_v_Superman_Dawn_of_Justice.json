@@ -1,0 +1,85 @@
+{
+    "id": 160,
+    "title": "Batman v Superman: Dawn of Justice",
+    "poster": "batman_v_superman",
+    "trailer": "bha24P9uw-E",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "DC Entertainment",
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Zack Snyder"
+    ],
+    "producers": "Charles Roven, Deborah Snyder",
+    "writtens": "Chris Terrio, David S. Goyer",
+    "music": "Hans Zimmer, Junkie XL",
+    "cinema": "Larry Fong",
+    "year": 2016,
+    "time": 151,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 874,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Affleck",
+            "character": "Bruce Wayne / Batman"
+        },
+        {
+            "name": "Henry Cavill",
+            "character": "Clark Kent / Superman"
+        },
+        {
+            "name": "Amy Adams",
+            "character": "Lois Lane"
+        },
+        {
+            "name": "Jesse Eisenberg",
+            "character": "Lex Luthor"
+        },
+        {
+            "name": "Diane Lane",
+            "character": "Martha Kent"
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": "Perry White"
+        },
+        {
+            "name": "Jeremy Irons",
+            "character": "Alfred Pennyworth"
+        },
+        {
+            "name": "Holly Hunter",
+            "character": "Senator Finch"
+        },
+        {
+            "name": "Gal Gadot",
+            "character": "Diana Prince / Wonder Woman"
+        }
+    ],
+    "synopsis": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+    "collections": [
+        "DC Extended Universe"
+    ],
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201603,
+    "characters": 5
+}

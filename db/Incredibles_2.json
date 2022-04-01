@@ -1,0 +1,79 @@
+{
+    "id": 328,
+    "title": "Incredibles 2",
+    "poster": "incredibles_2",
+    "trailer": "i5qOzqD9Rms",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "Brad Bird"
+    ],
+    "producers": "Nicole Paradis Grindle, John Walker",
+    "writtens": "Brad Bird",
+    "music": "Michael Giacchino",
+    "year": 2018,
+    "time": 118,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.2,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Craig T. Nelson",
+            "character": "Bob Parr / Mr. Incredible"
+        },
+        {
+            "name": "Holly Hunter",
+            "character": "Helen Parr / Elastigirl"
+        },
+        {
+            "name": "Huck Milner",
+            "character": "Dashiell 'Dash' Parr"
+        },
+        {
+            "name": "Sarah Vowell",
+            "character": "Violet Parr"
+        },
+        {
+            "name": "Eli Fucile",
+            "character": "Jack-Jack Parr"
+        },
+        {
+            "name": "Catherine Keener",
+            "character": "Evelyn Deavor"
+        },
+        {
+            "name": "Bob Odenkirk",
+            "character": "Winston Deavor"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Lucius Best / Frozone"
+        }
+    ],
+    "synopsis": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "The Incredibles",
+        "part": 2
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 201806,
+    "characters": 5
+}

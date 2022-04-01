@@ -1,0 +1,92 @@
+{
+    "id": 253,
+    "title": "The Maze Runner: The Death Cure",
+    "poster": "maze_runner_3",
+    "trailer": "4-BTxXm8KSg",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Wes Ball"
+    ],
+    "producers": "Marty Bowen, Wyck Godfrey, Ellen Goldsmith-Vein, Lee Stollman",
+    "writtens": "T.S. Nowlin",
+    "music": "John Paesano",
+    "cinema": "Gyula Pados",
+    "year": 2018,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 62,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 288,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dylan O'Brien",
+            "character": "Thomas"
+        },
+        {
+            "name": "Kaya Scodelario",
+            "character": "Teresa"
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": "Harriet"
+        },
+        {
+            "name": "Thomas Brodie-Sangster",
+            "character": "Newt"
+        },
+        {
+            "name": "Ki Hong Lee",
+            "character": "Minho"
+        },
+        {
+            "name": "Aidan Gillen",
+            "character": "Janson"
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": "Jorge"
+        },
+        {
+            "name": "Katherine McNamara",
+            "character": "Sonya"
+        },
+        {
+            "name": "Rosa Salazar",
+            "character": "Brenda"
+        },
+        {
+            "name": "Walton Goggins",
+            "character": "Lawrence"
+        },
+        {
+            "name": "Will Poulter",
+            "character": "Gally"
+        }
+    ],
+    "synopsis": "Young hero Thomas embarks on a mission to find a cure for a deadly disease known as \"The Flare\".",
+    "collections": [
+        "Dystopia"
+    ],
+    "parts": {
+        "title": "The Maze Runner",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201801,
+    "characters": 6
+}

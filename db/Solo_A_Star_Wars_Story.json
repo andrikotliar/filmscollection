@@ -1,0 +1,94 @@
+{
+    "id": 19,
+    "title": "Solo: A Star Wars Story",
+    "poster": "solo",
+    "trailer": "jPEYpryMp2s",
+    "genres": [
+        "Space Western"
+    ],
+    "production": [
+        "Lucasfilm",
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Ron Howard"
+    ],
+    "producers": "Kathleen Kennedy, Allison Shearmur, Simon Emanuel",
+    "writtens": "Jonathan Kasdan, Lawrence Kasdan",
+    "music": "John Powell, John Williams",
+    "cinema": "Bradford Young",
+    "year": 2018,
+    "time": 135,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 375,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 393,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Alden Ehrenreich",
+            "character": "Han Solo"
+        },
+        {
+            "name": "Joonas Suotamo",
+            "character": "Chewbacca"
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": "Beckett"
+        },
+        {
+            "name": "Emilia Clarke",
+            "character": "Qi'ra"
+        },
+        {
+            "name": "Donald Glover",
+            "character": "Lando Calrissian"
+        },
+        {
+            "name": "Thandie Newton",
+            "character": "Val"
+        },
+        {
+            "name": "Phoebe Waller-Bridge",
+            "character": "L3-37"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Dryden Vos"
+        },
+        {
+            "name": "Jon Favreau",
+            "character": "Rio Durant"
+        }
+    ],
+    "synopsis": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Film",
+                "Best Actress",
+                "Best Director"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 5
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201805,
+    "characters": 9
+}

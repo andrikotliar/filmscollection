@@ -1,0 +1,70 @@
+{
+    "id": 310,
+    "title": "Toy Story",
+    "poster": "toy_story",
+    "trailer": "rNk1Wi8SvNc",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "John Lasseter"
+    ],
+    "producers": "Bonnie Arnold, Ralph Guggenheim",
+    "writtens": "Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow",
+    "music": "Randy Newman",
+    "year": 1995,
+    "time": 81,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 30,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 394,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Hanks",
+            "character": "Woody"
+        },
+        {
+            "name": "Tim Allen",
+            "character": "Buzz Lightyear"
+        },
+        {
+            "name": "Don Rickles",
+            "character": "Mr. Potato Head"
+        },
+        {
+            "name": "Jim Varney",
+            "character": "Slinky Dog"
+        },
+        {
+            "name": "Wallace Shawn",
+            "character": "Rex"
+        },
+        {
+            "name": "John Morris",
+            "character": "Andy"
+        },
+        {
+            "name": "Erik von Detten",
+            "character": "Sid"
+        }
+    ],
+    "synopsis": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 199512
+}

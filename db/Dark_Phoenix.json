@@ -1,0 +1,85 @@
+{
+    "id": 226,
+    "title": "Dark Phoenix",
+    "poster": "x_men_8",
+    "trailer": "1-q8C_c-nlM",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Simon Kinberg"
+    ],
+    "producers": "Todd Hallowell, Simon Kinberg, Hutch Parker, Lauren Shuler Donner",
+    "writtens": "Simon Kinberg",
+    "music": "Hans Zimmer",
+    "cinema": "Mauro Fiore",
+    "year": 2019,
+    "time": 113,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 252,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James McAvoy",
+            "character": "Charles Xavier"
+        },
+        {
+            "name": "Michael Fassbender",
+            "character": "Erik Lehnsherr / Magneto"
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": "Raven / Mystique"
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": "Hank McCoy / Beast"
+        },
+        {
+            "name": "Sophie Turner",
+            "character": "Jean Grey / Phoenix"
+        },
+        {
+            "name": "Tye Sheridan",
+            "character": "Scott Summers / Cyclops"
+        },
+        {
+            "name": "Alexandra Shipp",
+            "character": "Ororo Munroe / Storm"
+        },
+        {
+            "name": "Evan Peters",
+            "character": "Peter Maximoff / Quicksilver"
+        },
+        {
+            "name": "Kodi Smit-McPhee",
+            "character": "Kurt Wagner / Nightcrawler"
+        }
+    ],
+    "synopsis": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 10
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201906,
+    "characters": 9
+}

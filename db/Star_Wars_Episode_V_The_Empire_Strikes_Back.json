@@ -1,0 +1,102 @@
+{
+    "id": 21,
+    "title": "Star Wars Episode V: The Empire Strikes Back",
+    "poster": "star_wars_episode_V",
+    "trailer": "JNwNXF9Y6kY",
+    "genres": [
+        "SpaceOpera",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Lucasfilm"
+    ],
+    "director": [
+        "Irvin Kershner"
+    ],
+    "producers": "Gary Kurtz",
+    "writtens": "Leight Brackett, Lawrence Kasdan",
+    "music": "John Williams",
+    "cinema": "Peter Suschitzky",
+    "year": 1980,
+    "time": 124,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 18,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 248,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Mark Hamill",
+            "character": "Luke Skywalker"
+        },
+        {
+            "name": "Harrison Ford",
+            "character": "Han Solo"
+        },
+        {
+            "name": "Carrie Fisher",
+            "character": "Leia"
+        },
+        {
+            "name": "Billy Dee Williams",
+            "character": "Lando Calrissian"
+        },
+        {
+            "name": "Anthony Daniels",
+            "character": "C-3PO"
+        },
+        {
+            "name": "David Prowse",
+            "character": "Darth Vader"
+        },
+        {
+            "name": "Peter Mayhew",
+            "character": "Chewbacca"
+        },
+        {
+            "name": "Kenny Baker",
+            "character": "R2-D2"
+        },
+        {
+            "name": "Frank Oz",
+            "character": "Yoda"
+        }
+    ],
+    "synopsis": "After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best DVD Collection",
+                "Best Science Fiction Film",
+                "Best Actor",
+                "Best Director",
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "collections": [
+        "Star Wars Universe"
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 7
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 198005
+}

@@ -1,0 +1,87 @@
+{
+    "id": 198,
+    "title": "Jumanji",
+    "poster": "jumanji_1",
+    "trailer": "5p18zqZmeiI",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "TriStar"
+    ],
+    "director": [
+        "Joe Johnston"
+    ],
+    "producers": "Scott Kroopf, William Teitler",
+    "writtens": "Greg Taylor, Jonathan Hensleigh, Jim Strain",
+    "music": "James Horner",
+    "cinema": "Thomas E. Ackerman",
+    "year": 1995,
+    "time": 104,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 65,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 263,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Robin Williams",
+            "character": "Alan Parrish"
+        },
+        {
+            "name": "Jonathan Hyde",
+            "character": "Van Pelt / Sam Parrish"
+        },
+        {
+            "name": "Kirsten Dunst",
+            "character": "Judy Shepherd"
+        },
+        {
+            "name": "Bradley Pierce",
+            "character": "Peter Shepherd"
+        },
+        {
+            "name": "Bonnie Hunt",
+            "character": "Sarah Whittle"
+        },
+        {
+            "name": "Bebe Neuwirth",
+            "character": "Nora Shepherd"
+        },
+        {
+            "name": "David Alan Grier",
+            "character": "Bentley"
+        },
+        {
+            "name": "Patricia Clarkson",
+            "character": "Carol Parrish"
+        }
+    ],
+    "synopsis": "When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actress"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Jumanji",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199512
+}

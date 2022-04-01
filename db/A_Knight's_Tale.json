@@ -1,0 +1,71 @@
+{
+    "id": 321,
+    "title": "A Knight's Tale",
+    "poster": "knights_tale",
+    "trailer": "_KzsTKqTq1M",
+    "genres": [
+        "Adventures",
+        "Romance"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Brian Helgeland"
+    ],
+    "producers": "Todd Black, Brian Helgeland, Tim Van Rellim",
+    "writtens": "Brian Helgeland",
+    "music": "Carter Burwell",
+    "cinema": "Richard Greatrex",
+    "year": 2001,
+    "time": 132,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 65,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 117,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Heath Ledger",
+            "character": "William Thatcher"
+        },
+        {
+            "name": "Rufus Sewell",
+            "character": "Count Adhemar"
+        },
+        {
+            "name": "Shannyn Sossamon",
+            "character": "Jocelyn"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Geoffrey Chaucer"
+        },
+        {
+            "name": "Laura Fraser",
+            "character": "Kate"
+        },
+        {
+            "name": "Mark Addy",
+            "character": "Roland"
+        },
+        {
+            "name": "Alan Tudyk",
+            "character": "Wat"
+        }
+    ],
+    "synopsis": "After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.",
+    "collections": [
+        "Martial Arts"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200108
+}

@@ -1,0 +1,65 @@
+{
+    "id": 313,
+    "title": "The Matrix Resurrections",
+    "poster": "matrix_4",
+    "trailer": "9ix7TUGVYIo",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Village Roadshow Pictures"
+    ],
+    "director": [
+        "Lana Wachowski"
+    ],
+    "producers": "Grant Hill, Lana Wachowski, James McTeigue",
+    "writtens": "Lana Wachowski, David Mitchell, Aleksandar Hemon",
+    "music": "Johnny Klimek, Tom Tykwer",
+    "cinema": "Daniele Massaccesi, John Toll",
+    "year": 2021,
+    "time": 148,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": "Neo"
+        },
+        {
+            "name": "Carrie-Anne Moss",
+            "character": "Trinity"
+        },
+        {
+            "name": "Priyanka Chopra Jonas",
+            "character": "Sati"
+        },
+        {
+            "name": "Jessica Henwick",
+            "character": "Bugs"
+        },
+        {
+            "name": "Neil Patrick Harris",
+            "character": "The Analyst"
+        },
+        {
+            "name": "Yahya Abdul-Mateen II",
+            "character": "Morpheus"
+        }
+    ],
+    "synopsis": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+    "collections": [
+        "Future"
+    ],
+    "parts": {
+        "title": "The Matrix",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 202112,
+    "characters": 5
+}

@@ -1,0 +1,71 @@
+{
+    "id": 107,
+    "title": "Real Steel",
+    "poster": "real_steel",
+    "trailer": "SwfmV3nn6QA",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "DreamWorks Pictures"
+    ],
+    "director": [
+        "Shawn Levy"
+    ],
+    "producers": "Shawn Levy, Susan Montford, Don Murphy",
+    "writtens": "John Gatins",
+    "music": "Danny Elfman",
+    "cinema": "Mauro Fiore",
+    "year": 2011,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 300,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Charlie Kenton"
+        },
+        {
+            "name": "Dakota Goyo",
+            "character": "Max Kenton"
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": "Bailey Tallet"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Finn"
+        },
+        {
+            "name": "Kevin Durand",
+            "character": "Ricky"
+        },
+        {
+            "name": "Hope Davis",
+            "character": "Aunt Debra"
+        },
+        {
+            "name": "James Rebhorn",
+            "character": "Marvin"
+        }
+    ],
+    "synopsis": "In the near future, robot boxing is a top sport. A struggling promoter feels he's found a champion in a discarded robot.",
+    "collections": [
+        "Robots"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201109
+}

@@ -1,0 +1,112 @@
+{
+    "id": 306,
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "poster": "indiana_jones_1",
+    "trailer": "Rh_BJXG1-44",
+    "genres": [
+        "Adventures",
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Lucasfilm"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Frank Marshall",
+    "writtens": "Lawrence Kasdan, George Lucas (story)",
+    "music": "John Williams",
+    "cinema": "Douglas Slocombe",
+    "year": 1981,
+    "time": 115,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 18,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 390,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Harrison Ford",
+            "character": "Dr. Henry «Indiana» Jones, Jr."
+        },
+        {
+            "name": "Karen Allen",
+            "character": "Marion"
+        },
+        {
+            "name": "Paul Freeman",
+            "character": "Belloq"
+        },
+        {
+            "name": "Ronald Lacey",
+            "character": "Toht"
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": "Sallah"
+        },
+        {
+            "name": "Denholm Elliott",
+            "character": "Brody"
+        }
+    ],
+    "synopsis": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "collections": [
+        "Legends",
+        "Mysteries of the Past"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Art Direction-Set Decoration",
+                "Best Sound",
+                "Best Film Editing",
+                "Best Effects",
+                "Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Production Design/Art Direction"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best DVD Collection",
+                "Best Fantasy Film",
+                "Best Actor (Harrison Ford)",
+                "Best Actress (Karen Allen)",
+                "Best Director",
+                "Best Writing",
+                "Best Music",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "Jupiter",
+            "nominations": [
+                "Best International Actor",
+                "Best International Film"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Indiana Jones",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 198106
+}

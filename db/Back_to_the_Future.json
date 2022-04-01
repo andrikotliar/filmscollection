@@ -1,0 +1,83 @@
+{
+    "id": 9,
+    "title": "Back to the Future",
+    "poster": "back_to_the_future_1",
+    "trailer": "qvsgGtivCgs",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Robert Zemeckis"
+    ],
+    "producers": "Steven Spielberg, Bob Gale, Neil Canton",
+    "writtens": "Robert Zemeckis, Bob Gale",
+    "music": "Alan Silvestri",
+    "cinema": "Dean Cundey",
+    "year": 1985,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 19,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 381,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Michael J. Fox",
+            "character": "Marty McFly"
+        },
+        {
+            "name": "Christopher Lloyd",
+            "character": "Dr. Emmett Brown"
+        },
+        {
+            "name": "Lea Thompson",
+            "character": "Lorraine Baines"
+        },
+        {
+            "name": "Crispin Glover",
+            "character": "George McFly"
+        },
+        {
+            "name": "Thomas F. Wilson",
+            "character": "Biff Tannen"
+        },
+        {
+            "name": "Claudia Wells",
+            "character": "Jennifer Parker"
+        },
+        {
+            "name": "Marc McClure",
+            "character": "Dave McFly"
+        }
+    ],
+    "synopsis": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "collections": [
+        "Legends"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound Effects Editing"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Back to the Future",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 198506
+}

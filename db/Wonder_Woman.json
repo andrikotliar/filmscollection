@@ -1,0 +1,95 @@
+{
+    "id": 162,
+    "title": "Wonder Woman",
+    "poster": "wonder_woman",
+    "trailer": "1Q8fG0TtVAY",
+    "genres": [
+        "Fantasy",
+        "Adventures",
+        "Drama"
+    ],
+    "production": [
+        "DC Entertainment",
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Patty Jenkins"
+    ],
+    "producers": "Charles Roven, Deborah Snyder, Zack Snyder, Richard Suckle",
+    "writtens": "Allan Heinberg",
+    "music": "Rupert Gregson-Williams",
+    "cinema": "Matthew Jensen",
+    "year": 2017,
+    "time": 141,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 822,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Gal Gadot",
+            "character": "Diana"
+        },
+        {
+            "name": "Chris Pine",
+            "character": "Steve Trevor"
+        },
+        {
+            "name": "Connie Nielsen",
+            "character": "Hippolyta"
+        },
+        {
+            "name": "Robin Wright",
+            "character": "Antiope"
+        },
+        {
+            "name": "Danny Huston",
+            "character": "Ludendorff"
+        },
+        {
+            "name": "David Thewlis",
+            "character": "Sir Patrick"
+        },
+        {
+            "name": "Sa'd Taghmaoui",
+            "character": "Sameer"
+        },
+        {
+            "name": "Ewen Bremner",
+            "character": "Charlie"
+        }
+    ],
+    "synopsis": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Actress"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Action Movie"
+            ]
+        }
+    ],
+    "collections": [
+        "DC Extended Universe"
+    ],
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201705
+}

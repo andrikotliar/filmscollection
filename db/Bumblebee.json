@@ -1,0 +1,87 @@
+{
+    "id": 122,
+    "title": "Bumblebee",
+    "poster": "bumblebee",
+    "trailer": "lcwmDAYt22k",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Travis Knight"
+    ],
+    "producers": "Lorenzo di Bonaventure, Tom DeSanto, Don Murphy, Mark Vahradian",
+    "writtens": "Christina Hodson",
+    "music": "Dario Marianelli",
+    "cinema": "Enrique Chediak",
+    "year": 2018,
+    "time": 114,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 102,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 460,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hailee Steinfeld",
+            "character": "Charlie"
+        },
+        {
+            "name": "Jorge Lendeborg Jr.",
+            "character": "Memo"
+        },
+        {
+            "name": "John Cena",
+            "character": "Agent Burns"
+        },
+        {
+            "name": "Jason Drucker",
+            "character": "Otis"
+        },
+        {
+            "name": "Pamela Adlon",
+            "character": "Sally"
+        },
+        {
+            "name": "Stephen Schneider",
+            "character": "Ron"
+        },
+        {
+            "name": "Dylan O'Brien",
+            "character": "Bumblebee"
+        },
+        {
+            "name": "Peter Cullen",
+            "character": "Optimus Prime"
+        },
+        {
+            "name": "Angela Bassett",
+            "character": "Shatter"
+        },
+        {
+            "name": "Justin Theroux",
+            "character": "Dropkick"
+        }
+    ],
+    "synopsis": "On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
+    "collections": [
+        "Robots"
+    ],
+    "parts": {
+        "title": "Transformers",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201806
+}

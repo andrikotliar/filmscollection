@@ -1,0 +1,88 @@
+{
+    "id": 159,
+    "title": "Man of Steel",
+    "poster": "man_of_steel",
+    "trailer": "T6DJcgm3wNY",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "DC Entertainment"
+    ],
+    "director": [
+        "Zack Snyder"
+    ],
+    "producers": "Christopher Nolan, Charles Roven, Emma Thomas, Deborah Snyder",
+    "writtens": "David S. Goyer",
+    "music": "Hans Zimmer",
+    "cinema": "Amir Mokri",
+    "year": 2013,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 225,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 668,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Henry Cavill",
+            "character": "Clark Kent / Kal-El"
+        },
+        {
+            "name": "Amy Adams",
+            "character": "Lois Lane"
+        },
+        {
+            "name": "Michael Shannon",
+            "character": "General Zod"
+        },
+        {
+            "name": "Diane Lane",
+            "character": "Martha Kent"
+        },
+        {
+            "name": "Russell Crowe",
+            "character": "Jor-El"
+        },
+        {
+            "name": "Antje Traue",
+            "character": "Faora-Ul"
+        },
+        {
+            "name": "Harry J. Lennix",
+            "character": "General Swanwick"
+        },
+        {
+            "name": "Richard Schiff",
+            "character": "Dr. Emil Hamilton"
+        },
+        {
+            "name": "Christopher Meloni",
+            "character": "Colonel Nathan Hardy"
+        },
+        {
+            "name": "Kevin Costner",
+            "character": "Jonathan Kent"
+        }
+    ],
+    "synopsis": "Clark Kent is an alien who as a child was evacuated from his dying world and came to Earth, living as a normal human. But when survivors of his alien home invade Earth, he must reveal himself to the world.",
+    "collections": [
+        "DC Extended Universe"
+    ],
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201306
+}

@@ -1,0 +1,80 @@
+{
+    "id": 267,
+    "title": "The Amazing Spider-Man",
+    "poster": "amazing_spider_man_1",
+    "trailer": "-tnxzJ0SSOw",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Marc Webb"
+    ],
+    "producers": "Avi Arad, Matt Tolmach, Laura Ziskin",
+    "writtens": "James Vanderbilt, Alvin Sargent, Steve Kloves",
+    "music": "James Horner",
+    "cinema": "John Schwartzman",
+    "year": 2012,
+    "time": 136,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 230,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 758,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Andrew Garfield",
+            "character": "Spider-Man / Peter Parker"
+        },
+        {
+            "name": "Emma Stone",
+            "character": "Gwen Stacy"
+        },
+        {
+            "name": "Rhys Ifans",
+            "character": "The Lizard / Dr. Curt Connors"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Captain Stacy"
+        },
+        {
+            "name": "Martin Sheen",
+            "character": "Uncle Ben"
+        },
+        {
+            "name": "Sally Field",
+            "character": "Aunt May"
+        },
+        {
+            "name": "Campbell Scott",
+            "character": "Richard Parker"
+        },
+        {
+            "name": "Embeth Davidtz",
+            "character": "Mary Parker"
+        }
+    ],
+    "synopsis": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "The Amazing Spider-Man",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201206
+}

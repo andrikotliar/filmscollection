@@ -1,0 +1,91 @@
+{
+    "id": 5,
+    "title": "Mission: Impossible III",
+    "poster": "mi_3",
+    "trailer": "rl2bysiyltg",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "J.J. Abrams"
+    ],
+    "producers": "Tom Cruise, Paula Wagner",
+    "writtens": "Alex Kurtzman, Roberto Orci, J.J. Abrams",
+    "music": "Michael Giacchino",
+    "cinema": "Dan Mindel",
+    "year": 2006,
+    "time": 125,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 398,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "name": "Philip Seymour Hoffman",
+            "character": "Owen Davian"
+        },
+        {
+            "name": "Ving Rhames",
+            "character": "Luther"
+        },
+        {
+            "name": "Billy Crudup",
+            "character": "Musgrave"
+        },
+        {
+            "name": "Michelle Monaghan",
+            "character": "Julia"
+        },
+        {
+            "name": "Jonathan Rhys Meyers",
+            "character": "Declan"
+        },
+        {
+            "name": "Keri Russell",
+            "character": "Lindsey Farris"
+        },
+        {
+            "name": "Maggie Q",
+            "character": "Zhen"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Benji"
+        },
+        {
+            "name": "Eddie Marsan",
+            "character": "Brownway"
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": "Theodore Brassel"
+        }
+    ],
+    "synopsis": "IMF Agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fiancée in response.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "parts": {
+        "title": "Mission: Impossible",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200605
+}

@@ -1,0 +1,84 @@
+{
+    "id": 39,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "poster": "harry_potter_3",
+    "trailer": "lAxgztbYDbs",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Alfonso Cuaron"
+    ],
+    "producers": "David Heyman, Chris Columbus, Mark Radcliffe",
+    "writtens": "Steve Kloves",
+    "music": "John Williams",
+    "cinema": "Michael Seresin",
+    "year": 2004,
+    "time": 142,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 797,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "name": "Gary Oldman",
+            "character": "Sirius Black"
+        },
+        {
+            "name": "Richard Harris",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "name": "David Thewlis",
+            "character": "Professor Lupin"
+        }
+    ],
+    "synopsis": "It's Harry's third year at Hogwarts; not only does he have a new \"Defense Against the Dark Arts\" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 5
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200406
+}

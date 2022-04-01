@@ -1,0 +1,68 @@
+{
+    "id": 276,
+    "title": "Jungle Cruise",
+    "poster": "jungle_cruise",
+    "trailer": "f_HvoipFcA8",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": [
+        "Jaume Collet-Serra"
+    ],
+    "producers": "John Davis, Beau Flynn, John Fox, Dany Garcia, Hiram Garcia, Dwayne Johnson",
+    "writtens": "Michael Green, Glenn Ficarra, John Requa",
+    "music": "James Newton Howard",
+    "cinema": "Flavio Martínez Labiano",
+    "year": 2021,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 220,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dwayne Johnson",
+            "character": "Frank Wolff"
+        },
+        {
+            "name": "Emily Blunt",
+            "character": "Lily Houghton"
+        },
+        {
+            "name": "Edgar Ramirez",
+            "character": "Aguirre"
+        },
+        {
+            "name": "Jesse Plemons",
+            "character": "Prince Joachim"
+        },
+        {
+            "name": "Jack Whitehall",
+            "character": "MacGregor Houghton"
+        },
+        {
+            "name": "Paul Giamatti",
+            "character": "Nilo Nemolato"
+        }
+    ],
+    "synopsis": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202106,
+    "characters": 6
+}

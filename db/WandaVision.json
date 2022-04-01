@@ -1,0 +1,83 @@
+{
+    "id": 179,
+    "title": "WandaVision",
+    "poster": "wandavision",
+    "genres": [
+        "Action",
+        "Drama"
+    ],
+    "production": [
+        "Disney+",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Matt Shakman"
+    ],
+    "producers": "Chuck Hayward",
+    "writtens": "Peter Cameron, Mackenzie Dohr, Laura Donney, Bobak Esfarjani, Megan McDonnell, Jac Schaeffer, Cameron Squires",
+    "music": "Christophe Beck, Alex Kovacs",
+    "cinema": "Jess Hall",
+    "year": 2021,
+    "time": 350,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Elizabeth Olsen",
+            "character": "Wanda Maximoff / Scarlet Witch"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Vision"
+        },
+        {
+            "name": "Kathryn Hahn",
+            "character": "Agatha Harkness"
+        },
+        {
+            "name": "Teyonah Parris",
+            "character": "Monica Rambeau"
+        },
+        {
+            "name": "Randall Park",
+            "character": "Jimmy Woo"
+        },
+        {
+            "name": "Kat Dennings",
+            "character": "Darcy Lewis"
+        }
+    ],
+    "synopsis": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+    "awards": [
+        {
+            "title": "MTV Movie + TV Award",
+            "nominations": [
+                "Best Show",
+                "Best Performance in a Show (Elizabeth Olsen)",
+                "Best Villain (Kathryn Hahn)",
+                "Best Fight",
+                "Best Hero (Teyonah Parris)"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 24
+    },
+    "type": [
+        "Series"
+    ],
+    "sort": 202101,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 9,
+            "trailer": "sj9J2ecsSpo"
+        }
+    ],
+    "characters": 6
+}

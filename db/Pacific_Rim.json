@@ -1,0 +1,88 @@
+{
+    "id": 93,
+    "title": "Pacific Rim",
+    "poster": "pacific_rim_1",
+    "trailer": "5guMumPFBag",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary"
+    ],
+    "director": [
+        "Guillermo del Toro"
+    ],
+    "producers": "Guillermo del Toro, Thomas Tull, Jon Jashni, Mary Parent",
+    "writtens": "Travis Beacham, Guillermo del Toro",
+    "music": "Ramin Djawadi",
+    "cinema": "Guillermo Navarro",
+    "year": 2013,
+    "time": 132,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 180,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 411,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Charlie Hunnam",
+            "character": "Raleigh Becket"
+        },
+        {
+            "name": "Diego Klattenhoff",
+            "character": "Yancy Becket"
+        },
+        {
+            "name": "Idris Elba",
+            "character": "Stacker Pentecost"
+        },
+        {
+            "name": "Rinko Kikuchi",
+            "character": "Mako Mori"
+        },
+        {
+            "name": "Charlie Day",
+            "character": "Dr. Newton Geiszler"
+        },
+        {
+            "name": "Burn Gorman",
+            "character": "Herman Gottlieb"
+        },
+        {
+            "name": "Max Martini",
+            "character": "Herc Hansen"
+        },
+        {
+            "name": "Robert Kazinsky",
+            "character": "Chuck Hansen"
+        },
+        {
+            "name": "Clifton Collins Jr.",
+            "character": "Ops Tendo Choi"
+        },
+        {
+            "name": "Ron Perlman",
+            "character": "Hannibal Chau"
+        }
+    ],
+    "synopsis": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+    "collections": [
+        "Robots"
+    ],
+    "parts": {
+        "title": "Pacific Rim",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201307
+}

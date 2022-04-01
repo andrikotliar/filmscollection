@@ -1,0 +1,99 @@
+{
+    "id": 13,
+    "title": "Terminator 2: Judgment Day",
+    "poster": "terminator_2",
+    "trailer": "-W8CegO_Ixw",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "TriStar",
+        "Carolco Pictures"
+    ],
+    "director": [
+        "James Cameron"
+    ],
+    "producers": "James Cameron",
+    "writtens": "James Cameron, William Wisher",
+    "music": "Brad Fiedel",
+    "cinema": "Adam Greenberg",
+    "year": 1991,
+    "time": 137,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 94,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 521,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Arnold Schwarzenegger",
+            "character": "T-800"
+        },
+        {
+            "name": "Edward Furlong",
+            "character": "John Connor"
+        },
+        {
+            "name": "Linda Hamilton",
+            "character": "Sarah Connor"
+        },
+        {
+            "name": "Robert Patrick",
+            "character": "T-1000"
+        },
+        {
+            "name": "Joe Morton",
+            "character": "Miles Bennett Dyson"
+        }
+    ],
+    "synopsis": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+    "collections": [
+        "Legends",
+        "Robots"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound",
+                "Best Sound Effects Editing",
+                "Best Visual Effects",
+                "Best Makeup"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Sound",
+                "Best Special Visual Effects",
+                "Best Production Design"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie",
+                "Best Female Performance",
+                "Best Male Performance",
+                "Best Breakthrough Performance",
+                "Most Desirable Female",
+                "Best Action Sequence"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Terminator",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199107
+}

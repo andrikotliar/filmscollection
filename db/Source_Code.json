@@ -1,0 +1,72 @@
+{
+    "id": 177,
+    "title": "Source Code",
+    "poster": "source_code",
+    "trailer": "mnJegNyAb1w",
+    "genres": [
+        "Sci-Fi",
+        "Action",
+        "Thriller"
+    ],
+    "production": [
+        "Summit Entertainment"
+    ],
+    "director": [
+        "Duncan Jones"
+    ],
+    "producers": "Mark Gordon, Jordan Wynn, Philippe Roussellet",
+    "writtens": "Ben Ripley",
+    "music": "Chris Bacon",
+    "cinema": "Don Burgess",
+    "year": 2011,
+    "time": 93,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 32,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 147,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jake Gyllenhaal",
+            "character": "Colter Stevens"
+        },
+        {
+            "name": "Michelle Monaghan",
+            "character": "Christina Warren"
+        },
+        {
+            "name": "Vera Farmiga",
+            "character": "Colleen Goodwin"
+        },
+        {
+            "name": "Jeffrey Wright",
+            "character": "Dr. Rutledge"
+        },
+        {
+            "name": "Michael Arden",
+            "character": "Derek Frost"
+        },
+        {
+            "name": "Cas Anvar",
+            "character": "Hazmi"
+        },
+        {
+            "name": "Russell Peters",
+            "character": "Max Denoff"
+        }
+    ],
+    "synopsis": "A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.",
+    "collections": [
+        "Future"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201103
+}

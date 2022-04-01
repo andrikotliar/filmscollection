@@ -1,0 +1,69 @@
+{
+    "id": 283,
+    "title": "Greenland",
+    "poster": "greenland",
+    "trailer": "RTODtIQQRpA",
+    "genres": [
+        "Drama"
+    ],
+    "production": [
+        "Thunder Road",
+        "Anton",
+        "G Base"
+    ],
+    "director": [
+        "Ric Roman Waugh"
+    ],
+    "producers": "Gerard Butler, Sébastien Raybaud, Alan Siegel",
+    "writtens": "Chris Sparling",
+    "music": "David Buckley",
+    "cinema": "Dana Gonzales",
+    "year": 2020,
+    "time": 119,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 35,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 52,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Gerard Butler",
+            "character": "John Garrity"
+        },
+        {
+            "name": "Morena Baccarin",
+            "character": "Allison Garrity"
+        },
+        {
+            "name": "Roger Dale Floyd",
+            "character": "Nathan Garrity"
+        },
+        {
+            "name": "Scott Glenn",
+            "character": "Dale"
+        },
+        {
+            "name": "David Denman",
+            "character": "Ralph Vento"
+        },
+        {
+            "name": "Hope Davis",
+            "character": "Judy Vento"
+        }
+    ],
+    "synopsis": "A family struggles for survival in the face of a cataclysmic natural disaster.",
+    "collections": [
+        "Disaster"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202007
+}

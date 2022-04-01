@@ -1,0 +1,99 @@
+{
+    "id": 52,
+    "title": "The Fate of the Furious",
+    "poster": "fast_and_furious_8",
+    "trailer": "9GvX2uexGkA",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "F. Gary Gray"
+    ],
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Brian Tyler",
+    "cinema": "Stephen F. Windon",
+    "year": 2017,
+    "time": 136,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.24,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": "Dom"
+        },
+        {
+            "name": "Jason Statham",
+            "character": "Deckard"
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": "Hobbs"
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": "Letty"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Roman"
+        },
+        {
+            "name": "Ludacris",
+            "character": "Tej Parker"
+        },
+        {
+            "name": "Charlize Theron",
+            "character": "Cipher"
+        },
+        {
+            "name": "Kurt Russell",
+            "character": "Mr. Nobody"
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": "Ramsey"
+        },
+        {
+            "name": "Luke Evans",
+            "character": "Owen"
+        },
+        {
+            "name": "Elsa Pataky",
+            "character": "Elena"
+        }
+    ],
+    "synopsis": "When a mysterious woman seduces Dom into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+    "collections": [
+        "Cars"
+    ],
+    "awards": [
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Action Sequence"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 8
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201704
+}

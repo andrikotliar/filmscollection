@@ -1,0 +1,146 @@
+{
+    "id": 71,
+    "title": "The Avengers: Infinity War",
+    "poster": "avengers_3",
+    "trailer": "6ZfuNTqbHE8",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Anthony Russo",
+        "Joe Russo"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Markus, Stephen McFeely",
+    "music": "Alan Silvestri",
+    "cinema": "Trent Opaloch",
+    "year": 2018,
+    "time": 149,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 316,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 2.05,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "Thor"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner / Hulk"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James Rhodes / War Machine"
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Doctor Strange"
+        },
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker / Spider-Man"
+        },
+        {
+            "name": "Chadwick Boseman",
+            "character": "T'Challa / Black Panther"
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": "Gamora"
+        },
+        {
+            "name": "Chris Pratt",
+            "character": "Peter Quill / Star-Lord"
+        },
+        {
+            "name": "Karen Gillan",
+            "character": "Nebula"
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": "Loki"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Vision"
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "character": "Wanda Maximoff / Scarlett Witch"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Sam Wilson / The Falcon"
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": "Bucky Barnes / White Wolf"
+        },
+        {
+            "name": "Pom Klementieff",
+            "character": "Mantis"
+        },
+        {
+            "name": "Dave Bautista",
+            "character": "Drax"
+        },
+        {
+            "name": "Vin Diesel",
+            "character": "Groot"
+        },
+        {
+            "name": "Bradley Cooper",
+            "character": "Rocket"
+        },
+        {
+            "name": "Josh Brolin",
+            "character": "Thanos"
+        }
+    ],
+    "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Supporting Actor (Josh Brolin)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 19
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201804,
+    "characters": 19
+}

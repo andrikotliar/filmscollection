@@ -1,0 +1,84 @@
+{
+    "id": 31,
+    "title": "How to Train Your Dragon",
+    "poster": "how_to_train_your_dragon_1",
+    "trailer": "oKiYuIsPxYk",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": [
+        "Chris Sanders",
+        "Dean DeBlois"
+    ],
+    "producers": "Bonnie Amold",
+    "writtens": "Will Davies, Dean DeBlois, Chris Sanders",
+    "music": "John Powell",
+    "year": 2010,
+    "time": 98,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 165,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 496,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jay Baruchel",
+            "character": "Hiccup"
+        },
+        {
+            "name": "Gerard Butler",
+            "character": "Stoick "
+        },
+        {
+            "name": "Craig Ferguson",
+            "character": "Gobber "
+        },
+        {
+            "name": "America Ferrera",
+            "character": "Astrid "
+        },
+        {
+            "name": "Jonah Hill",
+            "character": "Snotlout "
+        },
+        {
+            "name": "Christopher Mintz-Plasse",
+            "character": "Fishlegs "
+        },
+        {
+            "name": "T.J. Miller",
+            "character": "Tuffnut "
+        },
+        {
+            "name": "Kristen Wiig",
+            "character": "Ruffnut "
+        },
+        {
+            "name": "Robin Atkin Downes",
+            "character": "Ack "
+        }
+    ],
+    "synopsis": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "How to Train Your Dragon",
+        "part": 1
+    },
+    "type": [
+        "Animation"
+    ],
+    "sort": 201003,
+    "top": 4
+}

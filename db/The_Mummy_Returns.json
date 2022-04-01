@@ -1,0 +1,91 @@
+{
+    "id": 91,
+    "title": "The Mummy Returns",
+    "poster": "mummy_2",
+    "trailer": "3yXjs7BUKYc",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Stephen Sommers"
+    ],
+    "producers": "James Jacks, Sean Daniel",
+    "writtens": "Stephen Sommers",
+    "music": "Alan Silvestri",
+    "cinema": "Adrian Biddle",
+    "year": 2001,
+    "time": 130,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 98,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 433,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Brendan Fraser",
+            "character": "Rick O'Connell"
+        },
+        {
+            "name": "Rachel Weisz",
+            "character": "Evelyn Carnahan / Nefertiri"
+        },
+        {
+            "name": "John Hannah",
+            "character": "Jonathan"
+        },
+        {
+            "name": "Arnold Vosloo",
+            "character": "Imhotep"
+        },
+        {
+            "name": "Oded Fehr",
+            "character": "Ardeth Bay"
+        },
+        {
+            "name": "Patricia Velasquez",
+            "character": "Meela / Anck-Su-Namun"
+        },
+        {
+            "name": "Freddie Boath",
+            "character": "Alex"
+        },
+        {
+            "name": "Alun Armstrong",
+            "character": "Mr. Hafez"
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": "The Scorpion King"
+        },
+        {
+            "name": "Adewale Akinnuoye-Agbaje",
+            "character": "Lock-Nah"
+        },
+        {
+            "name": "Shaun Parkes",
+            "character": "Izzy"
+        }
+    ],
+    "synopsis": "The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "parts": {
+        "title": "The Mummy",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200105
+}

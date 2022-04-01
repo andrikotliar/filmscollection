@@ -1,0 +1,96 @@
+{
+    "id": 217,
+    "title": "Rise of the Planet of the Apes",
+    "poster": "planet_of_the_apes",
+    "trailer": "T3tidwW1gGM",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Dune Entertainment"
+    ],
+    "director": [
+        "Rupert Wyatt"
+    ],
+    "producers": "Peter Chernin, Dylan Clark, Rick Jaffa, Amanda Silver",
+    "writtens": "Rick Jaffa, Amanda Silver",
+    "music": "Patrick Doyle",
+    "cinema": "Andrew Lesnie",
+    "year": 2011,
+    "time": 105,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 93,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 482,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James Franco",
+            "character": "Will Rodman"
+        },
+        {
+            "name": "Andy Serkis",
+            "character": "Caesar"
+        },
+        {
+            "name": "Karin Konoval",
+            "character": "Maurice / Court Clerk"
+        },
+        {
+            "name": "Terry Notary",
+            "character": "Rocket / Bright Eyes"
+        },
+        {
+            "name": "Richard Ridings",
+            "character": "Buck - Ape"
+        },
+        {
+            "name": "Christopher Gordon",
+            "character": "Koba - Ape (as Chris Gordon)"
+        },
+        {
+            "name": "Devyn Dalton",
+            "character": "Cornelia - Ape"
+        },
+        {
+            "name": "Jay Caputo",
+            "character": "Alpha"
+        }
+    ],
+    "synopsis": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising",
+    "collections": [
+        "Future"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Supporting Actor",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Visual Effects"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Planet of the Apes Reboot",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201108
+}

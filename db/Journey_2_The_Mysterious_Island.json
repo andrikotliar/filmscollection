@@ -1,0 +1,70 @@
+{
+    "id": 133,
+    "title": "Journey 2: The Mysterious Island",
+    "poster": "journey_2",
+    "trailer": "qdFCjwcK8IE",
+    "genres": [
+        "Adventures"
+    ],
+    "production": [
+        "New Line Cinema"
+    ],
+    "director": [
+        "Brad Peyton"
+    ],
+    "producers": "Beau Flynn, Tripp Vinson, Charlotte Huggins",
+    "writtens": "Brian Gunn, Mark Gunn",
+    "music": "Andrew Lockington",
+    "cinema": "David Tattersall",
+    "year": 2012,
+    "time": 94,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 79,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 335,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dwayne Johnson",
+            "character": "Hank"
+        },
+        {
+            "name": "Michael Caine",
+            "character": "Alexander"
+        },
+        {
+            "name": "Josh Hutcherson",
+            "character": "Sean"
+        },
+        {
+            "name": "Luis Guzman",
+            "character": "Gabato"
+        },
+        {
+            "name": "Vanessa Hudgens",
+            "character": "Kailani"
+        },
+        {
+            "name": "Kristin Davis",
+            "character": "Liz"
+        }
+    ],
+    "synopsis": "Sean Anderson partners with his mom's husband on a mission to find his grandfather, who is thought to be missing on a mythical island.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "parts": {
+        "title": "The Journey",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201202
+}

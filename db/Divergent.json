@@ -1,0 +1,87 @@
+{
+    "id": 260,
+    "title": "Divergent",
+    "poster": "divergent_1",
+    "trailer": "Aw7Eln_xuWc",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Summit Entertainment"
+    ],
+    "director": [
+        "Neil Burger"
+    ],
+    "producers": "Lucy Fisher, Pouya Shahbazian, Douglas Wick",
+    "writtens": "Evan Daugherty, Vanessa Taylor",
+    "music": "Junkie XL",
+    "cinema": "Alwin H. Küchler",
+    "year": 2014,
+    "time": 139,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 85,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 289,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Shailene Woodley",
+            "character": "Tris"
+        },
+        {
+            "name": "Theo James",
+            "character": "Four"
+        },
+        {
+            "name": "Ashley Judd",
+            "character": "Natalie Prior"
+        },
+        {
+            "name": "Jai Courtney",
+            "character": "Eric Coulter"
+        },
+        {
+            "name": "Ray Stevenson",
+            "character": "Marcus Eaton"
+        },
+        {
+            "name": "Zoë Kravitz",
+            "character": "Christina"
+        },
+        {
+            "name": "Miles Teller",
+            "character": "Peter Hayes"
+        },
+        {
+            "name": "Ansel Elgort",
+            "character": "Caleb Prior"
+        }
+    ],
+    "synopsis": "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+    "collections": [
+        "Dystopia"
+    ],
+    "awards": [
+        {
+            "title": "MTV Movie + TV Awards",
+            "nominations": [
+                "Favorite Character (Tris)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Divergent",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201404
+}

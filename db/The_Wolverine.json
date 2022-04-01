@@ -1,0 +1,73 @@
+{
+    "id": 288,
+    "title": "The Wolverine",
+    "poster": "wolverine",
+    "trailer": "toLpchTUYk8",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "James Mangold"
+    ],
+    "producers": "Hutch Parker, Lauren Shuler Donner",
+    "writtens": "Mark Bomback, Scott Frank",
+    "music": "Marco Beltrami",
+    "cinema": "Ross Emery",
+    "year": 2013,
+    "time": 126,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 132,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 415,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan"
+        },
+        {
+            "name": "Tao Okamoto",
+            "character": "Mariko Yashida"
+        },
+        {
+            "name": "Hiroyuki Sanada",
+            "character": "Shingen Yashida"
+        },
+        {
+            "name": "Rila Fukushima",
+            "character": "Yukio"
+        },
+        {
+            "name": "Famke Janssen",
+            "character": "Jean Grey"
+        },
+        {
+            "name": "Svetlana Khodchenkova",
+            "character": "Dr. Green / Viper"
+        }
+    ],
+    "synopsis": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 6
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201307
+}

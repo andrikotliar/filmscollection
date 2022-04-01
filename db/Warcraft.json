@@ -1,0 +1,96 @@
+{
+    "id": 155,
+    "title": "Warcraft",
+    "poster": "warcraft",
+    "trailer": "2Rxoz13Bthc",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Universal Pictures",
+        "Legendary"
+    ],
+    "director": [
+        "Duncan Jones"
+    ],
+    "producers": "Charles Roven, Alex Gartner, Thomas Tull, Jon Jashni, Stuart Fenegan",
+    "writtens": "Charles Leavitt, Duncan Jones",
+    "music": "Ramin Djawadi",
+    "cinema": "Simon Duggan",
+    "year": 2016,
+    "time": 123,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 434,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Travis Fimmel",
+            "character": "Anduin Lothar"
+        },
+        {
+            "name": "Paula Patton",
+            "character": "Garona"
+        },
+        {
+            "name": "Ben Foster",
+            "character": "Medivh"
+        },
+        {
+            "name": "Dominic Cooper",
+            "character": "Llane Wrynn"
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": "Durotan / Antonidas"
+        },
+        {
+            "name": "Ben Schnetzer",
+            "character": "Khadgar"
+        },
+        {
+            "name": "Robert Kazinsky",
+            "character": "Orgrim"
+        },
+        {
+            "name": "Clancy Brown",
+            "character": "Blackhand"
+        },
+        {
+            "name": "Daniel Wu",
+            "character": "Gul'dan"
+        },
+        {
+            "name": "Ruth Negga",
+            "character": "Lady Taria"
+        },
+        {
+            "name": "Anna Galvin",
+            "character": "Draka"
+        },
+        {
+            "name": "Callum Keith Rennie",
+            "character": "Moroes"
+        },
+        {
+            "name": "Burkely Duffield",
+            "character": "Callan"
+        }
+    ],
+    "synopsis": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201606
+}

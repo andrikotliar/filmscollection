@@ -1,0 +1,69 @@
+{
+    "id": 294,
+    "title": "Chaos Walking",
+    "poster": "chaos_walking",
+    "trailer": "UIrGxHhdqXo",
+    "genres": [
+        "Adventures",
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Lionsgate",
+        "Quadrant Pictures"
+    ],
+    "director": [
+        "Doug Liman"
+    ],
+    "producers": "Allison Shearmur, Erwin Stoff, Alison Winter",
+    "writtens": "Patrick Ness, Christopher Ford",
+    "music": "Marco Beltrami, Brandon Roberts",
+    "cinema": "Ben Seresin",
+    "year": 2021,
+    "time": 109,
+    "countries": [
+        "USA",
+        "Canada",
+        "Hong Kong",
+        "Luxembourg"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 26,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Holland",
+            "character": "Todd"
+        },
+        {
+            "name": "Daisy Ridley",
+            "character": "Viola"
+        },
+        {
+            "name": "Mads Mikkelsen",
+            "character": "Mayor Prentiss"
+        },
+        {
+            "name": "Nick Jonas",
+            "character": "Davy Prentiss, Jr."
+        },
+        {
+            "name": "David Oyelowo",
+            "character": "Aaron"
+        }
+    ],
+    "synopsis": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+    "collections": [
+        "Space"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 202103,
+    "characters": 5
+}

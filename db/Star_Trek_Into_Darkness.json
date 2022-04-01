@@ -1,0 +1,97 @@
+{
+    "id": 78,
+    "title": "Star Trek: Into Darkness",
+    "poster": "star_trek_2",
+    "trailer": "jJMYAJ3_0uw",
+    "genres": [
+        "Sci-Fi",
+        "SpaceOpera"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Bad Robot Productions"
+    ],
+    "director": [
+        "J.J. Abrams"
+    ],
+    "producers": "J.J. Abrams, Deamon Lindelof",
+    "writtens": "Roberto Orci, Alex Kurtzman",
+    "music": "Michael Giacchino",
+    "cinema": "Dan Mindel",
+    "year": 2013,
+    "time": 133,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 185,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 467,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pine",
+            "character": "Kirk"
+        },
+        {
+            "name": "Zachary Quinto",
+            "character": "Spock"
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": "Uhura"
+        },
+        {
+            "name": "Karl Urban",
+            "character": "Bones"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Scotty"
+        },
+        {
+            "name": "John Cho",
+            "character": "Sulu"
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Khan"
+        },
+        {
+            "name": "Anton Yelchin",
+            "character": "Chekov"
+        },
+        {
+            "name": "Bruce Greenwood",
+            "character": "Pike"
+        },
+        {
+            "name": "Peter Weller",
+            "character": "Marcus"
+        },
+        {
+            "name": "Alice Eve",
+            "character": "Carol Marcus"
+        },
+        {
+            "name": "Noel Clarke",
+            "character": "Thomas Harewood"
+        }
+    ],
+    "synopsis": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
+    "collections": [
+        "Space"
+    ],
+    "parts": {
+        "title": "Star Trek",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201305,
+    "characters": 7
+}

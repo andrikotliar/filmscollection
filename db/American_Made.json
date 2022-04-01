@@ -1,0 +1,78 @@
+{
+    "id": 300,
+    "title": "American Made",
+    "poster": "american_made",
+    "trailer": "AEBIJRAkujM",
+    "genres": [
+        "Comedy",
+        "Crime"
+    ],
+    "production": [
+        "Cross Creek Pictures",
+        "Imagine Entertainment"
+    ],
+    "director": [
+        "Doug Liman"
+    ],
+    "producers": "Ray Angelic, Doug Davison, Brian Oliver, Kim Roth",
+    "writtens": "Gary Spinelli",
+    "music": "Christophe Beck",
+    "cinema": "César Charlone",
+    "year": 2017,
+    "time": 115,
+    "countries": [
+        "USA",
+        "Japan",
+        "Colombia"
+    ],
+    "budget": {
+        "value": 50,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 135,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Barry Seal"
+        },
+        {
+            "name": "Domhnall Gleeson",
+            "character": "Monty 'Schafer'"
+        },
+        {
+            "name": "Sarah Wright",
+            "character": "Lucy Seal"
+        },
+        {
+            "name": "Jesse Plemons",
+            "character": "Sheriff Downing"
+        },
+        {
+            "name": "Caleb Landry Jones",
+            "character": "JB"
+        },
+        {
+            "name": "Connor Trinneer",
+            "character": "George W. Bush"
+        },
+        {
+            "name": "Mauricio Mejía",
+            "character": "Pablo Escobar"
+        },
+        {
+            "name": "Alejandro Edda",
+            "character": "Jorge Ochoa"
+        }
+    ],
+    "synopsis": "The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.",
+    "collections": [
+        "Life Story"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201709
+}

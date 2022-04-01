@@ -1,0 +1,78 @@
+{
+    "id": 61,
+    "title": "Captain America: The Winter Soldier",
+    "poster": "captain_america_2",
+    "trailer": "7SlILk2WMTI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Anthony Russo",
+        "Joe Russo"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Markus, Stephen McFeely",
+    "music": "Henry Jackman",
+    "cinema": "Trent Opaloch",
+    "year": 2014,
+    "time": 136,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 177,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 714,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Nick Fury"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow"
+        },
+        {
+            "name": "Robert Redford",
+            "character": "Alexander Pierce"
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": "Bucky Barnes / Winter Soldier"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Sam Wilson / Falcon"
+        },
+        {
+            "name": "Cobie Smulders",
+            "character": "Maria Hill"
+        }
+    ],
+    "synopsis": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 9
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201403,
+    "characters": 5
+}

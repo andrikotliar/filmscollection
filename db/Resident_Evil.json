@@ -1,0 +1,69 @@
+{
+    "id": 203,
+    "title": "Resident Evil",
+    "poster": "resident_evil",
+    "trailer": "kEutwdia8n0",
+    "genres": [
+        "Action",
+        "Horror"
+    ],
+    "production": [
+        "Pathe Distribution",
+        "Constantin Film"
+    ],
+    "director": [
+        "Paul W. S. Anderson"
+    ],
+    "producers": "Bernd Eichinger, Samuel Hadida, Jeremy Boltm Paul W. S. Anderson",
+    "writtens": "Paul W. S. Anderson",
+    "music": "Marco Beltrami, Marilyn Manson",
+    "cinema": "David Johnson",
+    "year": 2002,
+    "time": 100,
+    "countries": [
+        "UK",
+        "Germany"
+    ],
+    "budget": {
+        "value": 33,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 103,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Milla Jovovich",
+            "character": "Alice"
+        },
+        {
+            "name": "Eric Mabius",
+            "character": "Matt"
+        },
+        {
+            "name": "Colin Salmon",
+            "character": "One"
+        },
+        {
+            "name": "Martin Crewes",
+            "character": "Kaplan"
+        },
+        {
+            "name": "Pasquale Aleardi",
+            "character": "J.D."
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": "Rain"
+        }
+    ],
+    "synopsis": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+    "collections": [
+        "Monsters"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 200207
+}

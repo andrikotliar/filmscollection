@@ -1,0 +1,85 @@
+{
+    "id": 314,
+    "title": "TMNT",
+    "poster": "tmnt_2007",
+    "trailer": "Hhrw0JAvIvI",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Kevin Munroe"
+    ],
+    "producers": "Thomas K. Gray, Galen Walker, Paul Wang",
+    "writtens": "Kevin Munroe",
+    "music": "Klaus Badelt",
+    "cinema": "Steve Lumley",
+    "year": 2007,
+    "time": 87,
+    "countries": [
+        "Hong Kong",
+        "USA"
+    ],
+    "budget": {
+        "value": 34,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 96,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James Arnold Taylor",
+            "character": "Leonardo"
+        },
+        {
+            "name": "Mitchell Whitfield",
+            "character": "Donatello"
+        },
+        {
+            "name": "Nolan North",
+            "character": "Raphael"
+        },
+        {
+            "name": "Mikey Kelley",
+            "character": "Michelangelo"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Casey"
+        },
+        {
+            "name": "Sarah Michelle Gellar",
+            "character": "April O'Neil"
+        },
+        {
+            "name": "Mako",
+            "character": "Splinter"
+        },
+        {
+            "name": "Patrick Stewart",
+            "character": "Max Winters"
+        },
+        {
+            "name": "Ziyi Zhang",
+            "character": "Karai"
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": "Narrator"
+        }
+    ],
+    "synopsis": "When the world is threatened by an ancient evil, the four adolescent turtles must reunite and overcome their faults in order to stand against it.",
+    "collections": [
+        "Superheroes"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200703,
+    "characters": 4
+}

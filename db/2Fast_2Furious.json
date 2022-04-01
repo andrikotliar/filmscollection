@@ -1,0 +1,75 @@
+{
+    "id": 46,
+    "title": "2Fast 2Furious",
+    "poster": "fast_and_furious_2",
+    "trailer": "F_VIM03DXWI",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "John Singleton"
+    ],
+    "producers": "Neal H. Moritz",
+    "writtens": "Michael Brandt, Derek Haas",
+    "music": "David Arnold",
+    "cinema": "Matthew F. Leonetti",
+    "year": 2003,
+    "time": 108,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 76,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 236,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Paul Walker",
+            "character": "Brian O'Conner"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Roman Pearce"
+        },
+        {
+            "name": "Eva Mendes",
+            "character": "Monica Fuentes"
+        },
+        {
+            "name": "Cole Hauser",
+            "character": "Carter Verone"
+        },
+        {
+            "name": "Ludacris",
+            "character": "Tej"
+        },
+        {
+            "name": "James Remar",
+            "character": "Agent Markham"
+        },
+        {
+            "name": "Devon Aoki",
+            "character": "Suki"
+        }
+    ],
+    "synopsis": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200307
+}

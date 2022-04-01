@@ -1,0 +1,109 @@
+{
+    "id": 51,
+    "title": "Furious Seven",
+    "poster": "fast_and_furious_7",
+    "trailer": "Skpu5HaVkOc",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "James Wan"
+    ],
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Brian Tyler",
+    "cinema": "Stephen F. Windon, Marc Spicer",
+    "year": 2015,
+    "time": 137,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 190,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.52,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "name": "Paul Walker",
+            "character": "Brian O'Conner"
+        },
+        {
+            "name": "Jason Statham",
+            "character": "Deckard Shaw"
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": "Letty"
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": "Mia"
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": "Roman"
+        },
+        {
+            "name": "Ludacris",
+            "character": "Tej "
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": "Hobbs"
+        },
+        {
+            "name": "Lucas Black",
+            "character": "Sean Boswell"
+        },
+        {
+            "name": "Kurt Russell",
+            "character": "Mr. Nobody"
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": "Ramsey"
+        },
+        {
+            "name": "Elsa Pataky",
+            "character": "Elena"
+        }
+    ],
+    "synopsis": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+    "collections": [
+        "Cars"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Action/Adventure Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Song"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 7
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201504
+}

@@ -1,0 +1,84 @@
+{
+    "id": 45,
+    "title": "The Fast and the Furious",
+    "poster": "fast_and_furious_1",
+    "trailer": "2TAOizOnNPo",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": [
+        "Rob Cohen"
+    ],
+    "producers": "Neal H. Moritz",
+    "writtens": "Gary Scott Thompson, Erik Bergq",
+    "music": "BT",
+    "cinema": "Ericson Core",
+    "year": 2001,
+    "time": 106,
+    "countries": [
+        "USA",
+        "Germany"
+    ],
+    "budget": {
+        "value": 38,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 207,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Paul Walker",
+            "character": "Brian O'Conner"
+        },
+        {
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": "Letty"
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": "Mia Toretto"
+        },
+        {
+            "name": "Rick Yune",
+            "character": "Johnny Tran"
+        },
+        {
+            "name": "Chad Lindberg",
+            "character": "Jesse"
+        },
+        {
+            "name": "Matt Schulze",
+            "character": "Vince"
+        }
+    ],
+    "synopsis": "Los Angeles police officer Brian O'Connor must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.",
+    "collections": [
+        "Cars"
+    ],
+    "awards": [
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best On-Screen Team"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200106
+}

@@ -1,0 +1,76 @@
+{
+    "id": 188,
+    "title": "Pokemon: Detective Pikachu",
+    "poster": "detective_pikachu",
+    "trailer": "1roy4o4tqQM",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary",
+        "The Pokemon Company"
+    ],
+    "director": [
+        "Rob Letterman"
+    ],
+    "producers": "Cale Boyter, Hidenaga Katakami, Don McGowan, Mary Parent",
+    "writtens": "Dan Hernandez, Benji Samit, Rob Letterman, Derek Connolly",
+    "music": "Henry Jackman",
+    "cinema": "John Mathieson",
+    "year": 2019,
+    "time": 104,
+    "countries": [
+        "USA",
+        "Japan",
+        "UK",
+        "Canada"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 434,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ryan Reynolds",
+            "character": "Detective Pikachu"
+        },
+        {
+            "name": "Justice Smith",
+            "character": "Tim Goodman"
+        },
+        {
+            "name": "Kathryn Newton",
+            "character": "Lucy Stevens"
+        },
+        {
+            "name": "Bill Nighy",
+            "character": "Howard Clifford"
+        },
+        {
+            "name": "Rina Hoshino",
+            "character": "Mewtwo"
+        },
+        {
+            "name": "Kotaro Watanabe",
+            "character": "Mewtwo"
+        },
+        {
+            "name": "Ikue Otani",
+            "character": "Pikachu"
+        }
+    ],
+    "synopsis": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201905
+}

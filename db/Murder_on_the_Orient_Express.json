@@ -1,0 +1,108 @@
+{
+    "id": 153,
+    "title": "Murder on the Orient Express",
+    "poster": "murder_on_the_orient_express",
+    "trailer": "Mq4m3yAoW8E",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Kenneth Branagh"
+    ],
+    "producers": "Ridley Scott, Mark Gordon, Simon Kinberg, Kenneth Branagh",
+    "writtens": "Michael Green",
+    "music": "Patrick Doyle",
+    "cinema": "Haris Zambarloukos",
+    "year": 2017,
+    "time": 114,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 55,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 353,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Kenneth Branagh",
+            "character": "Hercule Poirot"
+        },
+        {
+            "name": "Penelope Cruz",
+            "character": "Pilar Estravados"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Gerhard Hardman"
+        },
+        {
+            "name": "Judi Dench",
+            "character": "Princess Dragomiroff"
+        },
+        {
+            "name": "Johnny Depp",
+            "character": "Edward Ratchett"
+        },
+        {
+            "name": "Josh Gad",
+            "character": "Hector MacQueen"
+        },
+        {
+            "name": "Derek Jacobi",
+            "character": "Edward Henry Masterman"
+        },
+        {
+            "name": "Leslie Odom Jr.",
+            "character": "Dr. Arbuthnot"
+        },
+        {
+            "name": "Michelle Pfeiffer",
+            "character": "Caroline Hubbard"
+        },
+        {
+            "name": "Daisy Ridley",
+            "character": "Miss Mary Debenham"
+        },
+        {
+            "name": "Tom Bateman",
+            "character": "Bouc"
+        },
+        {
+            "name": "Marwan Kenzari",
+            "character": "Pierre Michel"
+        },
+        {
+            "name": "Olivia Colman",
+            "character": "Hildegarde Schmidt"
+        },
+        {
+            "name": "Lucy Boynton",
+            "character": "Countess Elena Andrenyi"
+        },
+        {
+            "name": "Manuel Garcia-Rulfo",
+            "character": "Biniamino Marquez"
+        },
+        {
+            "name": "Sergei Polunin",
+            "character": "Count Rudolph Andrenyi"
+        }
+    ],
+    "synopsis": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201711,
+    "characters": 16
+}

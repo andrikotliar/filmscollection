@@ -1,0 +1,100 @@
+{
+    "id": 113,
+    "title": "WALL-E",
+    "poster": "wall_e",
+    "trailer": "alIq_wG9FNk",
+    "genres": [
+        "Sci-Fi",
+        "Romance"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Pixar Animation"
+    ],
+    "director": [
+        "Andrew Stanton"
+    ],
+    "producers": "Jim Morris",
+    "writtens": "Andrew Stanton, Jim Reardon",
+    "music": "Thomas Newman",
+    "cinema": "Jeremy Lasky, Danielle Feinberg",
+    "year": 2008,
+    "time": 97,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 180,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 533,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Burtt",
+            "character": "WALL-E / M-O / AUTO"
+        },
+        {
+            "name": "Elissa Knight",
+            "character": "EVE"
+        },
+        {
+            "name": "Jeff Garlin",
+            "character": "Captain"
+        },
+        {
+            "name": "Fred Willard",
+            "character": "Shelby Forthright"
+        },
+        {
+            "name": "John Ratzenberger",
+            "character": "John"
+        },
+        {
+            "name": "Kathy Najimy",
+            "character": "Mary"
+        }
+    ],
+    "synopsis": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "collections": [
+        "Space"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature Film of the Year"
+            ]
+        },
+        {
+            "title": "Golden Globes",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200807
+}

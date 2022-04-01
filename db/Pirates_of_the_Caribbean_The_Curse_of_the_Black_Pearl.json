@@ -1,0 +1,99 @@
+{
+    "id": 100,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "poster": "pirates_1",
+    "trailer": "naQr0uTrH_s",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Jerry Bruckheimer Films"
+    ],
+    "director": [
+        "Gore Verbinski"
+    ],
+    "producers": "Jerry Bruckheimer",
+    "writtens": "Ted Elliott, Terry Rossio",
+    "music": "Klaus Badelt",
+    "cinema": "Dariusz Wolski",
+    "year": 2003,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 140,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 654,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Johnny Depp",
+            "character": "Captain Jack Sparrow"
+        },
+        {
+            "name": "Geoffrey Rush",
+            "character": "Barbossa"
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": "Will Turner"
+        },
+        {
+            "name": "Keira Knightley",
+            "character": "Elizabeth Swann"
+        },
+        {
+            "name": "Jack Davenport",
+            "character": "Norrington"
+        },
+        {
+            "name": "Jonathan Pryce",
+            "character": "Governor Weatherby Swann"
+        }
+    ],
+    "synopsis": "Blacksmith Will Turner teams up with eccentric pirate Captain Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "collections": [
+        "Fantasy"
+    ],
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Make Up/Hair"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costumes"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Male Performance"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Family Film - Live Action"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Pirates of the Caribbean",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200306,
+    "characters": 4
+}

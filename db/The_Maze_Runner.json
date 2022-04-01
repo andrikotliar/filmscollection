@@ -1,0 +1,86 @@
+{
+    "id": 251,
+    "title": "The Maze Runner",
+    "poster": "maze_runner_1",
+    "trailer": "AwwbhhjQ9Xk",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Wes Ball"
+    ],
+    "producers": "Marty Bowen, Wyck Godfrey, Ellen Goldsmith-Vein, Lee Stollman",
+    "writtens": "Noah Oppenheim, Grant Pierce Myers, T.S. Nowlin",
+    "music": "John Paesano",
+    "cinema": "Enrique Chediak",
+    "year": 2014,
+    "time": 113,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 34,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 348,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dylan O'Brien",
+            "character": "Thomas"
+        },
+        {
+            "name": "Kaya Scodelario",
+            "character": "Teresa"
+        },
+        {
+            "name": "Aml Ameen",
+            "character": "Alby"
+        },
+        {
+            "name": "Thomas Brodie-Sangster",
+            "character": "Newt"
+        },
+        {
+            "name": "Ki Hong Lee",
+            "character": "Minho"
+        },
+        {
+            "name": "Will Poulter",
+            "character": "Gally"
+        },
+        {
+            "name": "Patricia Clarkson",
+            "character": "Ava Paige"
+        }
+    ],
+    "synopsis": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \"runners\" for a shot at escape.",
+    "collections": [
+        "Dystopia"
+    ],
+    "awards": [
+        {
+            "title": "MTV Movie + TV Awards (2015)",
+            "nominations": [
+                "Breakthrough Performance",
+                "Best Fight",
+                "Best Hero"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Maze Runner",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201409,
+    "characters": 5
+}

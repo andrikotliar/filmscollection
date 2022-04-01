@@ -1,0 +1,76 @@
+{
+    "id": 261,
+    "title": "Insurgent",
+    "poster": "divergent_2",
+    "trailer": "IR-l_TSjlEo",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Summit Entertainment"
+    ],
+    "director": [
+        "Robert Schwentke"
+    ],
+    "producers": "Lucy Fisher, Pouya Shahbazian, Douglas Wick",
+    "writtens": "Brian Duffield, Akiva Goldsman, Mark Bomback",
+    "music": "Joseph Trapanese",
+    "cinema": "Florian Ballhaus",
+    "year": 2015,
+    "time": 119,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 297,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Shailene Woodley",
+            "character": "Tris"
+        },
+        {
+            "name": "Theo James",
+            "character": "Four"
+        },
+        {
+            "name": "Kate Winslet",
+            "character": "Jeanine Matthews"
+        },
+        {
+            "name": "Miles Teller",
+            "character": "Peter Hayes"
+        },
+        {
+            "name": "Ansel Elgort",
+            "character": "Caleb Prior"
+        },
+        {
+            "name": "Jai Courtney",
+            "character": "Eric Coulter"
+        },
+        {
+            "name": "Octavia Spencer",
+            "character": "Johanna Reyes"
+        }
+    ],
+    "synopsis": "Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.",
+    "collections": [
+        "Dystopia"
+    ],
+    "parts": {
+        "title": "Divergent",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201503
+}

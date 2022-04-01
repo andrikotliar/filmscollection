@@ -1,0 +1,83 @@
+{
+    "id": 120,
+    "title": "Transporter 2",
+    "poster": "transporter_2",
+    "trailer": "sYJ5LDoWRT4",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "EuropaCorp"
+    ],
+    "director": [
+        "Louis Leterrier"
+    ],
+    "producers": "Luc Besson, Stephen Chasman",
+    "writtens": "Luc Besson, Robert Mark Kamen",
+    "music": "Alexandre Azaria",
+    "cinema": "Mitchell Amundsen",
+    "year": 2005,
+    "time": 87,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 32,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 85,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jason Statham",
+            "character": "Frank Martin"
+        },
+        {
+            "name": "Alessandro Gassman",
+            "character": "Gianni Chellini"
+        },
+        {
+            "name": "Amber Valletta",
+            "character": "Audrey Billings"
+        },
+        {
+            "name": "Kate Nauta",
+            "character": "Lola"
+        },
+        {
+            "name": "Matthew Modine",
+            "character": "Jefferson Billings"
+        },
+        {
+            "name": "Jason Flemyng",
+            "character": "Dimitri"
+        },
+        {
+            "name": "Keith David",
+            "character": "Stappleton"
+        },
+        {
+            "name": "Hunter Clary",
+            "character": "Jack Billings"
+        },
+        {
+            "name": "François Berléand",
+            "character": "Inspector Tarconi"
+        }
+    ],
+    "synopsis": "Mercenary Frank Martin, who specializes moving goods of all kinds, surfaces again this time in Miami, Florida when he's implicated in the kidnapping of the young son of a powerful USA official.",
+    "collections": [
+        "Cars"
+    ],
+    "parts": {
+        "title": "The Transporter",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200508
+}

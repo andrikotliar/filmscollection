@@ -1,0 +1,97 @@
+{
+    "id": 86,
+    "title": "X-Men: Apocalypse",
+    "poster": "x_men_7",
+    "trailer": "Jer8XjMrUB4",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Bryan Singer"
+    ],
+    "producers": "Lauren Shuler Donner, Bryan Singer",
+    "writtens": "Simon Kinberg",
+    "music": "John Ottman",
+    "cinema": "Newton Thomas Sigel",
+    "year": 2016,
+    "time": 144,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 178,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 544,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James McAvoy",
+            "character": "Professor Charles Xavier"
+        },
+        {
+            "name": "Michael Fassbender",
+            "character": "Erik Lehnsherr / Magneto"
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": "Raven / Mystique"
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": "Hank McCoy / Beast"
+        },
+        {
+            "name": "Oscar Isaac",
+            "character": "En Sabah Nur / Apocalypse"
+        },
+        {
+            "name": "Rose Byrne",
+            "character": "Moira Mactaggert"
+        },
+        {
+            "name": "Evan Peters",
+            "character": "Peter Maximoff / Quicksilver"
+        },
+        {
+            "name": "Josh Helman",
+            "character": "Col. William Stryker"
+        },
+        {
+            "name": "Sophie Turner",
+            "character": "Jean Grey"
+        },
+        {
+            "name": "Tye Sheridan",
+            "character": "Scott Summers / Cyclops"
+        },
+        {
+            "name": "Lucas Till",
+            "character": "Alex Summers / Havok"
+        },
+        {
+            "name": "Kodi Smit-McPhee",
+            "character": "Kurt Wagner / Nightcrawler"
+        }
+    ],
+    "synopsis": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+    "collections": [
+        "Superheroes"
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 8
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201605,
+    "characters": 9
+}

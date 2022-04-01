@@ -1,0 +1,77 @@
+{
+    "id": 6,
+    "title": "Mission: Impossible - Ghost Protocol",
+    "poster": "mi_4",
+    "trailer": "EDGYVFZxsXQ",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": [
+        "Brad Bird"
+    ],
+    "producers": "Tom Cruise, Bryan Burk, J.J. Abrams",
+    "writtens": "Josh Appelbaum, Andre Nemec",
+    "music": "Michael Giacchino",
+    "cinema": "Robert Elswit",
+    "year": 2011,
+    "time": 133,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 145,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 695,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "name": "Paula Patton",
+            "character": "Jane"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Benji"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "Brandt"
+        },
+        {
+            "name": "Michael Nyqvist",
+            "character": "Hendricks"
+        }
+    ],
+    "synopsis": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Action/Adventure Film",
+                "Best Editing"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Mission: Impossible",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201112,
+    "characters": 4
+}

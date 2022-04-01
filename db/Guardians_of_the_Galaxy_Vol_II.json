@@ -1,0 +1,104 @@
+{
+    "id": 67,
+    "title": "Guardians of the Galaxy: Vol. II",
+    "poster": "guardians_of_the_galaxy_2",
+    "trailer": "wUn05hdkhjM",
+    "genres": [
+        "Sci-Fi",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "James Gunn"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "James Gunn",
+    "music": "Tyler Bates",
+    "cinema": "Henry Braham",
+    "year": 2017,
+    "time": 137,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 864,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pratt",
+            "character": "Peter Quill / Star-Lord"
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": "Gamora"
+        },
+        {
+            "name": "Dave Bautista",
+            "character": "Drax"
+        },
+        {
+            "name": "Vin Diesel",
+            "character": "Baby Groot"
+        },
+        {
+            "name": "Bradley Cooper",
+            "character": "Rocket"
+        },
+        {
+            "name": "Michael Rooker",
+            "character": "Yondu"
+        },
+        {
+            "name": "Karen Gillan",
+            "character": "Nebula"
+        },
+        {
+            "name": "Pom Klementieff",
+            "character": "Mantis"
+        },
+        {
+            "name": "Sylvester Stallone",
+            "character": "Stakar Ogord"
+        },
+        {
+            "name": "Kurt Russell",
+            "character": "Ego"
+        },
+        {
+            "name": "Elizabeth Debicki",
+            "character": "Ayesha"
+        },
+        {
+            "name": "Chris Sullivan",
+            "character": "Taserface"
+        }
+    ],
+    "synopsis": "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 15
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201704
+}

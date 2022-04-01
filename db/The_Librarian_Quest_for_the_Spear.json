@@ -1,0 +1,75 @@
+{
+    "id": 97,
+    "title": "The Librarian: Quest for the Spear",
+    "poster": "librarian_1",
+    "trailer": "_LsPz8vCULE",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "TNT"
+    ],
+    "director": [
+        "Peter Winther"
+    ],
+    "producers": "Phillip M. Goldfarb, Gary Hamilton",
+    "writtens": "David Titcher",
+    "music": "Joseph LoDuca",
+    "cinema": "Alan Caso",
+    "year": 2004,
+    "time": 90,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Noah Wyle",
+            "character": "Flynn Carsen"
+        },
+        {
+            "name": "Sonya Walger",
+            "character": "Nicole Noone"
+        },
+        {
+            "name": "Bob Newhart",
+            "character": "Judson"
+        },
+        {
+            "name": "Kyle MacLachlan",
+            "character": "Edward Wilde"
+        },
+        {
+            "name": "Kelly Hu",
+            "character": "Lana"
+        },
+        {
+            "name": "David Dayan Fisher",
+            "character": "Rhodes"
+        },
+        {
+            "name": "Jane Curtin",
+            "character": "Charlene"
+        },
+        {
+            "name": "Olympia Dukakis",
+            "character": "Margie Carsen"
+        },
+        {
+            "name": "Lisa Brenner",
+            "character": "Debra"
+        }
+    ],
+    "synopsis": "A bookworm becomes the librarian. Same night a magical spear gets stolen and he's off to get some real life experience around the globe on his quest for the spear - starting with being thrown off a plane over Amazonas by his cute helper.",
+    "collections": [
+        "Fantasy"
+    ],
+    "parts": {
+        "title": "The Librarian",
+        "part": 1
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200412
+}

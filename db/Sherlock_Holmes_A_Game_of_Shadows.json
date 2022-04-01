@@ -1,0 +1,88 @@
+{
+    "id": 89,
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "poster": "sherlock_holmes_2",
+    "trailer": "V1OYiPa-eLg",
+    "genres": [
+        "Adventures",
+        "Detective"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "Guy Ritchie"
+    ],
+    "producers": "Joel Silver, Lionel Wigram",
+    "writtens": "Michele Mulroney, Kieran Mulroney",
+    "music": "Hans Zimmer",
+    "cinema": "Philippe Rousselot",
+    "year": 2011,
+    "time": 129,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 545,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Sherlock Holmes"
+        },
+        {
+            "name": "Jude Law",
+            "character": "Dr. John Watson"
+        },
+        {
+            "name": "Noomi Rapace",
+            "character": "Madam Simza Heron"
+        },
+        {
+            "name": "Rachel McAdams",
+            "character": "Irene Adler"
+        },
+        {
+            "name": "Jared Harris",
+            "character": "Professor James Moriarty"
+        },
+        {
+            "name": "Stephen Fry",
+            "character": "Mycroft Holmes"
+        },
+        {
+            "name": "Paul Anderson",
+            "character": "Colonel Sebastian Moran"
+        },
+        {
+            "name": "Kelly Reilly",
+            "character": "Mary Watson"
+        },
+        {
+            "name": "Geraldine James",
+            "character": "Mrs. Hudson"
+        },
+        {
+            "name": "Eddie Marsan",
+            "character": "Inspector Lestrade"
+        }
+    ],
+    "synopsis": "Detective Sherlock Holmes is on the trail of criminal mastermind Professor Moriarty, who is carrying out a string of random crimes across Europe.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "parts": {
+        "title": "Ritchie's Sherlock Holmes",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201112,
+    "characters": 4
+}

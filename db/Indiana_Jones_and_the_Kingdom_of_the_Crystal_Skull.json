@@ -1,0 +1,81 @@
+{
+    "id": 309,
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "poster": "indiana_jones_4",
+    "trailer": "WAdJf4wTC5Y",
+    "genres": [
+        "Adventures",
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Lucasfilm"
+    ],
+    "director": [
+        "Steven Spielberg"
+    ],
+    "producers": "Frank Marshall",
+    "writtens": "David Koepp, George Lucas (story)",
+    "music": "John Williams",
+    "cinema": "Janusz Kaminski",
+    "year": 2008,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 185,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 790,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Harrison Ford",
+            "character": "Dr. Henry «Indiana» Jones, Jr."
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": "Irina Spalko"
+        },
+        {
+            "name": "Karen Allen",
+            "character": "Marion Ravenwood"
+        },
+        {
+            "name": "Shia LaBeouf",
+            "character": "Mutt Williams"
+        },
+        {
+            "name": "Ray Winstone",
+            "character": "'Mac' George Michale"
+        },
+        {
+            "name": "John Hurt",
+            "character": "Professor Oxley"
+        }
+    ],
+    "synopsis": "In 1957, archaeologist and adventurer Dr. Henry \"Indiana\" Jones, Jr. is called back into action and becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+    "collections": [
+        "Mysteries of the Past"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costume"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Indiana Jones",
+        "part": 4
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200805
+}

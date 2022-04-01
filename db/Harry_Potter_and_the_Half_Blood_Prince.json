@@ -1,0 +1,85 @@
+{
+    "id": 42,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "poster": "harry_potter_6",
+    "trailer": "sg81Lts5kYY",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": [
+        "David Yates"
+    ],
+    "producers": "David Heyman, David Barron",
+    "writtens": "Steve Kloves",
+    "music": "Nicholas Hooper",
+    "cinema": "Bruno Delbonnel",
+    "year": 2009,
+    "time": 153,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 934,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "name": "Richard Harris",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": "Bellatrix Lestrage"
+        },
+        {
+            "name": "Jim Broadbent",
+            "character": "Horace Slughorn"
+        }
+    ],
+    "synopsis": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.",
+    "collections": [
+        "Harry Potter Universe"
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 8
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200907,
+    "characters": 6
+}

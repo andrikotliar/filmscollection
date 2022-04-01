@@ -1,0 +1,115 @@
+{
+    "id": 62,
+    "title": "Guardians of the Galaxy",
+    "poster": "guardians_of_the_galaxy",
+    "trailer": "d96cjJhvlMA",
+    "genres": [
+        "Sci-Fi",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "James Gunn"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "James Gunn, Nicole Perlman",
+    "music": "Tyler Bates",
+    "cinema": "Ben Davis",
+    "year": 2014,
+    "time": 122,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 196,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 773,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pratt",
+            "character": "Peter Quill / Star-Lord"
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": "Gamora"
+        },
+        {
+            "name": "Dave Bautista",
+            "character": "Drax"
+        },
+        {
+            "name": "Vin Diesel",
+            "character": "Groot"
+        },
+        {
+            "name": "Bradley Cooper",
+            "character": "Rocket"
+        },
+        {
+            "name": "Lee Pace",
+            "character": "Ronan"
+        },
+        {
+            "name": "Michael Rooker",
+            "character": "Yondu Udonta"
+        },
+        {
+            "name": "Karen Gillan",
+            "character": "Nebula"
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": "Korath"
+        },
+        {
+            "name": "John C. Reilly",
+            "character": "Corpsman Dey"
+        },
+        {
+            "name": "Glenn Close",
+            "character": "Nova Prime"
+        },
+        {
+            "name": "Benicio Del Toro",
+            "character": "The Collector"
+        }
+    ],
+    "synopsis": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Actor (Chris Pratt)",
+                "Best Director",
+                "Best Make-Up",
+                "Best Comic-to-Film Motion Picture "
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Hair & Makeup",
+                "Best Action Movie"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 10
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201407,
+    "characters": 12
+}

@@ -1,0 +1,140 @@
+{
+    "id": 70,
+    "title": "Black Panther",
+    "poster": "black_panther",
+    "trailer": "xjDjIWPwcPU",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": [
+        "Ryan Coogler"
+    ],
+    "producers": "Kevin Feige",
+    "writtens": "Ryan Coogler, Joe Robert Cole",
+    "music": "Ludwig Gцransson",
+    "cinema": "Rachel Morrison",
+    "year": 2018,
+    "time": 134,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.35,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Chadwick Boseman",
+            "character": "T'Challa / Black Panther"
+        },
+        {
+            "name": "Michael B. Jordan",
+            "character": "Erik Killmonger"
+        },
+        {
+            "name": "Lupita Nyung'o",
+            "character": "Nakia"
+        },
+        {
+            "name": "Danai Gurira",
+            "character": "Okoye"
+        },
+        {
+            "name": "Martin Freeman",
+            "character": "Everett K. Ross"
+        },
+        {
+            "name": "Daniel Kaluuya",
+            "character": "W'Kabi"
+        },
+        {
+            "name": "Letitia Wright",
+            "character": "Shuri"
+        },
+        {
+            "name": "Winston Duke",
+            "character": "M'Baku"
+        },
+        {
+            "name": "Sterling K. Brown",
+            "character": "N'Jobu"
+        },
+        {
+            "name": "Angela Bassett",
+            "character": "Ramonda"
+        },
+        {
+            "name": "Forest Whitaker",
+            "character": "Zuri"
+        },
+        {
+            "name": "Andy Serkis",
+            "character": "Ulysses Klaue"
+        }
+    ],
+    "synopsis": "After the death of his father, Prince T'Challa ascends to the throne of the small African country of Wakanda. T'Challa is also Black Panther, superhero. Now not only must he govern his country but defeat a dangerous adversary.",
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Music Written for Motion Pictures (Original Score)",
+                "Best Achievement in Costume Design",
+                "Best Achievement in Production Design"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Achievement in Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Comic-to-Film Motion Picture",
+                "Best Director",
+                "Best Supporting Actress",
+                "Best Production Design",
+                "Best Make-Up"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Movie of the Year",
+                "Best Performance in a Movie",
+                "Best Hero",
+                "Best Villain"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Visual Effects",
+                "Best Production Design",
+                "Best Costume Design"
+            ]
+        }
+    ],
+    "collections": [
+        "Marvel Cinematic Universe"
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 18
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201802,
+    "characters": 9
+}

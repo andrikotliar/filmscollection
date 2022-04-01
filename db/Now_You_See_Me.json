@@ -1,0 +1,80 @@
+{
+    "id": 175,
+    "title": "Now You See Me",
+    "poster": "now_you_see_me",
+    "trailer": "KzJNYYkkhzc",
+    "genres": [
+        "Crime",
+        "Thriller"
+    ],
+    "production": [
+        "Summit Entertainment"
+    ],
+    "director": [
+        "Louis Leterrier"
+    ],
+    "producers": "Bobby Cohen, Alex Kurtzman, Roberto Orci",
+    "writtens": "Ed Solomon, Boaz Yakin, Edward Ricourt",
+    "music": "Brian Tyler",
+    "cinema": "Mitchell Amundsen, Larry Fong",
+    "year": 2013,
+    "time": 115,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 352,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jesse Eisenberg",
+            "character": "J. Daniel Atlas"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Dylan Rhodes"
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": "Merritt McKinney"
+        },
+        {
+            "name": "Isla Fisher",
+            "character": "Henley Reeves"
+        },
+        {
+            "name": "Dave Franco",
+            "character": "Jack Wilder"
+        },
+        {
+            "name": "Mélanie Laurent",
+            "character": "Alma Dray"
+        },
+        {
+            "name": "Morgan Freeman",
+            "character": "Thaddeus Bradley"
+        },
+        {
+            "name": "Michael Caine",
+            "character": "Arthur Tressler"
+        },
+        {
+            "name": "Michael Kelly",
+            "character": "Agent Fuller"
+        }
+    ],
+    "synopsis": "An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+    "collections": [
+        "Agents and Detectives"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201305,
+    "characters": 8
+}

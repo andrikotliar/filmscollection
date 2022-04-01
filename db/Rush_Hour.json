@@ -1,0 +1,68 @@
+{
+    "id": 243,
+    "title": "Rush Hour",
+    "poster": "rush_hour",
+    "trailer": "JMiFsFQcFLE",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "New Line Cinema",
+        "Roger Birnbaum Productions"
+    ],
+    "director": [
+        "Brett Ratner"
+    ],
+    "producers": "Roger Birnbaum, Jonathan Glickman",
+    "writtens": "Jim Kouf, Ross LaManna",
+    "music": "Lalo Schifrin",
+    "cinema": "Adam Greenberg",
+    "year": 1998,
+    "time": 98,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 33,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 245,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jackie Chan",
+            "character": "Lee"
+        },
+        {
+            "name": "Chris Tucker",
+            "character": "James Carter"
+        },
+        {
+            "name": "Tom Wilkinson",
+            "character": "Thomas 'Juntao' Griffin"
+        },
+        {
+            "name": "Tzi Ma",
+            "character": "Solon Han"
+        },
+        {
+            "name": "Ken Leung",
+            "character": "Sang"
+        },
+        {
+            "name": "Elizabeth Peña",
+            "character": "Tania Johnson"
+        }
+    ],
+    "synopsis": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+    "collections": [
+        "Martial Arts"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 199809
+}

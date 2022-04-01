@@ -1,0 +1,63 @@
+{
+    "id": 319,
+    "title": "Moana",
+    "poster": "moana",
+    "trailer": "LKFuXETZUsI",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Animation"
+    ],
+    "director": [
+        "Ron Clements",
+        "John Musker"
+    ],
+    "producers": "Osnat Shurer",
+    "writtens": "Jared Bush",
+    "music": "Mark Mancina",
+    "year": 2016,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 644,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Auli'i Cravalho",
+            "character": "Moana"
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": "Maui"
+        },
+        {
+            "name": "Rachel House",
+            "character": "Gramma Tala"
+        },
+        {
+            "name": "Temuera Morrison",
+            "character": "Chief Tui"
+        },
+        {
+            "name": "Jemaine Clement",
+            "character": "Tamatoa"
+        }
+    ],
+    "synopsis": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 201612
+}

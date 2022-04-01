@@ -1,0 +1,99 @@
+{
+    "id": 166,
+    "title": "Speed",
+    "poster": "speed",
+    "trailer": "8piqd2BWeGI",
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "Jan de Bont"
+    ],
+    "producers": "Mark Gordon",
+    "writtens": "Graham Yost",
+    "music": "Mark Mancina",
+    "cinema": "Andrzej Bartkowiak",
+    "year": 1994,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 30,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 350,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": "Jack Traven"
+        },
+        {
+            "name": "Dennis Hopper",
+            "character": "Howard Payne"
+        },
+        {
+            "name": "Sandra Bullock",
+            "character": "Annie"
+        },
+        {
+            "name": "Joe Morton",
+            "character": "Capt. McMahon"
+        },
+        {
+            "name": "Jeff Daniels",
+            "character": "Harry"
+        },
+        {
+            "name": "Alan Ruck",
+            "character": "Stephens"
+        },
+        {
+            "name": "Glenn Plummer",
+            "character": "Jaguar Owner"
+        }
+    ],
+    "synopsis": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+    "collections": [
+        "Cars"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound",
+                "Best Sound Effects Editing"
+            ]
+        },
+        {
+            "title": "Golden Globes",
+            "nominations": [
+                "Best Director - Motion Picture"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Editing",
+                "Best Sound"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Actress"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 199406
+}

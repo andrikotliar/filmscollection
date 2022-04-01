@@ -1,0 +1,109 @@
+{
+    "id": 79,
+    "title": "Star Trek: Beyond",
+    "poster": "star_trek_3",
+    "trailer": "XRVD32rnzOw",
+    "genres": [
+        "Sci-Fi",
+        "SpaceOpera"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Bad Robot Productions"
+    ],
+    "director": [
+        "Justin Lin"
+    ],
+    "producers": "J.J. Abrams, Roberto Orci, Lindsey Weber, Justin Lin",
+    "writtens": "Simon Pegg, Doug Jung",
+    "music": "Michael Giacchino",
+    "cinema": "Stephen F. Windon",
+    "year": 2016,
+    "time": 122,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 185,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 343,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pine",
+            "character": "Captain James T. Kirk"
+        },
+        {
+            "name": "Zachary Quinto",
+            "character": "Commander Spock"
+        },
+        {
+            "name": "Karl Urban",
+            "character": "Doctor 'Bones' McCoy"
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": "Uhura"
+        },
+        {
+            "name": "Simon Pegg",
+            "character": "Montgomery 'Scotty' Scott"
+        },
+        {
+            "name": "John Cho",
+            "character": "Sulu"
+        },
+        {
+            "name": "Anton Yelchin",
+            "character": "Chekov"
+        },
+        {
+            "name": "Idris Elba",
+            "character": "Krall"
+        },
+        {
+            "name": "Sofia Boutella",
+            "character": "Jaylah"
+        },
+        {
+            "name": "Joe Taslim",
+            "character": "Manas"
+        },
+        {
+            "name": "Lydia Wilson",
+            "character": "Kalara"
+        },
+        {
+            "name": "Deep Roy",
+            "character": "Keenser"
+        },
+        {
+            "name": "Melissa Roxburgh",
+            "character": "Ensign Syl"
+        }
+    ],
+    "synopsis": "The crew of the USS Enterprise explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.",
+    "collections": [
+        "Space"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Trek",
+        "part": 3
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201607,
+    "characters": 7
+}

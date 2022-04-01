@@ -1,0 +1,79 @@
+{
+    "id": 204,
+    "title": "The Fifth Element",
+    "poster": "fifth_element",
+    "trailer": "fQ9RqgcR24g",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": [
+        "Luc Besson"
+    ],
+    "producers": "Patrice Ledoux",
+    "writtens": "Luc Besson, Robert Mark Kamen",
+    "music": "Éric Serra",
+    "cinema": "Thierry Arbogast",
+    "year": 1997,
+    "time": 126,
+    "countries": [
+        "France"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 264,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Bruce Willis",
+            "character": "Korben Dallas"
+        },
+        {
+            "name": "Gary Oldman",
+            "character": "Zorg"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Cornelius"
+        },
+        {
+            "name": "Milla Jovovich",
+            "character": "Leeloo"
+        },
+        {
+            "name": "Chris Tucker",
+            "character": "Ruby Rhod"
+        },
+        {
+            "name": "Luke Perry",
+            "character": "Billy"
+        },
+        {
+            "name": "Brion James",
+            "character": "General Munro"
+        }
+    ],
+    "synopsis": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+    "collections": [
+        "Disaster"
+    ],
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 199705
+}

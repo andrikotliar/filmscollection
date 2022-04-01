@@ -1,0 +1,78 @@
+{
+    "id": 280,
+    "title": "The Walk",
+    "poster": "walk",
+    "trailer": "4W6byFcD5uE",
+    "genres": [
+        "Adventures"
+    ],
+    "production": [
+        "Sony Pictures Entertainment"
+    ],
+    "director": [
+        "Robert Zemeckis"
+    ],
+    "producers": "Jack Rapke, Steve Starkey, Robert Zemeckis",
+    "writtens": "Robert Zemeckis, Christopher Browne",
+    "music": "Alan Silvestri",
+    "cinema": "Dariusz Wolski",
+    "year": 2015,
+    "time": 123,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 35,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 61,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Joseph Gordon-Levitt",
+            "character": "Philippe Petit"
+        },
+        {
+            "name": "Charlotte Le Bon",
+            "character": "Annie Allix"
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": "Papa Rudy"
+        },
+        {
+            "name": "Clément Sibony",
+            "character": "Jean-Louis"
+        },
+        {
+            "name": "James Badge Dale",
+            "character": "Jean-Pierre"
+        },
+        {
+            "name": "César Domboy",
+            "character": "Jeff"
+        },
+        {
+            "name": "Ben Schwartz",
+            "character": "Albert"
+        },
+        {
+            "name": "Benedict Samuel",
+            "character": "David"
+        },
+        {
+            "name": "Steve Valentine",
+            "character": "Barry Greenhouse"
+        }
+    ],
+    "synopsis": "In 1974, high-wire artist Philippe Petit recruits a team of people to help him realize his dream: to walk the immense void between the World Trade Center towers.",
+    "collections": [
+        "Life Story"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201509
+}

@@ -1,0 +1,62 @@
+{
+    "id": 209,
+    "title": "Foundation",
+    "poster": "foundation",
+    "genres": [
+        "Sci-Fi",
+        "Drama"
+    ],
+    "production": [
+        "Apple TV+"
+    ],
+    "director": [
+        "David S. Goyer",
+        "Josh Friedman"
+    ],
+    "producers": "David S. Goyer, Josh Friedman, David Ellison, Dana Goldberg, Marcy Ross, Robyn Asimov",
+    "writtens": "Lauren Bello, Leigh Dana Jackson, Victoria Morrow",
+    "music": "Bear McCreary",
+    "cinema": "Tico Poulakakis, Owen McPolin, Danny Ruhlmann, Cathal Watters, Steve Annis, Darran Tiernan",
+    "year": 2021,
+    "time": 100,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Jared Harris",
+            "character": "Hari Seldon"
+        },
+        {
+            "name": "Lee Pace",
+            "character": "Brother Day"
+        },
+        {
+            "name": "Lou Llobell",
+            "character": "Gaal Dornick"
+        },
+        {
+            "name": "Leah Harvey",
+            "character": "Salvor Hardin"
+        },
+        {
+            "name": "Laura Birn",
+            "character": "Demerzel"
+        }
+    ],
+    "synopsis": "A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire.",
+    "collections": [
+        "Future"
+    ],
+    "type": [
+        "Series"
+    ],
+    "sort": 202109,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": "10",
+            "trailer": "X4QYV5GTz7c"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": 218,
+    "title": "Ford v Ferrari",
+    "poster": "fordvsferrari",
+    "trailer": "zyYgDtY2AMY",
+    "genres": [
+        "Action",
+        "Drama",
+        "Biography"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": [
+        "James Mangold"
+    ],
+    "producers": "Peter Chernin, James Mangold, Jenno Topping",
+    "writtens": "Jez Butterworth, John-Henry Butterworth, Jason Keller",
+    "music": "Marco Beltrami, Buck Sanders",
+    "cinema": "Phedon Papamichael",
+    "year": 2019,
+    "time": 152,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 98,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 226,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Matt Damon",
+            "character": "Carroll Shelby"
+        },
+        {
+            "name": "Christian Bale",
+            "character": "Ken Miles"
+        },
+        {
+            "name": "Caitriona Balfe",
+            "character": "Mollie Miles"
+        },
+        {
+            "name": "Noah Jupe",
+            "character": "Peter Miles"
+        },
+        {
+            "name": "Tracy Letts",
+            "character": "Henry Ford II"
+        }
+    ],
+    "synopsis": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+    "collections": [
+        "Cars"
+    ],
+    "type": [
+        "Film"
+    ],
+    "sort": 201911
+}

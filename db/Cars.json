@@ -1,0 +1,80 @@
+{
+    "id": 311,
+    "title": "Cars",
+    "poster": "Cars",
+    "trailer": "SbXIj2T-_uk",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": [
+        "John Lasseter",
+        "Joe Ranft"
+    ],
+    "producers": "Darla K. Anderson",
+    "writtens": "Dan Fogelman, John Lasseter, Joe Ranft, Kiel Murray, Phil Lorin, Jorgen Klubien",
+    "music": "Randy Newman",
+    "cinema": "Jean-Claude Kalache",
+    "year": 2006,
+    "time": 117,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 462,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Owen Wilson",
+            "character": "Lightning McQueen"
+        },
+        {
+            "name": "Paul Newman",
+            "character": "Doc Hudson"
+        },
+        {
+            "name": "Bonnie Hunt",
+            "character": "Sally Carrera"
+        },
+        {
+            "name": "Larry the Cable Guy",
+            "character": "Mater"
+        },
+        {
+            "name": "Cheech Marin",
+            "character": "Ramone"
+        },
+        {
+            "name": "Tony Shalhoub",
+            "character": "Luigi"
+        },
+        {
+            "name": "Guido Quaroni",
+            "character": "Guido"
+        },
+        {
+            "name": "Michael Keaton",
+            "character": "Chick Hicks"
+        },
+        {
+            "name": "Richard Petty",
+            "character": "The King"
+        }
+    ],
+    "synopsis": "A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.",
+    "collections": [
+        "Cars"
+    ],
+    "type": [
+        "Animation"
+    ],
+    "sort": 200606
+}

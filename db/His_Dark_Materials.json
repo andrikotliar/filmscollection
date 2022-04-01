@@ -1,0 +1,101 @@
+{
+    "id": 275,
+    "title": "His Dark Materials",
+    "poster": "his_dark_materials",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "HBO"
+    ],
+    "director": [
+        "Amit Gupta",
+        "Weronika Tofilska",
+        "Jamie Childs",
+        "William McGregor",
+        "Leanne Welham",
+        "Otto Bathurst"
+    ],
+    "producers": "Stephen Haren, Laurie Borg, Brian Donovan",
+    "writtens": "Francesca Gardiner, Lydia Adetunji, Namsi Khan, Sarah Quintrell",
+    "music": "Lorne Balfe",
+    "cinema": "Gary Shaw, David Higgs, Joel Devlin, Justin Brown, David Luther, Petra Korner, Ole Bratt Birkeland, Suzie Lavelle",
+    "year": 2019,
+    "time": 900,
+    "countries": [
+        "UK",
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Dafne Keen",
+            "character": "Lyra Silvertongue"
+        },
+        {
+            "name": "Amir Wilson",
+            "character": "Will Parry"
+        },
+        {
+            "name": "Ruth Wilson",
+            "character": "Mrs Coulter"
+        },
+        {
+            "name": "Kit Connor",
+            "character": "Pantalaimon"
+        },
+        {
+            "name": "Simone Kirby",
+            "character": "Mary Malone"
+        },
+        {
+            "name": "Ariyon Bakare",
+            "character": "Carlo Boreal"
+        },
+        {
+            "name": "Will Keen",
+            "character": "Father MacPhail"
+        },
+        {
+            "name": "Lin-Manuel Miranda",
+            "character": "Lee Scoresby"
+        },
+        {
+            "name": "Joe Tandberg",
+            "character": "Iorek Byrnison"
+        },
+        {
+            "name": "James McAvoy",
+            "character": "Lord Asriel"
+        },
+        {
+            "name": "Andrew Scott",
+            "character": "John Parry"
+        },
+        {
+            "name": "Ruta Gedmintas",
+            "character": "Serafina Pekkala"
+        }
+    ],
+    "synopsis": "A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons.",
+    "collections": [
+        "Fantasy"
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 8,
+            "trailer": "APduGe1eLVI"
+        },
+        {
+            "season": 2,
+            "episodes": 7,
+            "trailer": "3CdQm6gLHUM"
+        }
+    ],
+    "sort": 201911,
+    "characters": 7
+}

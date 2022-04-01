@@ -1,0 +1,111 @@
+{
+    "id": 81,
+    "title": "X2",
+    "poster": "x_men_2",
+    "trailer": "luHcOYS1HxQ",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": [
+        "Bryan Singer"
+    ],
+    "producers": "Lauren Shuler Donner, Ralph Winter",
+    "writtens": "David Hayter, Michael Dougherty, Dan Harris",
+    "music": "John Ottman",
+    "cinema": "Newton Thomas Sigel",
+    "year": 2003,
+    "time": 133,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 408,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Patrick Stewart",
+            "character": "Professor Charles Xavier"
+        },
+        {
+            "name": "Hugh Jackman",
+            "character": "Logan / Wolverine"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Eric Lehnsherr / Magneto"
+        },
+        {
+            "name": "Halle Berry",
+            "character": "Ororo Munroe / Storm"
+        },
+        {
+            "name": "Famke Janssen",
+            "character": "Jean Grey"
+        },
+        {
+            "name": "James Marsden",
+            "character": "Scott Summers / Cyclops"
+        },
+        {
+            "name": "Anna Paquin",
+            "character": "Rogue"
+        },
+        {
+            "name": "Rebecca Romijn",
+            "character": "Raven Darkholme / Mystique"
+        },
+        {
+            "name": "Brian Cox",
+            "character": "William Stryker"
+        },
+        {
+            "name": "Alan Cumming",
+            "character": "Kurt Wagner / Nightcrawler"
+        },
+        {
+            "name": "Aaron Stanford",
+            "character": "John Allerdyce / Pyro"
+        },
+        {
+            "name": "Shawn Ashmore",
+            "character": "Bobby Drake / Ice Man"
+        }
+    ],
+    "synopsis": "When anti-mutant colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
+    "collections": [
+        "Superheroes"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Breakthrough Male Performance (Shawn Ashmore)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 200304,
+    "characters": 5
+}

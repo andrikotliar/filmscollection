@@ -1,0 +1,87 @@
+{
+    "id": 185,
+    "title": "Home Alone 2: Lost in New York",
+    "poster": "home_alone_2",
+    "trailer": "k0kJieJ1k6k",
+    "genres": [
+        "Comedy"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Hughes Entertainment"
+    ],
+    "director": [
+        "Chris Columbus"
+    ],
+    "producers": "John Hughes",
+    "writtens": "John Hughes",
+    "music": "John Williams",
+    "cinema": "Julio Macat",
+    "year": 1992,
+    "time": 120,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 20,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 359,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Macaulay Culkin",
+            "character": "Kevin"
+        },
+        {
+            "name": "Joe Pesci",
+            "character": "Harry"
+        },
+        {
+            "name": "Daniel Stern",
+            "character": "Marv"
+        },
+        {
+            "name": "Catherine O'Hara",
+            "character": "Kate"
+        },
+        {
+            "name": "John Heard",
+            "character": "Peter"
+        },
+        {
+            "name": "Devin Ratray",
+            "character": "Buzz"
+        },
+        {
+            "name": "Hillary Wolf",
+            "character": "Megan"
+        },
+        {
+            "name": "Michael C. Maronna",
+            "character": "Jeff"
+        },
+        {
+            "name": "Gerry Bamman",
+            "character": "Uncle Frank"
+        },
+        {
+            "name": "Terrie Snell",
+            "character": "Aunt Leslie"
+        }
+    ],
+    "synopsis": "One year after Kevin McCallister was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself stranded in New York City - and the same criminals are not far behind.",
+    "collections": [
+        "Legends"
+    ],
+    "parts": {
+        "title": "Home Alone",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 199211
+}

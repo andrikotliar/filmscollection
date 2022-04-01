@@ -1,0 +1,88 @@
+{
+    "id": 257,
+    "title": "The Hunger Games: Catching Fire",
+    "poster": "hunger_games_2",
+    "trailer": "EAzGXqJSDJ8",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Lionsgate"
+    ],
+    "director": [
+        "Francis Lawrence"
+    ],
+    "producers": "Nina Jacobson, Jon Kilik",
+    "writtens": "Simon Beaufoy, Michael Arndt",
+    "music": "James Newton Howard",
+    "cinema": "Jo Willems",
+    "year": 2013,
+    "time": 146,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 865,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jennifer Lawrence",
+            "character": "Katniss Everdeen"
+        },
+        {
+            "name": "Josh Hutcherson",
+            "character": "Peeta Mellark"
+        },
+        {
+            "name": "Liam Hemsworth",
+            "character": "Gale Hawthorne"
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": "Haymitch Abernathy"
+        },
+        {
+            "name": "Elizabeth Banks",
+            "character": "Effie Trinket"
+        },
+        {
+            "name": "Donald Sutherland",
+            "character": "President Coriolanus Snow"
+        }
+    ],
+    "synopsis": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+    "collections": [
+        "Dystopia"
+    ],
+    "awards": [
+        {
+            "title": "Empire Awards",
+            "nominations": [
+                "Best Thriller"
+            ]
+        },
+        {
+            "title": "MTV Movie + TV Awards",
+            "nominations": [
+                "Movie of the Year (2014)",
+                "Best Male Performance (Josh Hutcherson)",
+                "Best Female Performance (Jennifer Lawrence)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Hunger Games",
+        "part": 2
+    },
+    "type": [
+        "Film"
+    ],
+    "sort": 201311,
+    "characters": 2
+}

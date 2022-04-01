@@ -1,0 +1,108 @@
+{
+    "id": 303,
+    "title": "Chernobyl",
+    "poster": "chernobyl",
+    "genres": [
+        "Drama",
+        "History"
+    ],
+    "production": [
+        "HBO"
+    ],
+    "director": [
+        "Johan Renck"
+    ],
+    "producers": "Sanne Wohlenberg",
+    "writtens": "Craig Mazin",
+    "music": "Hildur Guðnadóttir",
+    "cinema": "Jakob Ihre",
+    "year": 2019,
+    "time": 330,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Jessie Buckley",
+            "character": "Lyudmilla Ignatenko"
+        },
+        {
+            "name": "Jared Harris",
+            "character": "Valery Legasov"
+        },
+        {
+            "name": "Stellan Skarsgard",
+            "character": "Boris Shcherbina"
+        },
+        {
+            "name": "Adam Nagaitis",
+            "character": "Vasily Ignatenko"
+        },
+        {
+            "name": "Emily Watson",
+            "character": "Ulana Khomyuk"
+        },
+        {
+            "name": "Paul Ritter",
+            "character": "Anatoly Dyatlov"
+        },
+        {
+            "name": "Robert Emms",
+            "character": "Leonid Toptunov"
+        },
+        {
+            "name": "Sam Troughton",
+            "character": "Alexandr Akimov"
+        }
+    ],
+    "synopsis": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+    "collections": [
+        "Real Events"
+    ],
+    "awards": [
+        {
+            "title": "Primetime Emmy",
+            "nominations": [
+                "Outstanding Limited Series",
+                "Outstanding Directing for a Limited Series",
+                "Outstanding Writing for a Limited Series",
+                "Outstanding Cinematography for a Limited Series or Movie",
+                "Outstanding Production Design for a Narrative Period or Fantasy Program (One Hour or More)",
+                "Outstanding Music Composition for a Limited Series",
+                "Movie",
+                "or Special (Original Dramatic Score)",
+                "Outstanding Single-Camera Picture Editing for a Limited Series or Movie",
+                "Outstanding Sound Mixing for a Limited Series or Movie",
+                "Outstanding Sound Editing for a Limited Series",
+                "Movie or Special",
+                "Outstanding Special Visual Effects in a Supporting Role,"
+            ]
+        },
+        {
+            "title": "BAFTA TV Award",
+            "nominations": [
+                "Leading Actor (Jared Harris)",
+                "Mini-Series",
+                "Supporting Actor (Stellan Skarsgård)"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Supporting Actor in a Limited Series or Movie Made for Television (Stellan Skarsgård)"
+            ]
+        }
+    ],
+    "type": [
+        "Series"
+    ],
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 5,
+            "trailer": "s9APLXM9Ei8"
+        }
+    ],
+    "sort": 201905
+}
