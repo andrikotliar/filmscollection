@@ -108,11 +108,12 @@
     gap: 15px;
   }
   .header__nav-list a {
-    color: #777;
+    color: #fff;
     text-transform: uppercase;
-  }
-  .header__nav-list a:hover {
-    color: var(--base-color);
+    padding: 5px 20px;
+    display: block;
+    background: var(--base-color);
+    border-radius: 50px;
   }
   .header__button {
     flex-shrink: 0;
