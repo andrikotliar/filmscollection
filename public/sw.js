@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_STATIC = 'static-cache-v1';
+const CACHE_STATIC = 'static-cache-v2';
 
 function installEvent(event) {
     async function cacheStaticFiles() {
