@@ -1,19 +1,11 @@
-# Коллекция фильмов
+# Films Collection
 
-Я большой фанат кино, а так же мне нравится вести список любимых фильмов и собирать о них информацию, это vue-приложение визуальное отображение выше сказанного.
+The app provides information about movies. You can search films by name or filter them by
+type, genres, years etc.
 
-Ознакомиться с приложением можно по [ссылке](https://filmscollection.netlify.app/).
-Каждый фильм списка содержит подробную информацию. Список фильмов можно отфильтровать по типу, жанрам, годам, странам и кинокомпаниям.
+### JSON-data
 
-Из страницы отдельного фильма можно перейти на страницы списка фильмов по актеру или режиссеру. Отдельно в основном списке фильмов выделены фильтры по  коллекциями и киновселенным.
-
-В шапке сайта находиться быстрый поиск по названию фильма.
-
-### JSON данные
-
-В приложения нету бэкенда и все данные берутся из одного огромного [json-файла](https://github.com/andrikotliar/filmscollection/blob/main/public/database/database.json), который грузиться при первом запуске через Fetch API.
-
-Данные в этот файл собираются из папки [/db/](https://github.com/andrikotliar/filmscollection/tree/main/db) node.js-[скриптом](https://github.com/andrikotliar/filmscollection/blob/main/createDB.js)
+All data stores in [json-files](https://github.com/andrikotliar/filmscollection/blob/main/public/database/database.json). They combine in the [database file](https://github.com/andrikotliar/filmscollection/tree/main/db) during building.
 
 ### Технологии
 
@@ -23,4 +15,4 @@
 - CSS
 - Node.js
 
-За сборку проекта отвечает [Netlify](https://www.netlify.com/).
+The project is hosted on [Netlify](https://www.netlify.com/).
