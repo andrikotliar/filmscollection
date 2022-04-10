@@ -33,10 +33,6 @@ const routes = [
         name: 'search',
         props: true,
         component: () => import('@/pages/SearchResults')
-      },
-      {
-        path: '/top',
-        component: () => import('@/pages/Top')
       }
     ]
 	},

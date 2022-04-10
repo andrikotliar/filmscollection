@@ -12,11 +12,6 @@
                 Collections
               </router-link>
             </li>
-            <li>
-              <router-link to="/top">
-                Top 10
-              </router-link>
-            </li>
           </ul>
           <button
             class="header__button header__sidebar-button"
