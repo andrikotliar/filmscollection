@@ -6,26 +6,12 @@
           <img src="@/images/logo/header-logo.svg" alt="Films Collection" class="header__logo-image">
         </router-link>
         <nav class="header__navigation">
-          <ul class="header__nav-list">
-            <li>
-              <router-link to="/collections">
-                Collections
-              </router-link>
-            </li>
-          </ul>
+          <router-link class="header__button header__collections-link" to="/collections"></router-link>
           <button
             class="header__button header__sidebar-button"
             @click="showSidebar"
             v-if="$route.name != 'film' && $route.name != 'collections-list'"
           >
-          </button>
-          <button
-            class="header__button header__menu-button"
-            @click="showMenu"
-          >
-            <span></span>
-            <span></span>
-            <span></span>
           </button>
           <button
             class="header__button header__search-button"
@@ -60,14 +46,6 @@
         const sidebar = document.querySelector('.sidebar');
         sidebar.classList.add('sidebar--active');
         document.body.style.overflow = 'hidden';
-      },
-      showMenu() {
-        const headerNavList = document.querySelector('.header__nav-list');
-        const headerMenuBtn = document.querySelector('.header__menu-button');
-        const headerSearch = document.querySelector('.header__search');
-        headerNavList.classList.toggle('header__nav-list--visible');
-        headerSearch.classList.toggle('header__search--visible');
-        headerMenuBtn.classList.toggle('header__menu-button--close');
       }
     },
     components: {
@@ -97,30 +75,19 @@
     align-items: center;
     gap: 30px;
   }
-  .header__nav-list {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-  }
-  .header__nav-list a {
-    color: #fff;
-    text-transform: uppercase;
-    padding: 5px 20px;
-    display: block;
-    background: var(--base-color);
-    border-radius: 50px;
-  }
   .header__button {
     flex-shrink: 0;
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
   }
-  .header__menu-button {
-    display: none;
+  .header__collections-link {
+    background-image: url('./../../images/icons/collections.svg');
   }
   .header__search-button {
+    width: 25px;
+    height: 25px;
     background-image: url('./../../images/icons/search.svg');
   }
   .header__search-button--close {
@@ -144,38 +111,8 @@
     .header__navigation {
       gap: 20px;
     }
-    .header__nav-list {
-      position: absolute;
-      top: calc(100% + 1px);
-      left: 0;
-      justify-content: center;
-      gap: 40px;
-      background-color: #fff;
-      width: 100%;
-      padding: 15px;
-      box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
-      z-index: 100;
-      visibility: hidden;
-    }
-    .header__nav-list--visible {
-      visibility: visible;
-    }
     .header__sidebar-button {
       display: block;
-      width: 30px;
-      height: 30px;
-    }
-    .header__search-button {
-      display: none;
-    }
-    .header__menu-button {
-      display: block;
-      background-image: url('./../../images/icons/menu.svg');
-      width: 30px;
-      height: 30px;
-    }
-    .header__menu-button--close {
-      background-image: url('./../../images/icons/close.svg');
     }
   }
 </style>
