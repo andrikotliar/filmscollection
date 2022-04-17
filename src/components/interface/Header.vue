@@ -6,7 +6,6 @@
           <img src="@/images/logo/header-logo.svg" alt="Films Collection" class="header__logo-image">
         </router-link>
         <nav class="header__navigation">
-          <router-link class="header__button header__collections-link" to="/collections"></router-link>
           <button
             class="header__button header__sidebar-button"
             @click="showSidebar"
