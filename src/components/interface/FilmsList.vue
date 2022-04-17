@@ -1,6 +1,5 @@
 <template>
   <div class="data">
-    <Skeleton v-if="!$store.state.films.length" />
     <div class="list">
       <router-link
         class="list-film"
@@ -31,7 +30,6 @@
   </div>
 </template>
 <script>
-  import Skeleton from '@/components/list/ListSkeleton';
   import ListPagination from '@/components/list/ListPagination';
 
   export default {
@@ -45,7 +43,6 @@
       }
     },
     components: {
-      Skeleton,
       ListPagination
     },
     methods: {
@@ -70,6 +67,10 @@
               let res = null;
               if(typeof film[property] == 'object') {
                 res = film[property].some(item => params[property].includes(item));
+              }
+              else if(typeof film[property] == 'string') {
+                const reg = new RegExp(params[property], "gi");
+                res = reg.test(film[property]);
               }
               else if(film.year) {
                 let min = Number(params.year.split('-')[0]);
