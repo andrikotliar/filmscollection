@@ -7,7 +7,7 @@
       <router-link
         class="film__creators-link"
         v-for="(name, index) in names"
-        :to="`/director/${name}`"
+        :to="`/?director=${name}`"
         :key="index"
       >
           <b>{{name}}</b>

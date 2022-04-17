@@ -7,7 +7,7 @@
     <h4 class="film__data-title">Countries of origin</h4>
     <FilmDataRow :data="data.countries" property="countries" />
     <h4 class="film__data-title">Collections</h4>
-    <FilmDataRow :data="data.collections" property="collections" link="true" />
+    <FilmDataRow :data="data.collections" property="collections" />
     <FilmMoney :budget="data.budget" :boxoffice="data.boxoffice" v-if="data.budget || data.boxoffice" />
   </div>
 </template>
