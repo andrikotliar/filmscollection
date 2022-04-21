@@ -46,7 +46,6 @@
           <FilmTrailer :trailer="film.trailer" v-if="!film.type.includes('Series')" />
           <SeriesSeasons :seasons="film.seasons" v-if="film.type.includes('Series')" />
           <FilmCast :actors="film.actors" />
-          <FilmCharacters :poster="film.poster" :characters="film.characters" v-if="film.characters" />
           <FilmAwards :awards="film.awards"  v-if="film.awards" />
         </div>
       </div>
@@ -101,7 +100,6 @@
       FilmCast,
       FilmTrailer: () => import('@/components/film/FilmTrailer'),
       SeriesSeasons: () => import('@/components/film/SeriesSeasons'),
-      FilmCharacters: () => import('@/components/film/FilmCharacters'),
       FilmAwards: () => import('@/components/film/FilmAwards'),
       FilmParts: () => import('@/components/film/FilmParts')
     }
