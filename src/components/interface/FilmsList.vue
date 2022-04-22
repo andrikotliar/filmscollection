@@ -31,12 +31,14 @@
 </template>
 <script>
   import ListPagination from '@/components/list/ListPagination';
+  import { filterFilms } from '@/mixins/filterFilms';
 
   export default {
     name: 'FilmsList',
     props: {
       list: Array
     },
+    mixins: [filterFilms],
     data() {
       return {
         perPage: 24
@@ -57,34 +59,6 @@
         let from = page * perPage - perPage;
         let to = page * perPage;
         return films.slice(from, to);
-      },
-      filterFilms(list) {
-        let newList = [];
-        let params = Object.assign({}, this.$route.query);
-        delete params.page;
-        list.filter((film) => {
-            let match = Object.keys(params).every(property => {
-              let res = null;
-              if(typeof film[property] == 'object') {
-                res = film[property].some(item => params[property].includes(item));
-              }
-              else if(typeof film[property] == 'string') {
-                const reg = new RegExp(params[property], "gi");
-                res = reg.test(film[property]);
-              }
-              else if(film.year) {
-                let min = Number(params.year.split('-')[0]);
-                let max = Number(params.year.split('-')[1]);
-
-                res = film.year >= min && film.year <= max;
-              }
-              return res;
-            });
-            if(match) {
-              newList.push(film);
-            }
-        });
-        return newList;
       }
     },
     computed: {
