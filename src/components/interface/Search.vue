@@ -23,7 +23,7 @@
     },
 		methods: {
 			searchFilm() {
-				this.$router.push(`/?title=${this.search}`);
+				this.$router.push(`/search/${this.search}`);
 				this.search = "";
         this.hideSearch();
 			},

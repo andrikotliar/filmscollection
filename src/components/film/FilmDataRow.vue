@@ -7,7 +7,7 @@
     >
       <router-link
         class="film__data-link"
-        :to="`/?${property}=${item}`"
+        :to="routeStyle"
       >
         {{item}}
       </router-link>
@@ -19,14 +19,15 @@
     name: 'FilmDataRow',
     props: {
       data: Array,
-      property: String
+      property: String,
+      link: Boolean
     },
     computed: {
       routeStyle() {
         if(this.link) {
-          return `/${this.property}/`
+          return `/${this.property}/${this.data}`
         }
-        return `/?${this.property}=`
+        return `/?${this.property}=${this.data}`
       }
     }
   }

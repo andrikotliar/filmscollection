@@ -12,9 +12,27 @@ const routes = [
       },
       {
         path: '/actor/:name',
-        name: 'actor',
+        name: 'actor-page',
         props: true,
         component: () => import('@/pages/Actor')
+      },
+      {
+        path: '/director/:director',
+        name: 'director-page',
+        props: true,
+        component: () => import('@/pages/Director')
+      },
+      {
+        path: '/collection/:collection',
+        props: true,
+        name: 'collections-list',
+        component: () => import('@/pages/Collection')
+      },
+      {
+        path: '/search/:title',
+        name: 'search-page',
+        props: true,
+        component: () => import('@/pages/SearchResults')
       }
     ]
 	},
