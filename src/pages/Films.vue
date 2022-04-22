@@ -1,8 +1,5 @@
 <template>
   <div class="content">
-    <PageTitle title="Directed by" :value="$route.query.director" v-if="$route.query.director" />
-    <PageTitle title="Results for" :value="$route.query.title" v-if="$route.query.title" />
-    <PageTitle title="Collection: " :value="$route.query.collections" v-if="$route.query.collections" />
     <FilmsList :list="films" />
   </div>
 </template>
@@ -17,8 +14,7 @@
       ...mapState(['films'])
     },
     components: {
-      FilmsList,
-      PageTitle: () => import('@/components/interface/PageTitle')
+      FilmsList
     },
     mounted() {
       document.title = "Films Collection";
