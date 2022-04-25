@@ -7,7 +7,7 @@ type, genres, years etc.
 
 ### JSON-data
 
-All data stores in [json-files](https://github.com/andrikotliar/filmscollection/tree/main/db). They combine in the single JSON-file during building by using node-script.
+All data stores in [json-files](https://github.com/andrikotliar/filmscollection/tree/main/db). They are combined in the single JSON-file during building by using node-script.
 
 ### Технологии
 
