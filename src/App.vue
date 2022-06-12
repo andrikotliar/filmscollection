@@ -10,17 +10,6 @@
   import Header from './components/interface/Header';
   import Footer from './components/interface/Footer';
 
-  if(process.env.NODE_ENV === 'production') {
-    if ("serviceWorker" in navigator) {
-        self.addEventListener("load", async () => {
-            const container = navigator.serviceWorker;
-            if (container.controller === null) {
-                await container.register("/sw.js");
-            }
-        });
-    }
-  }
-
   export default {
     name: 'App',
     components: {
